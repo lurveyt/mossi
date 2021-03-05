@@ -7,6 +7,12 @@ import os
 import urllib.request
 from bs4 import BeautifulSoup
 
+# files provided by Rich
+# TODO: get 'year' out of the code
+year = '76'
+roster_path = r"C:\Users\pants\PycharmProjects\FantasySports\mossi_stat\rosters"
+
+
 def file_writer(wfile, d):
     """write data dictionary to wfile
     :param wfile: file name to write into
@@ -14,20 +20,16 @@ def file_writer(wfile, d):
     :param d: dictionary of keys
     :type d: dict
     """
-    with open(wfile, 'w') as W:
+    with open(os.path.join(roster_path, wfile), 'w') as W:
         for k in sorted(d.keys()):  # for each team
             for val in d.get(k):    # for each player
                 W.write(';;'.join([k, val]) + "\n")
 
 
-# files provided by Rich
-year = '75'
-my_path = r"C:\Users\pants\PycharmProjects\FantasySports"
-
 files = []
-for f in os.listdir(my_path):
+for f in os.listdir(roster_path):
     if 'roster' in f.lower() and year in f.lower() and f.lower().endswith('html'):
-        files.append(os.path.abspath(f))
+        files.append(os.path.join(roster_path, f))
 
 # global dictionaries
 d_pitch_all = {}
