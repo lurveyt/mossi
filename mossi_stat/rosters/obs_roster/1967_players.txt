@@ -1,0 +1,301 @@
+Bubbaville Brewzers;PLAYERS - 18;Pos;D;B;Sp;Other Positions
+Bubbaville Brewzers;AZCUE, Joe;C;8;R;4; 
+Bubbaville Brewzers;SIMS, Duke;C;7;L;5; 
+Bubbaville Brewzers;DUNCAN, Dave;C;6;R;7; 
+Bubbaville Brewzers;CLENDENON, Donn;1B;3;R;16; 
+Bubbaville Brewzers;RUDI, Joe;1B+;2;R;15;OF1
+Bubbaville Brewzers;McAULIFFE, Dick;2B+;8;L;14;SS7
+Bubbaville Brewzers;ROJAS, Cookie;2B+;8;R;13;P1, C5, 3B3, SS7, OF2
+Bubbaville Brewzers;COGGINS, Frank;2B;6;B;12; 
+Bubbaville Brewzers;GOTAY, Julio;2B+;6;R;17;3B3, SS7
+Bubbaville Brewzers;BAILEY, Bob;3B+;3;R;12;1B2, SS6, OF1
+Bubbaville Brewzers;AMARO, Ruben;SS+;9;R;15;1B4, 3B3
+Bubbaville Brewzers;MONDAY, Rick;OF;2;L;17; 
+Bubbaville Brewzers;VALENTINE, Fred;OF;2;B;17; 
+Bubbaville Brewzers;BLEFARY, Curt;OF+;1;L;5;1B2
+Bubbaville Brewzers;BROWN, Ollie;OF;1;R;11; 
+Bubbaville Brewzers;CARTY, Rico;OF+;1;R;5;1B2
+Bubbaville Brewzers;HOWARD, Frank;OF+;1;R;4;1B2
+Bubbaville Brewzers;MAY, Dave;OF;1;L;14; 
+Charm City Rookies;PLAYERS - 18;Pos;D;B;Sp;Other Positions
+Charm City Rookies;McCARVER, Tim;C;8;L;15; 
+Charm City Rookies;CASH, Norm;1B;4;L;6; 
+Charm City Rookies;HORTON, Tony;1B;2;R;8; 
+Charm City Rookies;JOHNSON, Davey;2B+;8;R;14;3B3
+Charm City Rookies;OLIVER, Nate;2B+;6;R;17;3B3, SS7, OF1
+Charm City Rookies;SANTO, Ron;3B;5;R;5; 
+Charm City Rookies;PAGAN, Jose;3B+;4;R;15;C5, 2B6, SS7, OF1
+Charm City Rookies;WILLS, Maury;3B+;4;B;18;SS7
+Charm City Rookies;MENKE, Denis;SS+;8;R;12;3B4
+Charm City Rookies;FAIRLY, Ron;OF+;2;L;5;1B3
+Charm City Rookies;HALL, Jimmie;OF;2;L;17; 
+Charm City Rookies;PHILLIPS, Adolfo;OF;2;R;18; 
+Charm City Rookies;TRESH, Tom;OF;2;B;13; 
+Charm City Rookies;WHITAKER, Steve;OF;2;L;11; 
+Charm City Rookies;JOHNSTONE, Jay;OF;1;L;16; 
+Charm City Rookies;MAYE, Lee;OF+;1;L;16;2B5
+Charm City Rookies;STAHL, Larry;OF;1;L;16; 
+Charm City Rookies;SWOBODA, Ron;OF+;1;R;10;1B2
+Crown Hill Crabbers;PLAYERS - 20;Pos;D;B;Sp;Other Positions
+Crown Hill Crabbers;BATEMAN, John;C;7;R;4; 
+Crown Hill Crabbers;BRAND, Ron;C+;7;R;16;2B5, OF1
+Crown Hill Crabbers;OLIVER, Gene;C+;7;R;4;1B2
+Crown Hill Crabbers;CEPEDA, Orlando;1B;4;R;10; 
+Crown Hill Crabbers;RADER, Doug;1B+;3;R;14;3B4
+Crown Hill Crabbers;ROBERTSON, Bob;1B;2;R;7; 
+Crown Hill Crabbers;WOODWARD, Woody;2B+;8;R;13;SS8
+Crown Hill Crabbers;MILLAN, Felix;2B;7;R;15; 
+Crown Hill Crabbers;SAVERINE, Bob;2B+;6;B;18;3B3, SS6, OF1
+Crown Hill Crabbers;DAVENPORT, Jim;3B+;5;R;8;2B7, SS8
+Crown Hill Crabbers;ROLLINS, Rich;3B;4;R;10; 
+Crown Hill Crabbers;BROWN, Larry;SS;8;R;16; 
+Crown Hill Crabbers;KENNEY, Jerry;SS;7;L;17; 
+Crown Hill Crabbers;GOSGER, Jim;OF;2;L;16; 
+Crown Hill Crabbers;GREEN, Lenny;OF;2;L;15; 
+Crown Hill Crabbers;HICKMAN, Jim;OF+;2;R;12;P1, 1B2, 3B3
+Crown Hill Crabbers;OLIVA, Tony;OF;2;L;17; 
+Crown Hill Crabbers;SNYDER, Russ;OF;2;L;15; 
+Crown Hill Crabbers;GASTON, Cito;OF;1;R;15; 
+Crown Hill Crabbers;PETERSON, Cap;OF;1;R;8; 
+Detroit Dirtbags;PLAYERS - 20;Pos;D;B;Sp;Other Positions
+Detroit Dirtbags;HUNDLEY, Randy;C;8;R;15; 
+Detroit Dirtbags;ETCHEBARREN, Andy;C;7;R;9; 
+Detroit Dirtbags;FOSSE, Ray;C;6;R;8; 
+Detroit Dirtbags;FRANCONA, Tito;1B+;3;L;5;OF2
+Detroit Dirtbags;POWELL, Boog;1B;2;L;4; 
+Detroit Dirtbags;CAUSEY, Wayne;2B+;7;L;9;SS7
+Detroit Dirtbags;de la HOZ, Mike;2B+;7;R;5;3B4, SS6
+Detroit Dirtbags;DONALDSON, John;2B+;7;L;14;SS6
+Detroit Dirtbags;SCHAAL, Paul;3B+;5;R;11;2B6, SS7
+Detroit Dirtbags;JONES, Dalton;3B+;3;L;10;1B2, 2B6
+Detroit Dirtbags;HARRELSON, Bud;SS;8;B;17; 
+Detroit Dirtbags;MICHAEL, Gene;SS;8;B;13; 
+Detroit Dirtbags;POPOVICH, Paul;SS+;8;R;10;2B7, 3B3
+Detroit Dirtbags;KUBIAK, Ted;SS+;7;B;10;2B6, 3B3
+Detroit Dirtbags;HARPER, Tommy;OF;2;R;19; 
+Detroit Dirtbags;COMER, Wayne;OF;1;R;15; 
+Detroit Dirtbags;CRAWFORD, Willie;OF;1;L;17; 
+Detroit Dirtbags;JACKSON, Reggie;OF;1;L;18; 
+Detroit Dirtbags;JONES, Cleon;OF;1;R;16; 
+Detroit Dirtbags;KOSCO, Andy;OF;1;R;8; 
+Germantown Toros;PLAYERS - 17;Pos;D;B;Sp;Other Positions
+Germantown Toros;HALLER, Tom;C+;8;L;6;OF1
+Germantown Toros;MAY, Jerry;C;7;R;6; 
+Germantown Toros;SANGUILLEN, Manny;C;6;R;14; 
+Germantown Toros;KILLEBREW, Harmon;1B+;3;R;4;3B3
+Germantown Toros;EPSTEIN, Mike;1B;2;L;4; 
+Germantown Toros;MANTLE, Mickey;1B;2;B;11; 
+Germantown Toros;ADAIR, Jerry;2B+;8;R;11;3B3, SS8
+Germantown Toros;ANDREWS, Mike;2B+;7;R;13;SS6
+Germantown Toros;KESSINGER, Don;SS;9;B;18; 
+Germantown Toros;MARTINEZ, Marty;SS+;6;B;17;C5, 1B2, 2B6, 3B3
+Germantown Toros;GONZALEZ, Tony;OF;2;L;16; 
+Germantown Toros;LOCK, Don;OF;2;R;12; 
+Germantown Toros;MORTON, Bubba;OF;2;R;9; 
+Germantown Toros;SMITH, Reggie;OF+;2;B;17;2B6
+Germantown Toros;UHLAENDER, Ted;OF;2;L;16; 
+Germantown Toros;ALLISON, Bob;OF;1;R;14; 
+Germantown Toros;BROWN, Gates;OF;1;L;15; 
+Melbourne Thunder;PLAYERS - 18;Pos;D;B;Sp;Other Positions
+Melbourne Thunder;CASANOVA, Paul;C;8;R;15; 
+Melbourne Thunder;HANEY, Larry;C;7;R;8; 
+Melbourne Thunder;McNERTNEY, Jerry;C;6;R;5; 
+Melbourne Thunder;SCOTT, George;1B+;4;R;16;3B3
+Melbourne Thunder;KRANEPOOL, Ed;1B;3;L;7; 
+Melbourne Thunder;JAVIER, Julian;2B;8;R;17; 
+Melbourne Thunder;BUCHEK, Jerry;2B+;7;R;12;3B3, SS7
+Melbourne Thunder;WERT, Don;3B+;5;R;10;SS6
+Melbourne Thunder;LEFEBVRE, Jim;3B+;3;B;6;1B2, 2B7
+Melbourne Thunder;HANSEN, Ron;SS;9;R;5; 
+Melbourne Thunder;WINE, Bobby;SS+;9;R;9;1B3, 3B3
+Melbourne Thunder;SUTHERLAND, Gary;SS+;6;R;9;OF1
+Melbourne Thunder;HERSHBERGER, Mike;OF;3;R;17; 
+Melbourne Thunder;MAYS, Willie;OF;3;R;17; 
+Melbourne Thunder;DAVIS, Ron;OF;2;R;17; 
+Melbourne Thunder;WAGNER, Leon;OF;2;L;6; 
+Melbourne Thunder;HORTON, Willie;OF;1;R;6; 
+Melbourne Thunder;LUM, Mike;OF;1;L;15; 
+Mill Creek Crankers;PLAYERS - 17;Pos;D;B;Sp;Other Positions
+Mill Creek Crankers;ROSEBORO, Johnny;C;8;L;12; 
+Mill Creek Crankers;BARTON, Bob;C;7;R;7; 
+Mill Creek Crankers;GIBSON, Russ;C;7;R;5; 
+Mill Creek Crankers;FRENCH, Jim;C;6;L;5; 
+Mill Creek Crankers;PARKER, Wes;1B+;5;B;17;OF2
+Mill Creek Crankers;McCRAW, Tommy;1B+;4;L;18;OF1
+Mill Creek Crankers;HIATT, Jack;1B+;2;R;5;C5, OF1
+Mill Creek Crankers;BOSWELL, Ken;2B+;5;L;15;3B3
+Mill Creek Crankers;ROBINSON, Brooks;3B;6;R;6; 
+Mill Creek Crankers;BUFORD, Don;3B+;4;B;18;2B6, OF1
+Mill Creek Crankers;ALOMAR, Sandy;SS+;8;B;16;2B7, 3B3
+Mill Creek Crankers;CAMPANERIS, Bert;SS;8;R;19; 
+Mill Creek Crankers;STANLEY, Mickey;OF+;3;R;16;1B2
+Mill Creek Crankers;DAVIS, Willie;OF;2;L;19; 
+Mill Creek Crankers;JONES, Mack;OF;2;L;17; 
+Mill Creek Crankers;NORTHRUP, Jim;OF;2;L;16; 
+Mill Creek Crankers;TOLAN, Bobby;OF+;2;L;18;1B2
+Milwaukee Lagers;PLAYERS - 17;Pos;D;B;Sp;Other Positions
+Milwaukee Lagers;DALRYMPLE, Clay;C;8;L;3; 
+Milwaukee Lagers;ROOF, Phil;C;8;R;5; 
+Milwaukee Lagers;DIETZ, Dick;C;6;R;5; 
+Milwaukee Lagers;TILLMAN, Bob;C;6;R;3; 
+Milwaukee Lagers;KIRKPATRICK, Ed;C+;5;L;11;OF1
+Milwaukee Lagers;REESE, Rich;1B+;4;L;9;OF1
+Milwaukee Lagers;MINCHER, Don;1B+;3;L;4;OF1
+Milwaukee Lagers;WEIS, Al;2B+;8;B;18;SS8
+Milwaukee Lagers;ALLEN, Bernie;2B;7;L;10; 
+Milwaukee Lagers;MORGAN, Joe;2B+;7;L;19;OF1
+Milwaukee Lagers;ASPROMONTE, Bob;3B;4;R;5; 
+Milwaukee Lagers;FOY, Joe;3B+;3;R;9;OF1
+Milwaukee Lagers;FREGOSI, Jim;SS;9;R;16; 
+Milwaukee Lagers;BERRY, Ken;OF;3;R;17; 
+Milwaukee Lagers;BLAIR, Paul;OF;3;R;17; 
+Milwaukee Lagers;STAUB, Rusty;OF;1;L;11; 
+Milwaukee Lagers;WARD, Pete;OF+;1;L;9;1B2, 3B3
+Pasco Buffet;PLAYERS - 15;Pos;D;B;Sp;Other Positions
+Pasco Buffet;RODGERS, Bob;C+;8;B;13;OF1
+Pasco Buffet;TORBORG, Jeff;C;7;R;5; 
+Pasco Buffet;PRICE, Jim;C;6;R;7; 
+Pasco Buffet;MAZEROSKI, Bill;2B;9;R;13; 
+Pasco Buffet;HEISE, Bob;2B+;6;R;15;3B3, SS6
+Pasco Buffet;ALLEN, Rich;3B+;3;R;18;2B6, SS6
+Pasco Buffet;HART, Jim Ray;3B+;3;R;15;OF1
+Pasco Buffet;APARICIO, Luis;SS;9;R;18; 
+Pasco Buffet;JACKSON, Sonny;SS;7;L;18; 
+Pasco Buffet;AARON, Henry;OF+;3;R;16;2B5
+Pasco Buffet;CONIGLIARO, Tony;OF;2;R;17; 
+Pasco Buffet;MOTA, Manny;OF+;2;R;17;3B3
+Pasco Buffet;PEPITONE, Joe;OF+;2;L;11;1B3
+Pasco Buffet;JOHNSON, Alex;OF;1;R;17; 
+Pasco Buffet;SCHEINBLUM, Richie;OF;1;B;7; 
+Philadelphia J's;PLAYERS - 15;Pos;D;B;Sp;Other Positions
+Philadelphia J's;GIBBS, Jake;C;7;L;13; 
+Philadelphia J's;NIXON, Russ;C;7;L;4; 
+Philadelphia J's;RICKETTS, Dave;C;6;B;4; 
+Philadelphia J's;HOWSER, Dick;2B+;7;R;17;3B3, SS7
+Philadelphia J's;BOYER, Clete;3B+;6;R;7;SS7
+Philadelphia J's;PEREZ, Tony;3B+;3;R;6;1B3, 2B5
+Philadelphia J's;SHANNON, Mike;3B+;3;R;15;OF2
+Philadelphia J's;CARDENAS, Leo;SS;9;R;17; 
+Philadelphia J's;OYLER, Ray;SS;9;R;9; 
+Philadelphia J's;CALLISON, Johnny;OF;3;L;16; 
+Philadelphia J's;ALOU, Matty;OF+;2;L;17;1B2
+Philadelphia J's;BROCK, Lou;OF;2;L;19; 
+Philadelphia J's;ROSE, Pete;OF+;2;B;16;2B7
+Philadelphia J's;WILLIAMS, Billy;OF;2;L;16; 
+Philadelphia J's;WILLIAMS, Walt;OF;1;R;16; 
+Portland Peaks;PLAYERS - 16;Pos;D;B;Sp;Other Positions
+Portland Peaks;HOWARD, Elston;C+;8;R;3;1B2
+Portland Peaks;ZIMMERMAN, Jerry;C;8;R;3; 
+Portland Peaks;STEPHENSON, John;C;6;L;4; 
+Portland Peaks;McFARLANE, Orlando;C;5;R;12; 
+Portland Peaks;WHITE, Bill;1B;4;L;4; 
+Portland Peaks;ALOU, Felipe;1B+;3;R;17;OF2
+Portland Peaks;CHANCE, Bob;1B;2;L;4; 
+Portland Peaks;MATHEWS, Eddie;1B+;2;L;12;3B3
+Portland Peaks;RUIZ, Hiraldo;2B+;6;B;18;3B3, SS7, OF1
+Portland Peaks;RODRIGUEZ, Aurelio;3B;5;R;12; 
+Portland Peaks;VERSALLES, Zoilo;SS;8;R;18; 
+Portland Peaks;LILLIS, Bob;SS+;7;R;13;2B6, 3B3
+Portland Peaks;CLEMENTE, Roberto;OF;3;R;17; 
+Portland Peaks;LANDIS, Jim;OF;3;R;15; 
+Portland Peaks;JONES, Clarence;OF+;1;L;9;1B2
+Portland Peaks;STARGELL, Willie;OF+;1;L;7;1B2
+Scottsburgh Spiders;PLAYERS - 16;Pos;D;B;Sp;Other Positions
+Scottsburgh Spiders;BATTEY, Earl;C;8;R;2; 
+Scottsburgh Spiders;TORRE, Joe;C+;8;R;5;1B3
+Scottsburgh Spiders;HERRMANN, Ed;C;6;L;3; 
+Scottsburgh Spiders;SULLIVAN, John;C;6;L;4; 
+Scottsburgh Spiders;McCOVEY, Willie;1B;3;L;5; 
+Scottsburgh Spiders;WEBSTER, Ramon;1B+;2;L;11;OF1
+Scottsburgh Spiders;CLARKE, Horace;2B;8;B;18; 
+Scottsburgh Spiders;HELMS, Tommy;2B+;7;R;15;SS7
+Scottsburgh Spiders;ALVIS, Max;3B;5;R;15; 
+Scottsburgh Spiders;BANDO, Sal;3B;4;R;7; 
+Scottsburgh Spiders;CATER, Danny;3B+;3;R;6;1B3, OF1
+Scottsburgh Spiders;LANIER, Hal;SS+;8;B;12;2B7
+Scottsburgh Spiders;PINSON, Vada;OF;3;L;19; 
+Scottsburgh Spiders;YASTRZEMSKI, Carl;OF;3;L;14; 
+Scottsburgh Spiders;JOHNSON, Lou;OF;2;R;16; 
+Scottsburgh Spiders;OTIS, Amos;OF+;2;R;17;3B3
+Seattle Sluggers;PLAYERS - 19;Pos;D;B;Sp;Other Positions
+Seattle Sluggers;GROTE, Jerry;C;8;R;8; 
+Seattle Sluggers;JOSEPHSON, Duane;C;6;R;8; 
+Seattle Sluggers;HARRELSON, Ken;1B+;3;R;13;OF1
+Seattle Sluggers;FUENTES, Tito;2B+;7;R;17;SS7
+Seattle Sluggers;HUNT, Ron;2B+;7;R;12;3B3
+Seattle Sluggers;CHARLES, Ed;3B;3;R;16; 
+Seattle Sluggers;GREEN, Dick;3B+;3;R;12;1B2, 2B7, SS6
+Seattle Sluggers;SPIEZIO, Ed;3B+;3;R;10;OF1
+Seattle Sluggers;BRINKMAN, Ed;SS;9;R;12; 
+Seattle Sluggers;CULLEN, Tim;SS+;7;R;10;2B6, 3B3
+Seattle Sluggers;MARIS, Roger;OF;3;L;9; 
+Seattle Sluggers;HENDERSON, Ken;OF;2;B;17; 
+Seattle Sluggers;ROBINSON, Floyd;OF;2;L;15; 
+Seattle Sluggers;STROUD, Ed;OF;2;L;17; 
+Seattle Sluggers;BRIGGS, Johnny;OF;1;L;17; 
+Seattle Sluggers;GABRIELSON, Len;OF;1;L;14; 
+Seattle Sluggers;KELLY, Pat;OF;1;L;18; 
+Seattle Sluggers;MILLER, Norm;OF;1;L;12; 
+Seattle Sluggers;WHITE, Roy;OF+;1;B;18;3B3
+Tardtown Twin Killers;PLAYERS - 20;Pos;D;B;Sp;Other Positions
+Tardtown Twin Killers;FREEHAN, Bill;C+;9;R;15;1B2
+Tardtown Twin Killers;PAVLETICH, Don;C+;7;R;5;1B2, 3B3
+Tardtown Twin Killers;SUAREZ, Ken;C;6;R;8; 
+Tardtown Twin Killers;TAYLOR, Bob;C;6;R;4; 
+Tardtown Twin Killers;GOOSSEN, Greg;C;5;R;4; 
+Tardtown Twin Killers;HEGAN, Mike;1B+;4;L;17;OF1
+Tardtown Twin Killers;WATSON, Bob;1B;2;R;6; 
+Tardtown Twin Killers;KNOOP, Bobby;2B;9;R;10; 
+Tardtown Twin Killers;CAREW, Rod;2B;8;L;18; 
+Tardtown Twin Killers;BOYER, Ken;3B+;5;R;12;1B2
+Tardtown Twin Killers;PETROCELLI, Rico;SS;9;R;6; 
+Tardtown Twin Killers;BELANGER, Mark;SS+;8;R;17;2B7, 3B4
+Tardtown Twin Killers;TRACEWSKI, Dick;SS+;8;R;16;2B7, 3B4
+Tardtown Twin Killers;FLOOD, Curt;OF;3;R;17; 
+Tardtown Twin Killers;KALINE, Al;OF;3;R;13; 
+Tardtown Twin Killers;AGEE, Tommie;OF;2;R;19; 
+Tardtown Twin Killers;ROBINSON, Frank;OF+;2;R;17;1B2
+Tardtown Twin Killers;SAVAGE, Ted;OF+;2;R;18;3B3
+Tardtown Twin Killers;BOND, Walt;OF;1;L;6; 
+Tardtown Twin Killers;FERRARA, Al;OF;1;R;4; 
+Tri City Atomics;PLAYERS - 19;Pos;D;B;Sp;Other Positions
+Tri City Atomics;RYAN, Mike;C;8;R;4; 
+Tri City Atomics;UECKER, Bob;C;8;R;5; 
+Tri City Atomics;PAGLIARONI, Jim;C;7;R;3; 
+Tri City Atomics;BENCH, Johnny;C;6;R;14; 
+Tri City Atomics;ROZNOVSKY, Vic;C;6;L;4; 
+Tri City Atomics;JOHNSON, Deron;1B+;3;R;4;3B3
+Tri City Atomics;MAY, Lee;1B+;3;R;7;OF1
+Tri City Atomics;TAYLOR, Tony;1B+;3;R;17;2B8, 3B4, SS6
+Tri City Atomics;GONZALEZ, Pedro;2B+;7;R;17;1B2, 3B3, SS7
+Tri City Atomics;JOHNSON, Bob;2B+;7;R;14;1B2, 3B3, SS7
+Tri City Atomics;NETTLES, Graig;3B;3;L;9; 
+Tri City Atomics;SMITH, Charley;3B;3;R;10; 
+Tri City Atomics;SCHOFIELD, Dick;SS+;8;B;12;2B6, 3B3
+Tri City Atomics;DAVALILLO, Vic;OF;3;L;17; 
+Tri City Atomics;COLAVITO, Rocky;OF;2;R;3; 
+Tri City Atomics;REPOZ, Roger;OF;2;L;17; 
+Tri City Atomics;ROBINSON, Bill;OF;2;R;14; 
+Tri City Atomics;ALOU, Jesus;OF;1;R;16; 
+Tri City Atomics;DAVIS, Tommy;OF+;1;R;14;1B2
+Vegas Gamblerz;PLAYERS - 20;Pos;D;B;Sp;Other Positions
+Vegas Gamblerz;EDWARDS, Johnny;C;8;L;6; 
+Vegas Gamblerz;FERNANDEZ, Frank;C+;7;R;5;OF1
+Vegas Gamblerz;MARTIN, J.C.;C+;7;L;7;1B2
+Vegas Gamblerz;BANKS, Ernie;1B;4;R;8; 
+Vegas Gamblerz;WHITFIELD, Fred;1B;3;L;4; 
+Vegas Gamblerz;BECKERT, Glenn;2B;7;R;14; 
+Vegas Gamblerz;QUILICI, Frank;2B+;7;R;14;3B4, SS7
+Vegas Gamblerz;HELD, Woodie;3B+;4;R;8;2B6, SS7, OF2
+Vegas Gamblerz;McMULLEN, Ken;3B;4;R;4; 
+Vegas Gamblerz;SATRIANO, Tom;3B+;4;L;6;C7, 1B2, 2B6
+Vegas Gamblerz;ALLEY, Gene;SS;9;R;17; 
+Vegas Gamblerz;MAXVILL, Dal;SS+;9;R;16;2B7
+Vegas Gamblerz;CARDENAL, Jose;OF;2;R;18; 
+Vegas Gamblerz;HINTON, Chuck;OF+;2;R;17;2B5
+Vegas Gamblerz;TOVAR, Cesar;OF+;2;R;18;2B7, 3B4, SS6
+Vegas Gamblerz;WYNN, Jim;OF;2;R;18; 
+Vegas Gamblerz;JIMENEZ, Manny;OF;1;L;4; 
+Vegas Gamblerz;MOTTON, Curt;OF;1;R;14; 
+Vegas Gamblerz;REICHARDT, Rick;OF;1;R;16; 
+Vegas Gamblerz;SHAMSKY, Art;OF;1;L;6; 
