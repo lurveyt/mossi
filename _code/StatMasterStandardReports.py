@@ -33,7 +33,7 @@ def leftClick():
     time.sleep(SLEEP)
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
     time.sleep(SLEEP)
-    print "mouse Left Click."  # completely optional. But nice for debugging purposes.
+    print("mouse Left Click.")  # completely optional. But nice for debugging purposes.
 
 
 def rightClick():
@@ -41,18 +41,18 @@ def rightClick():
     time.sleep(SLEEP)
     win32api.mouse_event(win32con.MOUSEEVENTF_RIGHTUP, 0, 0)
     time.sleep(SLEEP)
-    print "mouse Right Click."  # completely optional. But nice for debugging purposes.
+    print("mouse Right Click.")  # completely optional. But nice for debugging purposes.
 
 
 def mousePos(coord=a(0, 0)):
     scaledPos = (coord / MAG).astype(int)
-    print "mouse to ({0})".format(scaledPos)
+    print("mouse to ({0})".format(scaledPos))
     win32api.SetCursorPos(scaledPos)
     time.sleep(SLEEP)
 
 
 def enter():
-    print "Keystroke [Enter]"
+    print("Keystroke [Enter]")
     win32api.keybd_event(0xD, 0, 0, 0)  # Enter
     time.sleep(0.05)
     win32api.keybd_event(0xD, 0, 2, 0)  # Enter
@@ -60,7 +60,7 @@ def enter():
 
 
 def ctrlV():
-    print "Keystroke [ctrl + V]"
+    print("Keystroke [ctrl + V]")
     win32api.keybd_event(0x11, 0, 0, 0)  # Ctrl
     time.sleep(0.05)
     win32api.keybd_event(0x56, 0, 0, 0)  # V
@@ -73,7 +73,7 @@ def ctrlV():
 
 def closeReport():
     """ctrl + F4"""
-    print "Keystroke [ctrl + F4]"
+    print("Keystroke [ctrl + F4]")
     win32api.keybd_event(0x11, 0, 0, 0)  # Ctrl
     time.sleep(0.05)
     win32api.keybd_event(0x73, 0, 0, 0)  # F4
@@ -85,7 +85,7 @@ def closeReport():
 
 
 def saveAsHTML(coord=DESKTOP_SIZE / 2, count=1):
-    print "\n - SAVING HTML - "
+    print("\n - SAVING HTML - ")
     # move to center
     mousePos(coord=DESKTOP_SIZE / 2)
     rightClick()
@@ -104,53 +104,53 @@ def saveAsHTML(coord=DESKTOP_SIZE / 2, count=1):
 
 def doMainWindow():
     """StatMaster MAIN WINDOW """
-    # print 'Click on Reports'
+    # print('Click on Reports')
     mousePos(coord=a(84, 37))
     leftClick()
 
-    # print 'Click on Organization'
+    # print('Click on Organization')
     mousePos(coord=a(100, 69))
     leftClick()
 
-    # print 'Click on Standard Reports'
+    # print('Click on Standard Reports')
     mousePos(coord=a(268, 69))
     leftClick()
 
 
 def doDataDiskWindow():
     """ Select Data Disk popup"""
-    # print 'Click on OK (in Select Data Disk)'
+    # print('Click on OK (in Select Data Disk)')
     mousePos(coord=a(1250, 280))
     leftClick()
 
 
 def doReprtSelection():
     """Report Selection"""
-    # print 'Click on Standings"
+    # print('Click on Standings")
     mousePos(coord=a(685, 350))
     leftClick()
-    # print 'Click on Team vs Team"
+    # print('Click on Team vs Team")
     mousePos(coord=a(685, 377))
     leftClick()
-    # print 'Click on Batting Club"
+    # print('Click on Batting Club")
     mousePos(coord=a(685, 540))
     leftClick()
-    # print 'Click on Pitching Club"
+    # print('Click on Pitching Club")
     mousePos(coord=a(685, 570))
     leftClick()
-    # print 'Click on Fielding Club"
+    # print('Click on Fielding Club")
     mousePos(coord=a(685, 600))
     leftClick()
-    # print 'Click on Batting Leaders.."
+    # print('Click on Batting Leaders..")
     mousePos(coord=a(685, 675))
     leftClick()
-    # print 'Click on Pitching Leaders.."
+    # print('Click on Pitching Leaders..")
     mousePos(coord=a(685, 705))
     leftClick()
-    # print 'Click on Relief Pitching Leaders.."
+    # print('Click on Relief Pitching Leaders..")
     mousePos(coord=a(685, 735))
     leftClick()
-    # print 'Click on Display"
+    # print('Click on Display")
     mousePos(coord=a(1200, 350))
     leftClick()
 
@@ -169,4 +169,4 @@ if __name__ == '__main__':
     doReprtSelection()
     doSaveReports()
     # TODO: close StatMaster
-    print "Finished"
+    print("Finished")

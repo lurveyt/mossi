@@ -14,14 +14,14 @@ def left_Click():
     time.sleep(SLEEP)
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
     time.sleep(SLEEP)
-    print "Left Click."  # completely optional. But nice for debugging purposes.
+    print("Left Click.")  # completely optional. But nice for debugging purposes.
 
 def right_Click():
     win32api.mouse_event(win32con.MOUSEEVENTF_RIGHTDOWN, 0, 0)
     time.sleep(SLEEP)
     win32api.mouse_event(win32con.MOUSEEVENTF_RIGHTUP, 0, 0)
     time.sleep(SLEEP)
-    print "Right Click."  # completely optional. But nice for debugging purposes.
+    print("Right Click.")  # completely optional. But nice for debugging purposes.
 
 def mouse_Pos(cord=(0, 0)):
     win32api.SetCursorPos((int(cord[0]/MAG), int(cord[1]/MAG)))
