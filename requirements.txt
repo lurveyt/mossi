@@ -1,0 +1,14 @@
+beautifulsoup4==4.9.3
+click==7.1.2
+et-xmlfile==1.0.1
+Flask==1.1.2
+itsdangerous==1.1.0
+jdcal==1.4.1
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+numpy==1.20.1
+openpyxl==3.0.6
+Pillow==8.1.1
+pywin32==300
+soupsieve==2.2
+Werkzeug==1.0.1
