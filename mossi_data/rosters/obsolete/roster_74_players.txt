@@ -1,68 +1,75 @@
 Beantown Loafers;;BENCH, Johnny;C+;'9;R;12;1B2, 3B3
-Beantown Loafers;;JOHNSON, Deron;1B;'3;R;3; 
+Beantown Loafers;;BARTON, Bob;C;'7;R;4; 
 Beantown Loafers;;MAY, Lee;1B;'3;R;4; 
 Beantown Loafers;;POWELL, Boog;1B;'3;L;2; 
 Beantown Loafers;;GRICH, Bobby;2B+;'8;R;17;SS7
 Beantown Loafers;;BECKERT, Glenn;2B+;'7;R;5;3B3
+Beantown Loafers;;DUNN, Ron;2B+;'5;R;3;3B3
 Beantown Loafers;;NETTLES, Graig;3B+;'5;L;7;SS6
 Beantown Loafers;;HARRAH, Toby;SS+;'8;R;17;3B4
 Beantown Loafers;;AUERBACH, Rick;SS+;'7;R;16;2B6, 3B3
-Beantown Loafers;;GUERRERO, Mario;SS;'7;R;15; 
+Beantown Loafers;;ALMON, Bill;SS;'6;R;15; 
 Beantown Loafers;;BRADFORD, Buddy;OF;'2;R;16; 
 Beantown Loafers;;GROSS, Greg;OF;'2;L;16; 
 Beantown Loafers;;HENDRICK, George;OF;'2;R;17; 
-Beantown Loafers;;OFFICE, Rowland;OF;'2;L;17; 
+Beantown Loafers;;JACKSON, Reggie;OF;'2;L;17; 
 Beantown Loafers;;BROWN, Ollie;OF;'1;R;13; 
+Beantown Loafers;;DAVALILLO, Vic;OF;'1;L;1; 
 Beantown Loafers;;GARR, Ralph;OF;'1;L;19; 
 Beantown Loafers;;LOCKLEAR, Gene;OF;'1;L;15; 
 Beantown Loafers;;TOVAR, Cesar;OF;'1;R;16; 
 Charm City Rookies;;RODRIGUEZ, Ellie;C;'8;R;4; 
-Charm City Rookies;;BORGMANN, Glenn;C;'7;R;5; 
 Charm City Rookies;;DEMPSEY, Rick;C+;'6;R;13;OF1
+Charm City Rookies;;MUSER, Tony;1B;'4;L;15; 
 Charm City Rookies;;CHAMBLISS, Chris;1B;'3;L;7; 
 Charm City Rookies;;ELLIS, John;1B+;'3;R;4;C6
 Charm City Rookies;;CARTY, Rico;1B;'2;R;3; 
 Charm City Rookies;;BROHAMER, Jack;2B;'7;L;8; 
 Charm City Rookies;;MONEY, Don;3B+;'5;R;17;2B6
+Charm City Rookies;;KNIGHT, Ray;3B;'3;R;7; 
 Charm City Rookies;;SPEIER, Chris;SS+;'9;R;16;2B6
 Charm City Rookies;;DUFFY, Frank;SS;'8;R;16; 
+Charm City Rookies;;YOUNT, Robin;SS;'7;R;18; 
 Charm City Rookies;;CRUZ, Jose;OF+;'2;L;16;1B2
 Charm City Rookies;;JOHNSTONE, Jay;OF;'2;L;15; 
 Charm City Rookies;;McBRIDE, Bake;OF;'2;L;19; 
 Charm City Rookies;;OLIVER, Al;OF+;'2;L;15;1B3
 Charm City Rookies;;PINIELLA, Lou;OF+;'2;R;6;1B2
 Charm City Rookies;;UNSER, Del;OF;'2;L;16; 
+Charm City Rookies;;KELLY, Pat;OF;'1;L;18; 
 Crown Hill Crabbers;;FISK, Carlton;C;'8;R;12; 
-Crown Hill Crabbers;;OATES, Johnny;C;'7;L;13; 
-Crown Hill Crabbers;;JORGENSEN, Mike;1B+;'5;L;16;OF2
-Crown Hill Crabbers;;MUSER, Tony;1B;'4;L;15; 
+Crown Hill Crabbers;;BORGMANN, Glenn;C;'7;R;5; 
+Crown Hill Crabbers;;MOSES, Jerry;C;'7;R;4; 
 Crown Hill Crabbers;;COOPER, Cecil;1B;'3;L;14; 
-Crown Hill Crabbers;;SOLAITA, Tony;1B+;'2;L;5;OF1
 Crown Hill Crabbers;;MILLAN, Felix;2B;'8;R;15; 
-Crown Hill Crabbers;;GARCIA, Pedro;2B;'7;R;17; 
 Crown Hill Crabbers;;LACY, Lee;2B+;'6;R;17;3B3
 Crown Hill Crabbers;;THOMAS, Derrel;2B+;'6;B;18;3B3, SS6, OF2
 Crown Hill Crabbers;;RADER, Doug;3B;'5;R;15; 
 Crown Hill Crabbers;;DECINCES, Doug;3B;'3;R;1; 
-Crown Hill Crabbers;;FRIAS, Pepe;SS+;'8;R;16;2B7, 3B4, OF1
+Crown Hill Crabbers;;DEJESUS, Ivan;SS;'7;R;17; 
+Crown Hill Crabbers;;THOMPSON, Danny;SS+;'7;R;8;3B4
+Crown Hill Crabbers;;ANDERSON, Mike;OF+;'3;R;11;1B2
 Crown Hill Crabbers;;CEDENO, Cesar;OF;'3;R;19; 
-Crown Hill Crabbers;;CLINES, Gene;OF;'2;R;18; 
+Crown Hill Crabbers;;BRYE, Steve;OF;'2;R;16; 
 Crown Hill Crabbers;;HISLE, Larry;OF;'2;R;18; 
+Crown Hill Crabbers;;LEZCANO, Sixto;OF;'2;R;16; 
 Crown Hill Crabbers;;THOMAS, Gorman;OF;'2;R;17; 
 Crown Hill Crabbers;;BIITTNER, Larry;OF;'1;L;6; 
 Crown Hill Crabbers;;GAMBLE, Oscar;OF;'1;L;17; 
-Crown Hill Crabbers;;KELLY, Pat;OF;'1;L;18; 
-Crown Hill Crabbers;;LLENAS, Winston;OF+;'1;R;6;2B5, 3B3
+Crown Hill Crabbers;;STARGELL, Willie;OF+;'1;L;4;1B3
 Detroit Dirtbags;;FOSSE, Ray;C;'7;R;8; 
+Detroit Dirtbags;;SWISHER, Steve;C;'7;R;7; 
+Detroit Dirtbags;;CORRELL, Vic;C;'6;R;9; 
 Detroit Dirtbags;;JOHNSON, Davey;1B+;'3;R;12;2B7
 Detroit Dirtbags;;THORNTON, Andy;1B+;'3;R;7;3B3
+Detroit Dirtbags;;HERNANDEZ, Keith;1B;'2;L;10; 
 Detroit Dirtbags;;FLOYD, Bobby;2B+;'6;R;7;3B3, SS6
 Detroit Dirtbags;;BANDO, Sal;3B;'5;R;4; 
 Detroit Dirtbags;;BROWN, Ike;3B;'3;R;7; 
 Detroit Dirtbags;;VALENTINE, Bobby;3B+;'3;R;16;2B6, SS7, OF2
 Detroit Dirtbags;;PATEK, Freddie;SS;'9;R;18; 
 Detroit Dirtbags;;BONDS, Bobby;OF;'3;R;19; 
-Detroit Dirtbags;;JACKSON, Reggie;OF;'2;L;17; 
+Detroit Dirtbags;;HERNDON, Larry;OF;'2;R;12; 
 Detroit Dirtbags;;MORALES, Jerry;OF;'2;R;16; 
 Detroit Dirtbags;;HARPER, Tommy;OF;'1;R;18; 
 Detroit Dirtbags;;JONES, Cleon;OF;'1;R;11; 
@@ -70,18 +77,17 @@ Detroit Dirtbags;;MAY, Carlos;OF;'1;L;13;
 Detroit Dirtbags;;OLIVA, Tony;OF;'1;L;2; 
 Detroit Dirtbags;;SPIKES, Charlie;OF;'1;R;10; 
 Flushing Metropolitans;;FOOTE, Barry;C;'7;R;5; 
-Flushing Metropolitans;;HILL, Marc;C;'6;R;4; 
 Flushing Metropolitans;;MITTERWALD, George;C;'6;R;4; 
 Flushing Metropolitans;;HODGES, Ron;C;'5;L;5; 
-Flushing Metropolitans;;BREEDEN, Hal;1B;'2;R;4; 
+Flushing Metropolitans;;WOCKENFUSS, John;C;'5;R;3; 
+Flushing Metropolitans;;BOCHTE, Bruce;1B+;'2;L;15;OF1
 Flushing Metropolitans;;NELSON, Dave;2B;'6;R;18; 
 Flushing Metropolitans;;ROYSTER, Jerry;2B+;'6;R;7;3B3, OF1
 Flushing Metropolitans;;TRILLO, Manny;2B;'6;R;9; 
+Flushing Metropolitans;;KENNEDY, Junior;2B+;'5;R;4;3B3
 Flushing Metropolitans;;GARRETT, Wayne;3B+;'4;L;15;SS6
 Flushing Metropolitans;;SCHMIDT, Mike;3B;'4;R;17; 
-Flushing Metropolitans;;FANZONE, Carmen;3B+;'3;R;5;1B2, 2B5, OF1
 Flushing Metropolitans;;ONTIVEROS, Steve;3B+;'3;B;7;1B2, OF1
-Flushing Metropolitans;;SCHAAL, Paul;3B;'3;R;10; 
 Flushing Metropolitans;;HARRELSON, Bud;SS;'9;B;17; 
 Flushing Metropolitans;;NORTH, Bill;OF;'2;B;18; 
 Flushing Metropolitans;;RETTENMUND, Merv;OF;'2;R;15; 
@@ -90,27 +96,35 @@ Flushing Metropolitans;;BUMBRY, Al;OF;'1;L;18;
 Flushing Metropolitans;;CRAWFORD, Willie;OF;'1;L;15; 
 Flushing Metropolitans;;LOWENSTEIN, John;OF+;'1;L;18;1B2, 2B6, 3B3
 Germantown Toros;;SANGUILLEN, Manny;C;'8;R;15; 
-Germantown Toros;;MONTGOMERY, Bob;C;'6;R;8; 
+Germantown Toros;;STEARNS, John;C;'6;R;1; 
 Germantown Toros;;ALLEN, Dick;1B+;'3;R;16;2B5
 Germantown Toros;;FAIRLY, Ron;1B+;'3;L;3;OF1
+Germantown Toros;;KIRKPATRICK, Ed;1B+;'3;L;4;C6, OF2
 Germantown Toros;;IVIE, Mike;1B;'2;R;1; 
-Germantown Toros;;GREEN, Dick;2B;'8;R;6; 
+Germantown Toros;;JOHNSON, Lamar;1B;'2;R;2; 
+Germantown Toros;;MILBOURNE, Larry;2B+;'7;B;18;SS6, OF1
 Germantown Toros;;ORTA, Jorge;2B+;'7;L;18;SS6
+Germantown Toros;;MILLER, Bruce;3B+;'4;R;7;2B6, SS6
 Germantown Toros;;HEBNER, Richie;3B;'3;L;8; 
+Germantown Toros;;PARRISH, Larry;3B;'3;R;11; 
 Germantown Toros;;KESSINGER, Don;SS;'9;B;16; 
+Germantown Toros;;VERYZER, Tom;SS;'6;R;6; 
 Germantown Toros;;BAKER, Dusty;OF;'2;R;17; 
+Germantown Toros;;BANNISTER, Alan;OF+;'2;R;15;SS6
 Germantown Toros;;SMITH, Reggie;OF+;'2;B;14;1B2
 Germantown Toros;;WYNN, Jimmy;OF;'2;R;17; 
 Germantown Toros;;LUZINSKI, Greg;OF;'1;R;4; 
 Germantown Toros;;ZISK, Richie;OF;'1;R;5; 
+Issaquah IronPigs;;OATES, Johnny;C;'7;L;13; 
 Issaquah IronPigs;;PORTER, Darrell;C;'7;L;7; 
-Issaquah IronPigs;;McCARVER, Tim;C+;'6;L;7;1B2
+Issaquah IronPigs;;CARTER, Gary;C+;'6;R;12;OF1
+Issaquah IronPigs;;MONTGOMERY, Bob;C;'6;R;8; 
 Issaquah IronPigs;;SPENCER, Jim;1B;'4;L;4; 
-Issaquah IronPigs;;POPOVICH, Paul;2B+;'7;B;8;SS7
 Issaquah IronPigs;;LOPES, Davey;2B;'6;R;18; 
 Issaquah IronPigs;;CEY, Ron;3B;'4;R;8; 
+Issaquah IronPigs;;MARTINEZ, Ted;SS+;'8;B;16;2B7, 3B3, OF2
 Issaquah IronPigs;;RUSSELL, Bill;SS+;'8;R;17;OF2
-Issaquah IronPigs;;MELENDEZ, Luis;OF+;'2;R;16;SS6
+Issaquah IronPigs;;STANLEY, Mickey;OF+;'3;R;16;1B3, 2B5
 Issaquah IronPigs;;MILLER, Rick;OF;'2;L;17; 
 Issaquah IronPigs;;ROBINSON, Bill;OF;'2;R;16; 
 Issaquah IronPigs;;BAYLOR, Don;OF+;'1;R;18;1B2
@@ -119,88 +133,79 @@ Issaquah IronPigs;;KRANEPOOL, Ed;OF+;'1;L;3;1B3
 Melbourne Thunder;;BOONE, Bob;C;'7;R;7; 
 Melbourne Thunder;;DYER, Duffy;C;'7;R;5; 
 Melbourne Thunder;;KENDALL, Fred;C;'7;R;4; 
+Melbourne Thunder;;MARTINEZ, Buck;C;'6;R;4; 
 Melbourne Thunder;;SCOTT, George;1B;'5;R;15; 
 Melbourne Thunder;;HOLT, Jim;1B+;'3;L;12;OF2
-Melbourne Thunder;;MENKE, Denis;1B+;'2;R;6;2B5, 3B3, SS6
 Melbourne Thunder;;HELMS, Tommy;2B;'7;R;4; 
 Melbourne Thunder;;SUTHERLAND, Gary;2B+;'7;R;12;3B3, SS6
+Melbourne Thunder;;KUIPER, Duane;2B;'6;L;17; 
 Melbourne Thunder;;MELTON, Bill;3B;'4;R;5; 
 Melbourne Thunder;;METZGER, Roger;SS;'9;B;17; 
-Melbourne Thunder;;LEON, Eddie;SS+;'8;R;9;2B8, 3B4
 Melbourne Thunder;;GERONIMO, Cesar;OF;'3;L;18; 
-Melbourne Thunder;;LUM, Mike;OF+;'2;L;13;1B3
+Melbourne Thunder;;MEYER, Dan;OF;'2;L;17; 
 Melbourne Thunder;;PARKER, Dave;OF+;'2;L;16;1B2
 Melbourne Thunder;;DARWIN, Bobby;OF;'1;R;9; 
 Melbourne Thunder;;GRIEVE, Tom;OF+;'1;R;14;1B2
 Melbourne Thunder;;HORTON, Willie;OF;'1;R;3; 
 Melbourne Thunder;;JOHNSON, Alex;OF;'1;R;18; 
 Mill Creek Crankers;;MUNSON, Thurman;C;'8;R;15; 
-Mill Creek Crankers;;EDWARDS, Johnny;C;'7;L;3; 
+Mill Creek Crankers;;ROOF, Phil;C;'7;R;3; 
+Mill Creek Crankers;;HEGAN, Mike;1B+;'4;L;12;OF1
 Mill Creek Crankers;;MAYBERRY, John;1B;'4;L;5; 
-Mill Creek Crankers;;OLIVER, Bob;1B+;'3;R;10;3B3, OF1
 Mill Creek Crankers;;KINGMAN, Dave;1B+;'2;R;16;3B3, OF1
-Mill Creek Crankers;;SUDAKIS, Bill;1B+;'2;B;5;C5, 3B3
 Mill Creek Crankers;;VELEZ, Otto;1B+;'2;R;6;3B3, OF1
 Mill Creek Crankers;;SIZEMORE, Ted;2B+;'8;R;9;SS6, OF1
 Mill Creek Crankers;;SODERHOLM, Eric;3B+;'4;R;16;SS6
+Mill Creek Crankers;;CUBBAGE, Mike;3B+;'3;L;7;2B5
 Mill Creek Crankers;;CAMPANERIS, Bert;SS;'9;R;18; 
 Mill Creek Crankers;;TYSON, Mike;SS+;'8;R;15;2B7
 Mill Creek Crankers;;DAVIS, Willie;OF;'2;L;18; 
-Mill Creek Crankers;;DAY, Boots;OF;'2;L;13; 
-Mill Creek Crankers;;GASTON, Cito;OF;'2;R;8; 
 Mill Creek Crankers;;MATTHEWS, Gary;OF;'2;R;19; 
 Mill Creek Crankers;;TOLAN, Bobby;OF;'2;L;16; 
 Mill Creek Crankers;;GRIFFEY, Ken;OF;'1;L;19; 
-Mill Creek Crankers;;SCHEINBLUM, Richie;OF;'1;B;5; 
 Milwaukee Lagers;;YEAGER, Steve;C;'8;R;8; 
-Milwaukee Lagers;;HUNDLEY, Randy;C;'7;R;2; 
-Milwaukee Lagers;;SIMS, Duke;C+;'7;L;3;OF1
 Milwaukee Lagers;;DOWNING, Brian;C+;'6;R;14;OF1
 Milwaukee Lagers;;GARVEY, Steve;1B;'4;R;8; 
+Milwaukee Lagers;;JOHNSON, Deron;1B;'3;R;3; 
 Milwaukee Lagers;;DAVIS, Tommy;1B;'2;R;6; 
 Milwaukee Lagers;;FREGOSI, Jim;1B+;'2;R;4;3B3
-Milwaukee Lagers;;LIS, Joe;1B+;'2;R;4;3B3, OF1
 Milwaukee Lagers;;MORGAN, Joe;2B;'8;L;17; 
-Milwaukee Lagers;;KUBIAK, Ted;2B+;'7;B;8;3B3, SS8
+Milwaukee Lagers;;KNOX, John;2B+;'5;L;16;3B3
 Milwaukee Lagers;;ROBINSON, Brooks;3B;'5;R;3; 
+Milwaukee Lagers;;HOWE, Art;3B+;'3;R;9;SS6
+Milwaukee Lagers;;DENT, Bucky;SS;'8;R;10; 
 Milwaukee Lagers;;MASON, Jim;SS;'8;L;10; 
-Milwaukee Lagers;;CHALK, Dave;SS+;'7;R;16;3B4
 Milwaukee Lagers;;BERRY, Ken;OF;'3;R;14; 
 Milwaukee Lagers;;BLAIR, Paul;OF;'3;R;17; 
+Milwaukee Lagers;;RUDI, Joe;OF+;'3;R;13;1B2
+Milwaukee Lagers;;HENDERSON, Ken;OF;'2;B;15; 
 Milwaukee Lagers;;STAUB, Rusty;OF;'2;L;6; 
 Milwaukee Lagers;;LAHOUD, Joe;OF;'1;L;10; 
+Milwaukee Lagers;;TURNER, Jerry;OF;'1;L;14; 
 Pasco Buffet;;SIMMONS, Ted;C+;'8;B;6;1B2
-Pasco Buffet;;DIDIER, Bob;C;'6;B;1; 
 Pasco Buffet;;MORALES, Jose;C;'5;R;5; 
-Pasco Buffet;;CATER, Danny;1B;'3;R;4; 
-Pasco Buffet;;TEPEDINO, Frank;1B;'3;L;12; 
+Pasco Buffet;;OLIVER, Bob;1B+;'3;R;10;3B3, OF1
 Pasco Buffet;;McCOVEY, Willie;1B;'2;L;2; 
 Pasco Buffet;;DOYLE, Denny;2B+;'8;L;16;SS6
 Pasco Buffet;;GRIFFIN, Doug;2B+;'8;R;15;SS6
 Pasco Buffet;;EVANS, Darrell;3B;'4;L;12; 
-Pasco Buffet;;ROBERTS, Dave W.;3B+;'3;R;16;SS6, OF1
 Pasco Buffet;;CONCEPCION, Dave;SS+;'9;R;18;OF1
 Pasco Buffet;;TERRELL, Jerry;SS+;'7;R;16;1B2, 2B7, 3B4, OF1
-Pasco Buffet;;COGGINS, Rich;OF;'2;L;18; 
 Pasco Buffet;;WINFIELD, Dave;OF;'2;R;18; 
 Pasco Buffet;;AARON, Hank;OF;'1;R;6; 
 Pasco Buffet;;BLOMBERG, Ron;OF;'1;L;16; 
 Pasco Buffet;;EASLER, Mike;OF;'1;L;1; 
 Pasco Buffet;;JOSHUA, Von;OF;'1;L;17; 
-Pasco Buffet;;MOTA, Manny;OF;'1;R;6; 
 Pasco Buffet;;SINGLETON, Ken;OF;'1;B;7; 
-Pasco Buffet;;STARGELL, Willie;OF+;'1;L;4;1B3
+Pasco Buffet;;WASHINGTON, Claudell;OF;'1;L;18; 
 Philadelphia J's;;HERRMANN, Ed;C;'7;L;3; 
 Philadelphia J's;;WILLIAMS, Earl;C+;'6;R;4;1B3
 Philadelphia J's;;MONTANEZ, Willie;1B+;'4;L;10;OF1
 Philadelphia J's;;PEREZ, Tony;1B;'3;R;4; 
-Philadelphia J's;;CEPEDA, Orlando;1B;'2;R;2; 
 Philadelphia J's;;WILLIAMS, Billy;1B+;'2;L;9;OF1
 Philadelphia J's;;PEREZ, Marty;2B+;'7;R;14;3B3, SS7
 Philadelphia J's;;STENNETT, Rennie;2B+;'7;R;16;OF1
-Philadelphia J's;;ALVARADO, Luis;2B+;'6;R;16;3B3, SS6
 Philadelphia J's;;SANTO, Ron;2B+;'6;R;4;1B2, 3B4, SS6
-Philadelphia J's;;GOGGIN, Chuck;2B;'5;B;7; 
 Philadelphia J's;;RODRIGUEZ, Aurelio;3B;'5;R;15; 
 Philadelphia J's;;BRAUN, Steve;3B+;'3;L;11;OF1
 Philadelphia J's;;DRIESSEN, Dan;3B+;'3;L;18;1B3, OF1
@@ -210,42 +215,40 @@ Philadelphia J's;;BROCK, Lou;OF;'2;L;18;
 Philadelphia J's;;SHARP, Bill;OF;'2;L;16; 
 Philadelphia J's;;WILLIAMS, Walt;OF;'2;R;17; 
 Portland Peaks;;ETCHEBARREN, Andy;C;'8;R;7; 
-Portland Peaks;;BOCCABELLA, John;C;'7;R;3; 
-Portland Peaks;;ROOF, Phil;C;'7;R;3; 
-Portland Peaks;;HEGAN, Mike;1B+;'4;L;12;OF1
-Portland Peaks;;KIRKPATRICK, Ed;1B+;'3;L;4;C6, OF2
-Portland Peaks;;TAYLOR, Tony;1B+;'3;R;11;2B7, 3B4, SS6
-Portland Peaks;;CASH, Ron;1B+;'2;R;11;3B3
+Portland Peaks;;HENDRICKS, Elrod;C+;'7;L;4;1B2
 Portland Peaks;;GOODSON, Ed;1B+;'2;L;4;3B3
-Portland Peaks;;HOPKINS, Gail;1B+;'2;L;5;C5
-Portland Peaks;;CLARKE, Horace;2B;'6;B;16; 
+Portland Peaks;;McAULIFFE, Dick;2B+;'7;L;12;3B4, SS7
 Portland Peaks;;BRETT, George;3B+;'4;L;17;SS6
 Portland Peaks;;GARNER, Phil;3B+;'3;R;12;2B5, SS6
 Portland Peaks;;MADLOCK, Bill;3B;'3;R;15; 
 Portland Peaks;;FOLI, Tim;SS+;'9;R;14;3B4
 Portland Peaks;;HERNANDEZ, Enzo;SS;'9;R;19; 
-Portland Peaks;;MONDAY, Rick;OF;'3;L;17; 
 Portland Peaks;;BUCKNER, Bill;OF+;'2;L;17;1B3
+Portland Peaks;;COGGINS, Rich;OF;'2;L;18; 
+Portland Peaks;;DILONE, Miguel;OF;'2;B;17; 
 Portland Peaks;;EVANS, Dwight;OF;'2;R;16; 
-Portland Peaks;;ALOU, Matty;OF+;'1;L;9;1B2
+Portland Peaks;;NORTHRUP, Jim;OF;'2;L;11; 
 Portland Peaks;;McRAE, Hal;OF+;'1;R;13;3B3
 Portland Peaks;;PACIOREK, Tom;OF+;'1;R;15;1B2
+Portland Peaks;;RICE, Jim;OF;'1;R;10; 
+Portland Peaks;;SUMMERS, Champ;OF;'1;L;8; 
 Redmond Luchadores;;DUNCAN, Dave;C+;'8;R;3;1B2
 Redmond Luchadores;;RADER, Dave;C;'7;L;7; 
+Redmond Luchadores;;SUNDBERG, Jim;C;'7;R;7; 
 Redmond Luchadores;;CABELL, Enos;1B+;'3;R;16;2B5, 3B3, OF1
 Redmond Luchadores;;COLBERT, Nate;1B+;'3;R;15;OF1
+Redmond Luchadores;;GREEN, Dick;2B;'8;R;6; 
 Redmond Luchadores;;ROJAS, Cookie;2B;'8;R;8; 
-Redmond Luchadores;;McAULIFFE, Dick;2B+;'7;L;12;3B4, SS7
 Redmond Luchadores;;MICHAEL, Gene;2B+;'7;B;11;3B3, SS8
 Redmond Luchadores;;BAILEY, Bob;3B+;'3;R;5;OF1
-Redmond Luchadores;;DENT, Bucky;SS;'8;R;10; 
 Redmond Luchadores;;TAVERAS, Frank;SS;'6;R;17; 
-Redmond Luchadores;;RUDI, Joe;OF+;'3;R;13;1B2
 Redmond Luchadores;;GRUBB, John;OF+;'2;L;17;3B3
+Redmond Luchadores;;LYNN, Fred;OF;'2;L;16; 
 Redmond Luchadores;;MADDOX, Garry;OF;'2;R;19; 
 Redmond Luchadores;;MAY, Dave;OF;'2;L;15; 
-Redmond Luchadores;;SHARON, Dick;OF;'2;R;12; 
-Scottsburgh Spiders;;CASANOVA, Paul;C;'7;R;3; 
+Redmond Luchadores;;NETTLES, Morris;OF;'2;L;19; 
+Redmond Luchadores;;LEE, Leron;OF;'1;L;10; 
+Redmond Luchadores;;ROBERTS, Leon;OF;'1;R;13; 
 Scottsburgh Spiders;;MAY, Milt;C;'7;L;5; 
 Scottsburgh Spiders;;RUDOLPH, Ken;C;'7;R;7; 
 Scottsburgh Spiders;;ASHBY, Alan;C;'6;B;11; 
@@ -253,48 +256,55 @@ Scottsburgh Spiders;;MOORE, Charlie;C;'6;R;15;
 Scottsburgh Spiders;;McCRAW, Tom;1B+;'3;L;13;OF1
 Scottsburgh Spiders;;MILNER, John;1B;'3;L;15; 
 Scottsburgh Spiders;;TORRE, Joe;1B+;'3;R;3;3B3
-Scottsburgh Spiders;;HARRIS, Vic;2B;'6;B;18; 
 Scottsburgh Spiders;;WHITE, Frank;2B+;'6;R;17;3B3, SS6
 Scottsburgh Spiders;;REITZ, Ken;3B+;'5;R;4;2B5, SS6
 Scottsburgh Spiders;;BELL, Buddy;3B;'4;R;12; 
 Scottsburgh Spiders;;STEIN, Bill;3B;'3;R;5; 
 Scottsburgh Spiders;;BOWA, Larry;SS;'9;B;18; 
-Scottsburgh Spiders;;MARTINEZ, Ted;SS+;'8;B;16;2B7, 3B3, OF2
+Scottsburgh Spiders;;BURLESON, Rick;SS+;'7;R;13;2B6, 3B3
 Scottsburgh Spiders;;OTIS, Amos;OF;'3;R;18; 
+Scottsburgh Spiders;;CROMARTIE, Warren;OF;'2;L;15; 
+Scottsburgh Spiders;;LeFLORE, Ron;OF;'2;R;18; 
 Scottsburgh Spiders;;PINSON, Vada;OF+;'2;L;16;1B2
 Scottsburgh Spiders;;ALOU, Jesus;OF;'1;R;4; 
+Scottsburgh Spiders;;MUMPHREY, Jerry;OF;'1;B;7; 
 Scottsburgh Spiders;;OGLIVIE, Ben;OF+;'1;L;17;1B2
+Scottsburgh Spiders;;OTT, Ed;OF;'1;L;7; 
+Scottsburgh Spiders;;WOHLFORD, Jim;OF;'1;R;17; 
 Seattle Sluggers;;GROTE, Jerry;C;'8;R;4; 
 Seattle Sluggers;;HEALY, Fran;C;'7;R;15; 
 Seattle Sluggers;;CASH, Norm;1B;'3;L;3; 
+Seattle Sluggers;;HARGROVE, Mike;1B+;'3;L;12;OF1
 Seattle Sluggers;;HICKMAN, Jim;1B+;'3;R;4;3B3
+Seattle Sluggers;;TAYLOR, Tony;1B+;'3;R;11;2B7, 3B4, SS6
 Seattle Sluggers;;CASH, Dave;2B;'8;R;16; 
 Seattle Sluggers;;FUENTES, Tito;2B;'7;B;16; 
+Seattle Sluggers;;HOWELL, Roy;3B;'3;L;6; 
 Seattle Sluggers;;HUNT, Ron;3B+;'3;R;8;2B6, SS6
 Seattle Sluggers;;BRINKMAN, Ed;SS+;'9;R;8;3B4
+Seattle Sluggers;;CHALK, Dave;SS+;'7;R;16;3B4
 Seattle Sluggers;;DAVANON, Jerry;SS+;'6;R;7;2B5, 3B3, OF1
 Seattle Sluggers;;MURCER, Bobby;OF;'3;L;17; 
 Seattle Sluggers;;CARDENAL, Jose;OF;'2;R;18; 
-Seattle Sluggers;;HENDERSON, Ken;OF;'2;B;15; 
+Seattle Sluggers;;OFFICE, Rowland;OF;'2;L;17; 
 Seattle Sluggers;;WHITE, Roy;OF;'2;B;17; 
 Seattle Sluggers;;BRIGGS, John;OF;'1;L;16; 
 Seattle Sluggers;;BURROUGHS, Jeff;OF+;'1;R;9;1B2
 Seattle Sluggers;;HAIRSTON, Jerry;OF;'1;B;11; 
-Seattle Sluggers;;HUTTON, Tom;OF+;'1;L;10;1B5
+Tardtown Twin Killers;;McCARVER, Tim;C+;'6;L;7;1B2
+Tardtown Twin Killers;;JORGENSEN, Mike;1B+;'5;L;16;OF2
 Tardtown Twin Killers;;ROBERTSON, Bob;1B;'4;R;2; 
 Tardtown Twin Killers;;TENACE, Gene;1B+;'3;R;5;C7, 2B5
 Tardtown Twin Killers;;YASTRZEMSKI, Carl;1B+;'3;L;15;OF3
 Tardtown Twin Killers;;FREEHAN, Bill;1B+;'2;R;5;C7
 Tardtown Twin Killers;;KUSICK, Craig;1B;'2;R;9; 
 Tardtown Twin Killers;;ROBINSON, Frank;1B+;'2;R;5;OF1
+Tardtown Twin Killers;;SOLAITA, Tony;1B+;'2;L;5;OF1
 Tardtown Twin Killers;;CAREW, Rod;2B;'7;L;18; 
 Tardtown Twin Killers;;LINTZ, Larry;2B+;'6;B;19;3B3, SS6
 Tardtown Twin Killers;;PETROCELLI, Rico;3B;'4;R;3; 
-Tardtown Twin Killers;;HART, Jim Ray;3B;'3;R;5; 
-Tardtown Twin Killers;;KOSCO, Andy;3B+;'3;R;5;OF1
 Tardtown Twin Killers;;BELANGER, Mark;SS;'9;R;17; 
-Tardtown Twin Killers;;THOMPSON, Danny;SS+;'7;R;8;3B4
-Tardtown Twin Killers;;NORTHRUP, Jim;OF;'2;L;11; 
+Tardtown Twin Killers;;MONDAY, Rick;OF;'3;L;17; 
 Tardtown Twin Killers;;CARBO, Bernie;OF;'1;L;6; 
 Tardtown Twin Killers;;CROWLEY, Terry;OF+;'1;L;7;1B2
 Tardtown Twin Killers;;DWYER, Jim;OF+;'1;L;10;1B2
@@ -305,17 +315,18 @@ Vegas Gamblerz;;JOHNSON, Cliff;C+;'6;R;7;1B2
 Vegas Gamblerz;;STINSON, Bob;C;'5;B;8; 
 Vegas Gamblerz;;FREED, Roger;1B;'2;R;1; 
 Vegas Gamblerz;;ALOMAR, Sandy;2B+;'7;B;18;3B3, SS7, OF1
-Vegas Gamblerz;;MCKINNEY, Rich;2B;'6;R;1; 
+Vegas Gamblerz;;ARNOLD, Chris;2B+;'6;R;14;3B3, SS6
+Vegas Gamblerz;;PHILLIPS, Mike;2B+;'6;L;16;3B3, SS7
 Vegas Gamblerz;;BEVACQUA, Kurt;3B+;'3;R;13;1B2, 2B5, SS6, OF1
 Vegas Gamblerz;;RANDLE, Lenny;3B+;'3;B;18;2B6, SS6, OF1
-Vegas Gamblerz;;MAXVILL, Dal;SS+;'8;R;15;2B7, 3B4
+Vegas Gamblerz;;ROBINSON, Craig;SS;'8;R;16; 
+Vegas Gamblerz;;JOHNSON, Tim;SS+;'7;L;17;2B6, 3B3, OF1
 Vegas Gamblerz;;BLANKS, Larvell;SS;'6;R;1; 
 Vegas Gamblerz;;STANLEY, Fred;SS+;'6;R;6;2B5
-Vegas Gamblerz;;STANLEY, Mickey;OF+;'3;R;16;1B3, 2B5
 Vegas Gamblerz;;COLUCCIO, Bob;OF;'2;R;16; 
+Vegas Gamblerz;;COWENS, Al;OF+;'2;R;17;3B3
 Vegas Gamblerz;;FOSTER, George;OF;'2;R;17; 
 Vegas Gamblerz;;SCOTT, Tony;OF;'2;B;17; 
 Vegas Gamblerz;;STANTON, Lee;OF;'2;R;17; 
 Vegas Gamblerz;;THOMASSON, Gary;OF+;'2;L;16;1B2
-Vegas Gamblerz;;BROWN, Gates;OF;'1;L;3; 
 Vegas Gamblerz;;WATSON, Bob;OF+;'1;R;4;1B3
