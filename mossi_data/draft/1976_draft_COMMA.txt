@@ -1,0 +1,267 @@
+ADAMS, Mike ,27,OF+,1,R,16,,29,R,,W,M
+ALEXANDER, Matt ,29,OF,1,B,19,,28,R,,W,M
+ALVARADO, Luis ,27,2B,6,R,16,,33,R,,W,M
+ALVAREZ, Orlando ,24,OF,1,R,11,,28,R,,W,M
+ANDREWS, Fred ,24,2B,6,R,15,,31,R,,W,M
+ARMAS, Tony ,22,OF,1,R,10,,31,R,,W,M
+ARMBRISTER, Ed ,27,OF,1,R,17,,32,R,,W,M
+ARNOLD, Chris ,28,2B+,7,R,14,,31,R,,W,M
+ASHFORD, Tucker ,21,3B,3,R,13,,31,R,,W,M
+ASSELSTINE, Brian ,22,OF,2,L,15,,31,R,,W,M
+AULT, Doug ,26,1B,2,R,9,,27,L,,W,M
+AYALA, Benny ,25,OF,1,R,5,,24,R,,W,M
+BAKER, Jack ,26,1B,2,R,5,,28,R,,W,M
+BALDWIN, Billy ,25,OF,1,L,17,,30,L,,W,M
+BELL, Kevin ,20,3B,4,R,12,,30,R,,W,M
+BELLOIR, Rob ,27,SS+,6,R,10,,31,R,,W,M
+BERNHARDT, Juan ,22,OF+,1,R,7,,30,R,,W,M
+BLACKWELL, Tim ,23,C,6,B,10,-3,34,R,,W,M
+BOISCLAIR, Bruce ,23,OF,2,L,16,,33,L,,W,M
+BOSETTI, Rick ,22,OF,2,R,18,,30,R,,W,M
+BOWLING, Steve ,24,OF,2,R,12,,33,R,,W,M
+BRADFORD, Buddy ,31,OF,1,R,16,,31,R,,W,M
+BRIGGS, Dan ,23,1B+,2,L,16,,29,L,,W,M
+BROWN, Leon ,26,OF,2,R,17,,32,R,,W,M
+BRYE, Steve ,27,OF,2,R,16,,31,R,,W,M
+BURKE, Glenn ,23,OF,2,R,18,,34,R,,W,M
+CHAMPION, Mike ,21,2B,6,R,15,,29,R,,W,M
+CHANT, Charlie ,24,OF,1,R,10,,29,R,,W,M
+CHILES, Rich ,26,OF,1,L,8,,28,L,,W,M
+CLAREY, Doug ,22,2B,5,R,15,,30,R,,W,M
+CLINES, Gene ,29,OF,2,R,18,,26,R,,W,M
+COGGINS, Rich ,25,OF,2,L,18,,29,L,,W,M
+COX, Jim ,26,2B,6,R,9,,29,R,,W,M
+CROSBY, Ed ,27,3B,3,L,12,,30,R,,W,M
+CROWLEY, Terry ,29,1B,2,L,5,,28,L,,W,M
+CRUZ, Hector ,23,3B,3,R,10,,34,R,,W,M
+CRUZ, Henry ,24,OF,1,L,11,,29,L,,W,M
+DADE, Paul ,24,OF+,2,R,17,,31,R,,W,M
+DARWIN, Bobby ,33,OF,1,R,9,,37,R,,W,M
+DAUER, Rich ,23,2B,7,R,9,,28,R,,W,M
+DAVIS, Bob ,24,C,6,R,12,+1,31,R,,W,M
+DAWSON, Andre ,21,OF,2,R,15,,30,R,,W,M
+DILLARD, Steve ,25,3B+,3,R,16,,32,R,,W,M
+DINEEN, Kerry ,23,OF,1,L,11,,29,L,,W,M
+DWYER, Jim ,26,OF,1,L,10,,28,L,,W,M
+DYER, Duffy ,30,C,8,R,4,+5,35,R,,W,M
+EDEN, Mike ,27,2B,6,B,13,,30,R,,W,M
+ENRIGHT, George ,22,C,5,R,7,-4,30,R,,W,M
+EWING, Sam ,27,1B,2,L,5,,29,L,,W,M
+FAHEY, Bill ,26,C,6,L,9,+1,30,R,,W,M
+FOSTER, Leo ,25,3B+,3,R,16,,32,R,,W,M
+FRIAS, Pepe ,27,SS+,8,R,16,,32,R,,W,M
+GANTNER, Jim ,23,3B,4,L,16,,30,R,,W,M
+GARCIA, Kiko ,22,SS,7,R,17,,33,R,,W,M
+GARRETT, Adrian ,33,C+,5,L,5,-4,30,R,,W,M
+GOMEZ, Luis ,24,SS+,8,R,17,,32,R,,W,M
+GONZALEZ, Orlando ,24,1B+,2,L,13,,27,L,,W,M
+GRIFFIN, Alfredo ,18,SS,6,B,17,,33,R,,W,M
+GROSS, Wayne ,24,1B+,2,L,9,,27,R,,W,M
+GUERRERO, Mario ,26,SS+,7,R,6,,34,R,,W,M
+HALE, John ,22,OF,2,L,16,,34,R,,W,M
+HAMPTON, Ike ,24,C+,5,B,7,-4,31,R,,W,M
+HANEY, Larry ,33,C,7,R,4,+1,31,R,,W,M
+HANSEN, Bob ,28,1B,2,L,12,,29,L,,W,M
+HARMON, Terry ,32,SS+,8,R,16,,31,R,,W,M
+HARRIS, Vic ,26,2B+,6,B,18,,31,R,,W,M
+HEGAN, Mike ,33,OF+,1,L,8,,32,L,,W,M
+HEIDEMANN, Jack ,26,3B+,4,R,12,,33,R,,W,M
+HEISE, Bob ,29,3B+,4,R,16,,33,R,,W,M
+HELMS, Tommy ,35,3B+,4,R,3,,30,R,,W,M
+HOLT, Jim ,32,OF,1,L,8,,30,R,,W,M
+HOPKINS, Don ,24,OF,1,L,19,,28,R,,W,M
+HOWARD, Doug ,28,1B+,2,R,12,,28,R,,W,M
+HUMPHREY, Terry ,26,C,7,R,7,+1,33,R,,W,M
+HUNDLEY, Randy ,34,C,6,R,1,-3,35,R,,W,M
+HUTTON, Tom ,30,1B+,5,L,8,,27,L,,W,M
+JAVIER, Al ,22,OF,1,R,13,,30,R,,W,M
+JOHNSON, Alex ,33,OF,1,R,17,,23,R,,W,M
+JOHNSON, Larry ,25,C,6,R,8,-4,29,R,,W,M
+JONES, Bob ,26,OF,1,L,15,,28,L,,W,M
+JONES, Cleon ,33,OF,1,R,11,,30,L,,W,M
+JONES, Ruppert ,21,OF,2,L,17,,33,L,,W,M
+JUTZE, Skip ,30,C,7,R,5,-2,30,R,,W,M
+KELLEHER, Mick ,28,SS+,8,R,6,,34,R,,W,M
+KIMM, Bruce ,25,C,6,R,14,+5,31,R,,W,M
+KIRKPATRICK, Ed ,31,1B+,3,L,4,,31,R,,W,M
+KLEVEN, Jay ,26,C,5,R,6,-3,31,R,,W,M
+KLUTTS, Mickey ,21,SS,6,R,15,,31,R,,W,M
+LAHOUD, Joe ,29,OF,1,L,9,,29,L,,W,M
+LANE, Marvin ,26,OF,1,R,17,,31,R,,W,M
+LeMASTER, Johnnie ,22,SS,7,R,17,,33,R,,W,M
+LIS, Joe ,29,1B,2,R,4,,26,R,,W,M
+LOPEZ, Carlos ,25,OF,2,R,16,,36,R,,W,M
+LYTTLE, Jim ,30,OF,2,L,8,,30,R,,W,M
+MANGUAL, Angel ,29,OF,1,R,13,,31,R,,W,M
+MANGUAL, Pepe ,24,OF,1,R,18,,32,R,,W,M
+MANKOWSKI, Phil ,23,3B,4,L,9,,30,R,,W,M
+MANUEL, Jerry ,22,2B+,6,B,14,,29,R,,W,M
+MARTIN, Jerry ,27,OF+,2,R,18,,34,R,,W,M
+MAZZILLI, Lee ,21,OF,2,B,17,,27,R,,W,M
+McKAY, Dave ,26,3B+,3,R,12,,31,R,,W,M
+McMULLEN, Ken ,34,3B+,4,R,3,,32,R,,W,M
+MEJIAS, Sam ,24,OF,2,R,16,,32,R,,W,M
+MENDOZA, Mario ,25,SS+,8,R,15,,34,R,,W,M
+MERCHANT, Andy ,25,C,5,L,5,-4,30,R,,W,M
+MILBOURNE, Larry ,25,2B,6,B,18,,28,R,,W,M
+MILEY, Mike ,23,SS,7,B,13,,32,R,,W,M
+MINOSO, Minnie ,50,OF,1,R,1,,24,R,,W,M
+MOATES, Dave ,28,OF,2,L,17,,32,L,,W,M
+MONTGOMERY, Bob ,32,C,6,R,7,+0,31,R,,W,M
+MOORE, Junior ,23,3B+,3,R,10,,31,R,,W,M
+MORA, Andres ,21,OF,1,R,6,,26,R,,W,M
+MOTA, Manny ,38,OF,1,R,3,,23,R,,W,M
+MURPHY, Dale ,20,C,5,R,11,-2,32,R,,W,M
+MURRAY, Larry ,23,OF,2,B,17,,29,R,,W,M
+NAHORODNY, Bill ,22,C,6,R,5,-3,32,R,,W,M
+NELSON, Dave ,32,2B+,7,R,18,,28,R,,W,M
+NEWMAN, Jeff ,27,C,6,R,7,+5,32,R,,W,M
+NORDBROOK, Tim ,26,SS+,7,R,16,,32,R,,W,M
+NORDHAGEN, Wayne ,27,OF+,2,R,8,-2,34,R,,W,M
+NYMAN, Nyls ,22,OF,2,L,17,,33,R,,W,M
+PAPE, Ken ,24,SS+,7,R,15,,31,R,,W,M
+PASLEY, Kevin ,22,C,6,R,6,+0,31,R,,W,M
+PLUMMER, Bill ,29,C,7,R,5,-2,33,R,,W,M
+POTTER, Mike ,25,OF,1,R,11,,30,R,,W,M
+PRUITT, Ron ,24,OF+,1,R,16,-4,31,R,,W,M
+PRYOR, Greg ,26,2B+,6,R,14,,32,R,,W,M
+PUTMAN, Ed ,22,C+,5,R,8,-3,31,R,,W,M
+RAMIREZ, Orlando ,24,SS,7,R,16,,32,R,,W,M
+RANDALL, Bob ,28,2B,7,R,9,,28,R,,W,M
+RICHARD, Lee ,27,2B+,6,R,17,,32,R,,W,M
+RIVERA, Bombo ,23,OF,1,R,16,,28,R,,W,M
+ROBINSON, Craig ,27,2B+,7,R,16,,36,R,,W,M
+ROBLES, Sergio ,30,C,5,R,6,-4,31,R,,W,M
+ROCKETT, Pat ,21,SS,6,R,16,,32,R,,W,M
+ROENICKE, Gary ,21,OF,1,R,9,,31,R,,W,M
+ROSARIO, Jimmy ,31,OF,2,B,17,,32,R,,W,M
+ROSELLO, Dave ,26,SS+,7,R,15,,33,R,,W,M
+RUDOLPH, Ken ,29,C,6,R,5,-2,32,R,,W,M
+SADEK, Mike ,30,C,7,R,13,+0,32,R,,W,M
+SANDT, Tommy ,25,SS+,7,R,9,,31,R,,W,M
+SCANLON, Pat ,23,3B+,3,L,6,,29,R,,W,M
+SCRIVENER, Chuck ,28,2B+,6,R,10,,32,R,,W,M
+SHOPAY, Tom ,31,OF+,2,L,15,-4,30,R,,W,M
+SIMPSON, Joe ,24,OF,1,L,16,,33,L,,W,M
+SMITH, Billy ,22,SS,6,B,16,,31,R,,W,M
+SMITH, Tommy ,27,OF,1,L,17,,29,R,,W,M
+SPERRING, Rob ,26,3B+,4,R,16,,31,R,,W,M
+STILLMAN, Royle ,25,1B,2,L,10,,29,L,,W,M
+TABB, Jerry ,24,1B,3,L,13,,27,R,,W,M
+TAMARGO, John ,24,C,5,B,5,-4,28,R,,W,M
+TAVERAS, Alex ,20,SS+,8,R,16,,32,R,,W,M
+TAYLOR, Tony ,40,2B+,6,R,10,,29,R,,W,M
+TEMPLETON, Garry ,20,SS,7,B,18,,35,R,,W,M
+THOMAS, Dan ,25,OF,1,R,10,,29,R,,W,M
+THOMPSON, Jason ,21,1B,2,L,9,,28,L,,W,M
+TORRES, Rusty ,27,OF+,2,B,17,,36,R,,W,M
+TYRONE, Wayne ,25,OF+,1,R,8,,29,R,,W,M
+VARNEY, Pete ,27,C,5,R,6,-4,31,R,,W,M
+VUKOVICH, John ,28,3B+,4,R,6,,36,R,,W,M
+WAGNER, Mark ,22,SS,7,R,9,,33,R,,W,M
+WALLIS, Joe ,24,OF,2,B,16,,33,R,,W,M
+WALTON, Danny ,28,OF,1,B,13,,28,R,,W,M
+WATHAN, John ,26,C+,6,R,13,-3,30,R,,W,M
+WERNER, Don ,23,C,6,R,8,-3,30,R,,W,M
+WHITE, Jerry ,23,OF,2,B,18,,32,R,,W,M
+WHITFIELD, Terry ,23,OF,1,L,15,,29,R,,W,M
+WHITT, Ernie ,24,C,6,L,6,-3,31,R,,W,M
+WILSON, Willie ,20,OF,1,R,19,,33,R,,W,M
+WOODS, Gary ,21,OF,1,R,17,,32,R,,W,M
+WYNEGAR, Butch ,20,C,7,B,8,+2,32,R,,W,M
+YANCY, Hugh ,25,2B,6,R,12,,30,R,,W,M
+YOUNGBLOOD, Joel ,24,OF+,1,R,13,-4,27,R,,W,M
+ALCALA, Santo ,23,P,2,R,12,,,R,7 ,W,L
+ANDUJAR, Joaquin ,23,P,1,R,9,,,R,10 ,W,G
+ATKINSON, Bill ,21,P,1,L,6,,,R,5 *,XYZ,
+AUSTIN, Rick ,29,P,2,R,7,,,L,3 *,Z,M
+AUTRY, Al ,24,P,1,R,4,,,R,4 ,YW,M
+BACSIK, Mike ,24,P,1,R,7,,,R,5 *,,
+BAIR, Doug ,26,P,2,R,9,,,R,3 *,YW,G
+BANE, Eddie ,24,P,1,R,14,,,L,5 ,W,
+BARKER, Len ,20,P,1,R,7,,,R,11 ,YW,H
+BARLOW, Mike ,28,P,2,L,7,,,R,6 *,W,H
+BARR, Steve ,24,P,1,L,8,,,L,4/5 *,W,M
+BATTON, Chris ,21,P,1,R,5,,,R,1 ,XYW,M
+BEARE, Gary ,23,P,1,R,7,,,R,9 ,X,L
+BOGGS, Tommy ,20,P,2,R,8,,,R,6,,
+BRUNO, Tom ,23,P,1,R,5,,,R,3 *,YW,M
+CAMP, Rick ,23,P,1,R,9,,,R,1/2 *,YZ,H
+CAPILLA, Doug ,24,P,1,L,9,,,L,3 *,YW,G
+CAPRA, Buzz ,28,P,2,R,11,,,R,1 *,G,
+CHAMPION, Bill ,28,P,2,R,9,,,R,2 ,W,H
+CRAM, Jerry ,28,P,2,R,8,,,R,1 *,Z,
+CROSBY, Ken ,28,P,1,R,8,,,R,1 ,W,M
+DECKER, Joe ,29,P,2,R,12,,,R,4 ,YW,G
+DETTORE, Tom ,28,P,2,L,9,,,R,1 *,Z,M
+DUNNING, Steve ,27,P,1,R,13,,,R,4/5 *,X,
+DUPREE, Mike ,23,P,1,R,12,,,R,1 *,W,M
+EASTERLY, Jamie ,23,P,2,B,11,,,L,5 ,W,H
+FIDRYCH, Mark ,21,P,2,R,12,,,R,17 ,Z,
+FRAILING, Ken ,28,P,2,L,17,,,L,10/12 *,Y,H
+GLYNN, Ed ,23,P,1,R,8,,,L,3 ,XW,M
+GRIFFIN, Tom ,28,P,1,R,14,,,R,7/8 *,YW,G
+GRILLI, Steve ,27,P,2,R,8,,,R,7 *,YW,
+HAAS, Moose ,20,P,1,R,16,,,R,4/6 *,YW,H
+HALL, Tom ,28,P,1,L,12,,,L,7 *,XW,M
+HANNAHS, Gerry ,23,P,1,L,5,,,L,4 ,YW,M
+HARDY, Larry ,28,P,1,R,11,,,R,1 *,,
+HARTZELL, Paul ,22,P,1,R,8,,,R,12/13 *,Z,G
+HENDERSON, Joe ,29,P,1,L,6,,,R,9 *,YW,H
+HINTON, Rich ,29,P,1,L,6,,,L,1 ,M,
+JOHNSON, Jerry ,32,P,1,R,8,,,R,3/5 *,YW,H
+JONES, Rick ,21,P,2,L,11,,,L,9 ,Z,
+KEENER, Joe ,23,P,1,R,5,,,R,1 ,W,
+KERRIGAN, Joe ,22,P,1,R,8,,,R,7 *,,
+KNAPP, Chris ,22,P,1,R,6,,,R,6 ,XW,L
+KNEPPER, Bob ,22,P,2,L,7,,,L,6 ,Z,H
+KREUGER, Rick ,27,P,1,R,7,,,L,7 ,W,L
+KRUKOW, Mike ,24,P,1,R,11,,,R,1 *,W,
+KUCEK, Jack ,23,P,1,R,5,,,R,1 *,W,M
+LANDRETH, Larry ,21,P,1,R,8,,,R,5 ,YW,
+LANG, Chip ,23,P,1,R,5,,,R,3/6 *,W,G
+LANGFORD, Rick ,24,P,2,R,9,,,R,2/3 *,YW,
+LARSON, Dan ,21,P,2,R,15,,,R,9 ,G,
+LAXTON, Bill ,28,P,1,L,7,,,L,4/7 *,XW,M
+LEMONGELLO, Mark ,20,P,1,R,15,,,R,10 ,Z,
+LEWALLYN, Dennis ,22,P,1,R,6,,,R,9/13 *,,
+LUEBBER, Steve ,26,P,1,R,13,,,R,7/8 *,W,
+MacCORMACK, Frank ,21,P,2,R,5,,,R,3 ,W,G
+MARTINEZ, Dennis ,21,P,2,R,8,,,R,11 ,X,G
+McGREGOR, Scott ,22,P,2,B,8,,,L,5 ,H,
+McLAUGHLIN, Bo ,22,P,2,R,8,,,R,9 ,Z,
+MITCHELL, Craig ,22,P,1,R,7,,,R,4 *,Z,
+MITCHELL, Paul ,26,P,2,R,10,,,R,5 ,Z,M
+MONROE, Larry ,20,P,2,R,5,,,R,4/5 *,W,H
+MYRICK, Bob ,23,P,2,R,8,,,L,4/10 *,W,
+ODOM, Johnny ,31,P,1,R,15,,,R,4 ,YW,
+OTTEN, Jim ,24,P,1,R,7,,,R,4 *,G,
+OVERY, Mike ,25,P,1,R,7,,,R,2 *,XY,M
+OWCHINKO, Bob ,21,P,2,L,8,,,L,1 ,Y,
+PAGAN, Dave ,26,P,1,R,8,,,R,3/4 *,Y,G
+PARKER, Harry ,28,P,2,R,11,,,R,5 *,XYZ,G
+PAZIK, Mike ,26,P,1,L,8,,,L,2 *,YW,G
+POLE, Dick ,25,P,1,R,10,,,R,5,,
+PROLY, Mike ,25,P,2,R,7,,,R,5 *,H,
+RAICH, Eric ,24,P,1,R,10,,,R,1 *,Z,M
+REDFERN, Pete ,21,P,1,R,12,,,R,11 ,YW,
+REYNOLDS, Ken ,29,P,1,L,13,,,L,2/3 *,W,H
+RICCELLI, Frank ,23,P,1,L,8,,,L,3 ,Y,
+RONDON, Gilberto ,22,P,2,R,9,,,R,3/4 *,W,L
+SAMBITO, Joe ,24,P,2,L,9,,,L,5/7 *,YZ,
+SARMIENTO, Manny ,20,P,2,R,10,,,R,14 *,Z,H
+SIEBERT, Paul ,23,P,1,L,7,,,L,9 *,H,
+SKOK, Craig ,28,P,1,R,6,,,L,1 *,XW,M
+SOSA, Jose ,23,P,2,R,9,,,R,1 *,H,
+SPRAGUE, Ed ,30,P,1,R,9,,,R,1 *,Z,G
+SUTCLIFFE, Rick ,20,P,1,L,9,,,R,4 ,XZ,
+SUTTER, Bruce ,23,P,1,R,8,,,R,14 *,XYZ,
+TOMS, Tommy ,24,P,1,R,5,,,R,2 *,Z,L
+VERHOEVEN, John ,23,P,2,R,4,,,R,8 *,YZ,
+WALLACE, Mike ,25,P,1,L,6,,,L,7 *,YW,G
+WATERBURY, Steve ,24,P,1,R,6,,,R,3 *,YW,G
+WEHRMEISTER, Dave ,23,P,1,R,7,,,R,1 ,W,H
+WHEELOCK, Gary ,24,P,1,R,6,,,R,1 *,Y,
+YORK, Jim ,28,P,1,R,9,,,R,3 *,Y,L
+ZACHRY, Pat ,24,P,2,R,11,,,R,14 ,X,G
+ZAMORA, Oscar ,31,P,1,R,7,,,R,2/3 *,Z,M
