@@ -9,8 +9,9 @@ remove header lines
 
 import re
 
-year = 1975
-filex = r"C:\Users\pants\PycharmProjects\FantasySports\{}_draft_raw.txt".format(year)
+year = 1976
+filex = r"..\mossi_data\draft\{}_draft_raw.txt".format(
+    year)
 
 text_raw = open(filex, 'r').read()
 

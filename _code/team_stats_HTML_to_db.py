@@ -158,7 +158,7 @@ def save_to_db(data):
 
 if __name__ == '__main__':
     log.debug(f"\n\nRun program {__file__}")
-    TEST_PATH = r"C:\Users\pants\PycharmProjects\FantasySports\mossi_stat"
+    TEST_PATH = r"..\mossi_stat"
 
     new_files = get_all_files(TEST_PATH)
 

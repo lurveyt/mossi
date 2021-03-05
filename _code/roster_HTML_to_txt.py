@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 # files provided by Rich
 # TODO: get 'year' out of the code
 year = '76'
-roster_path = r"C:\Users\pants\PycharmProjects\FantasySports\mossi_stat\rosters"
+roster_path = r"..\mossi_stat\rosters"
 
 
 def file_writer(wfile, d):

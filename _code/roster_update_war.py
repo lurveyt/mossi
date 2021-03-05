@@ -47,7 +47,7 @@ def populate_players(wb: openpyxl.workbook, roster: dict, bat_or_pit: str = 'bat
 
 
 def main(*args):
-    excel_file = r"C:\Users\pants\PycharmProjects\FantasySports\MILWAUKEE_FULL_STATS2.xlsx"
+    excel_file = r"..\MILWAUKEE_FULL_STATS2.xlsx"
     shutil.copy(src=excel_file, dst=excel_file + "_bak")
     print('opening workbook for reading...')
     r_wb = openpyxl.load_workbook(excel_file, data_only=True)

@@ -3,8 +3,8 @@
 Run program C:/Users/pants/PycharmProjects/FantasySports/_code/team_stats_HTML_to_db.py
 2021-02-27 23:39:04 - DEBUG -team_stats_HTML_to_db.py.get_all_files():35 - Found file: MILbat.html
 2021-02-27 23:39:04 - DEBUG -team_stats_HTML_to_db.py.get_all_files():35 - Found file: MILpit.html
-2021-02-27 23:39:04 - DEBUG -team_stats_HTML_to_db.py.get_all_files():36 - Found 2 in C:\Users\pants\PycharmProjects\FantasySports\mossi_stat
-2021-02-27 23:39:04 - DEBUG -team_stats_HTML_to_db.py.get_HTML_data():144 - Running Batting on C:\Users\pants\PycharmProjects\FantasySports\mossi_stat\MILbat.html
+2021-02-27 23:39:04 - DEBUG -team_stats_HTML_to_db.py.get_all_files():36 - Found 2 in ..\mossi_stat
+2021-02-27 23:39:04 - DEBUG -team_stats_HTML_to_db.py.get_HTML_data():144 - Running Batting on ..\mossi_stat\MILbat.html
 2021-02-27 23:39:04 - DEBUG -team_stats_HTML_to_db.py.get_batting():71 - Working on 1975 Milwaukee Lagers Player Batting
 2021-02-27 23:39:04 - DEBUG -team_stats_HTML_to_db.py.get_batting():99 - Found keys: ['26 Players', 'Tm', 'Lg', 'AVG', 'G', 'AB', 'R', 'H', '2B', '3B', 'HR', 'TB', 'RBI', 'SO', 'BB', 'ASB', 'SB', 'CS', 'SBP', 'GDP', '26 Players', 'Tm', 'Lg', 'AVG', 'G', 'AB', 'R', 'H', 'DBL', '3B', 'HR', 'TB', 'RBI', 'SO', 'BB', 'ASB', 'SB', 'CS', 'SBP', 'GDP', '26 Players', 'Tm', 'Lg', 'AVG', 'G', 'AB', 'R', 'H', '2B', 'TPL', 'HR', 'TB', 'RBI', 'SO', 'BB', 'ASB', 'SB', 'CS', 'SBP', 'GDP']
 2021-02-27 23:39:04 - DEBUG -team_stats_HTML_to_db.py.get_batting():106 - Found vals: ['RYAN, N.', 'MIL', 'AL', ' .400', '2', '5', '0', '2', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0', '-', '0']
@@ -121,8 +121,8 @@ Run program C:/Users/pants/PycharmProjects/FantasySports/_code/team_stats_HTML_t
 Run program C:/Users/pants/PycharmProjects/FantasySports/_code/team_stats_HTML_to_db.py
 2021-02-27 23:41:38 - DEBUG -team_stats_HTML_to_db.py.get_all_files():35 - Found file: MILbat.html
 2021-02-27 23:41:38 - DEBUG -team_stats_HTML_to_db.py.get_all_files():35 - Found file: MILpit.html
-2021-02-27 23:41:38 - DEBUG -team_stats_HTML_to_db.py.get_all_files():36 - Found 2 in C:\Users\pants\PycharmProjects\FantasySports\mossi_stat
-2021-02-27 23:41:38 - DEBUG -team_stats_HTML_to_db.py.get_HTML_data():145 - Running Batting on C:\Users\pants\PycharmProjects\FantasySports\mossi_stat\MILbat.html
+2021-02-27 23:41:38 - DEBUG -team_stats_HTML_to_db.py.get_all_files():36 - Found 2 in ..\mossi_stat
+2021-02-27 23:41:38 - DEBUG -team_stats_HTML_to_db.py.get_HTML_data():145 - Running Batting on ..\mossi_stat\MILbat.html
 2021-02-27 23:41:38 - DEBUG -team_stats_HTML_to_db.py.get_batting():71 - Working on 1975 Milwaukee Lagers Player Batting
 2021-02-27 23:41:38 - DEBUG -team_stats_HTML_to_db.py.get_batting():100 - Found keys: ['26 Players', 'Tm', 'Lg', 'AVG', 'G', 'AB', 'R', 'H', 'DBL', 'TPL', 'HR', 'TB', 'RBI', 'SO', 'BB', 'ASB', 'SB', 'CS', 'SBP', 'GDP']
 2021-02-27 23:41:38 - DEBUG -team_stats_HTML_to_db.py.get_batting():107 - Found vals: ['RYAN, N.', 'MIL', 'AL', ' .400', '2', '5', '0', '2', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0', '-', '0']
