@@ -67,8 +67,7 @@ def configure_logger(default_level='DEBUG', **kwargs):
     return logging.getLogger('default')
 
 
-
-class funcLogger():
+class funcLogger:
     """This is a class to manage file logging"""
     _func_count = {}
 
@@ -84,6 +83,7 @@ class funcLogger():
     @property
     def counts(self):
         return self._func_count
+
 
 flog = funcLogger()
 
