@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 # files provided by Rich
 # TODO: get 'year' out of the code
-year = '76'
+year = '77'
 roster_path = os.path.join(os.getcwd(), r"mossi_data\rosters")
 
 
@@ -21,9 +21,11 @@ def file_writer(wfile, d):
     :type d: dict
     """
     with open(os.path.join(roster_path, wfile), 'w') as W:
-        for k in sorted(d.keys()):  # for each team
-            for val in d.get(k):    # for each player
-                W.write(';;'.join([k, val]) + "\n")
+        for league, teams in sorted(d.items()):
+            for team, players in sorted(teams.items()):
+                for player in players:
+                    W.write(f"{league};")
+                    W.write(";;".join([team, player]) + "\n")
 
 
 files = []
@@ -31,50 +33,64 @@ for f in os.listdir(roster_path):
     if 'roster' in f.lower() and year in f.lower() and f.lower().endswith('html'):
         files.append(os.path.join(roster_path, f))
 
-# global dictionaries
-d_pitch_all = {}
-d_pos_all = {}
+# establish local dictionaries for data capture
+d_pitch = {}
+d_pos = {}
+
+
+def read_table_for_names(table, league, pdict):
+    """
+    Read the table and add extracted named to dictionary, formatted.
+
+    :param table: the HTML soup table
+    :param league: league string
+    :param pdict: the dictionary to add data to
+    :return: the dictionary with added data
+    """
+    for row in table.find_all('tr'):
+        # keep only the lines that have text
+        table_data = [s.string.strip() for s in row.find_all('td')]
+        # skip blank line in table
+        if not table_data[0]:
+            continue
+        # add ' to grade because MS Excel is a shit program
+        table_data[2] = "'{0}".format(table_data[2].strip())
+        # get the existing list
+        existing = pdict[league].get(team_name, [])
+        # update the team sub dict
+        dteam = {team_name: existing + [';'.join(map(str, table_data))]}
+        # update the league dict
+        pdict[league].update(dteam)
+
+    return pdict
+
 
 for filex in files:
     # turn the html file into soup object
     url = (r"file:///" + filex).replace("\\", "/")
     soup = BeautifulSoup(urllib.request.urlopen(url), 'lxml')
-    # establish local dictionaries for data capture
-    d_pitch = {}
-    d_pos = {}
-    # loop by team
-    for team in soup.body.find_all("p"):
-        # data capture setup
-        team_name = team.text.split("(")[0].strip()
-        d_pitch.update({team_name: []})
-        d_pos.update({team_name: []})
-        tables = [t for t in team.parent.find_all("td") if not t.attrs]
-        # loop over all sub-tables
-        for i in range(0, len(tables)+1):
-            # each team has 2 tables, one pitching and one position player
-            # only parse 2 tables per team name
-            if (i - i % 2)/2 == (len(d_pitch) - 1):
-                # consume table chunk-wise by 6
-                for multiple in range(0, int((len(tables[i].find_all("td"))/6))-1):
-                    table_data = []
-                    for n in range(0, 6):
-                        table_data.append(tables[i].find_all("td")[n + (multiple * 6)].string)
 
-                    # add ' to grade because MS Excel is a shit program
-                    table_data[2] = "'{0}".format(table_data[2].strip())
+    for node in soup.find_all("p"):
+        # get the league if it's a new league
+        if "AL " in node.text or "NL " in node.text:
+            league = node.text
+            d_pitch.update({league: {}})
+            d_pos.update({league: {}})
+            continue
+        # get the team if its a new team,
+        else:
+            team_name = node.text.split(r"(")[0].strip()
+            # get the next table down
+            main_table = node.nextSibling.nextSibling.tr
+            # the two sub tables are pitchers and postion players
+            pitch_table = main_table.contents[1].contents[1]
+            player_table = main_table.contents[3].contents[1]
 
-                    # add data to dictionary
-                    if "pitchers" in tables[i].find_all("td")[0].string.lower():
-                        # keep only player lines, not headers
-                        if 'PITCHERS' not in table_data[0]:
-                            d_pitch.update({team_name: d_pitch.get(team_name) + [';'.join(map(str, table_data))]})
-                    else:
-                        if 'PLAYERS' not in table_data[0]:
-                            d_pos.update({team_name: d_pos.get(team_name) + [';'.join(map(str, table_data))]})
-    # push the local dict to the global
-    d_pitch_all.update(d_pitch)
-    d_pos_all.update(d_pos)
+            # read the tables for the players
+            d_pitch = read_table_for_names(pitch_table, league, d_pitch)
+            d_pos = read_table_for_names(player_table, league, d_pos)
+
 
 # write data to files
-file_writer(wfile="roster_{}_pitchers.txt".format(year), d=d_pitch_all)
-file_writer(wfile="roster_{}_players.txt".format(year), d=d_pos_all)
+file_writer(wfile="roster_{}_pitchers.txt".format(year), d=d_pitch)
+file_writer(wfile="roster_{}_players.txt".format(year), d=d_pos)

@@ -9,13 +9,13 @@ remove header lines
 
 import re
 
-year = 1976
+year = 1977
 filex = r"..\mossi_data\draft\{}_draft_raw.txt".format(
     year)
 
 text_raw = open(filex, 'r').read()
 
-patrn = "{Name}\s{Age}\s{Pos}\s{D}\s{B}\s{Sp}\s{Th}\s?{Arm}\s?{T}\s?{Grade}\s?{Ctrl}\s?{HR}\s?\n".format(
+patrn = "{Name}\s{Age}\s{Pos}\s{D}\s{B}\s{Sp}\s{Th}\s?{Arm}\s?{T}\s?{Grade}\s?{Ctrl}\s?{HR}\s?".format(
     Name=r"(?P<Name>[A-Za-z]+,.+?[A-Za-z]{1,}\s?\w?\.?)",
     Age=r"(?P<Age>(?:\d\d)|(?:0))",
     Pos=r"(?P<Pos>[A-Z0-9][A-Z]?\+?)",
@@ -40,7 +40,7 @@ text_strip = re.sub(pattern="Player Name.+?\n", repl="", string=text_strip)
 
 # sub all the player info
 for key, DE in delimiters.items():
-    rplce = "\g<Name> {0}\g<Age>{0}\g<Pos>{0}\g<D>{0}\g<B>{0}\g<Sp>{0}\g<Th>{0}\g<Arm>{0}\g<T>{0}\g<Grade>{0}\g<Ctrl>{0}\g<HR>\n".format(DE)
+    rplce = "\g<Name> {0}\g<Age>{0}\g<Pos>{0}\g<D>{0}\g<B>{0}\g<Sp>{0}\g<Th>{0}\g<Arm>{0}\g<T>{0}\g<Grade>{0}\g<Ctrl>{0}\g<HR>".format(DE)
     sub_text = re.sub(pattern=patrn, repl=rplce, string=text_strip)
 
     # sub on the title line
