@@ -53,7 +53,7 @@ def main(*args):
     r_wb = openpyxl.load_workbook(excel_file, data_only=True)
     print('- begin read')
     #
-    rost_dict = build_roster_dict(teams=r_wb['ROSTERS']['A:A'], ids=r_wb['ROSTERS']['B:B'])
+    rost_dict = build_roster_dict(teams=r_wb['ROSTERS']['B:B'], ids=r_wb['ROSTERS']['C:C'])
     print('- rosters built')
     r_wb.close()
     print('closing workbook for reading')
@@ -70,7 +70,6 @@ def main(*args):
     print('saving...')
     w_wb.save(excel_file)
     print('done!')
-    pass
 
 
 if __name__ == '__main__':

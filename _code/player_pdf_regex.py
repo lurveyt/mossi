@@ -9,7 +9,7 @@ remove header lines
 
 import re
 
-year = 1977
+year = 1978
 filex = r"..\mossi_data\draft\{}_draft_raw.txt".format(
     year)
 
@@ -40,7 +40,7 @@ text_strip = re.sub(pattern="Player Name.+?\n", repl="", string=text_strip)
 
 # sub all the player info
 for key, DE in delimiters.items():
-    rplce = "\g<Name> {0}\g<Age>{0}\g<Pos>{0}\g<D>{0}\g<B>{0}\g<Sp>{0}\g<Th>{0}\g<Arm>{0}\g<T>{0}\g<Grade>{0}\g<Ctrl>{0}\g<HR>".format(DE)
+    rplce = "\g<Name> {0}\g<Age>{0}\g<Pos>{0}\g<D>{0}\g<B>{0}\g<Sp>{0}\g<Th>{0}\g<Arm>{0}\g<T>{0}\g<Grade>{0}\g<Ctrl>{0}\g<HR>\n".format(DE)
     sub_text = re.sub(pattern=patrn, repl=rplce, string=text_strip)
 
     # sub on the title line
