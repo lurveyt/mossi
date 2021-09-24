@@ -4,12 +4,13 @@ and combine the rosters for pitching and position players into single files.
 """
 
 import os
+import re
 import urllib.request
 from bs4 import BeautifulSoup
 
 # files provided by Rich
 # TODO: get 'year' out of the code
-year = '78'
+year = '79'
 roster_path = os.path.join(os.getcwd(), r"mossi_data\rosters")
 
 
@@ -72,8 +73,14 @@ for filex in files:
 
     for node in soup.find_all("p"):
         # get the league if it's a new league
-        if "AL " in node.text or "NL " in node.text:
-            league = node.text
+        if "AL " in node.text or "NL " in node.text or "Division" in node.text:
+            pattern = re.compile("[AN]L")
+
+            if pattern.search(node.text):
+                league = node.text
+            else:
+                league = " ".join([pattern.search(string=filex).group(), node.text])
+
             d_pitch.update({league: {}})
             d_pos.update({league: {}})
             continue
