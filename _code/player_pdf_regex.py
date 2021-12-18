@@ -9,13 +9,13 @@ remove header lines
 
 import re
 
-year = 1978
+year = 1981
 filex = r"..\mossi_data\draft\{}_draft_raw.txt".format(
     year)
 
 text_raw = open(filex, 'r').read()
 
-patrn = "{Name}\s{Age}\s{Pos}\s{D}\s{B}\s{Sp}\s{Th}\s?{Arm}\s?{T}\s?{Grade}\s?{Ctrl}\s?{HR}\s?".format(
+patrn = "{Name}\s{Age}\s{Pos}\s{D}\s{B}\s{Sp}\s{Th}\s?{Arm}\s?{T}\s?{Grade}\s?{Ctrl}\s?{HR}\s?\n".format(
     Name=r"(?P<Name>[A-Za-z]+,.+?[A-Za-z]{1,}\s?\w?\.?)",
     Age=r"(?P<Age>(?:\d\d)|(?:0))",
     Pos=r"(?P<Pos>[A-Z0-9][A-Z]?\+?)",
@@ -29,7 +29,7 @@ patrn = "{Name}\s{Age}\s{Pos}\s{D}\s{B}\s{Sp}\s{Th}\s?{Arm}\s?{T}\s?{Grade}\s?{C
     Ctrl=r"(?P<Ctrl>\w+)?",
     HR=r"(?P<HR>[A-Z])?")
 
-# re.findall(pattern=patrn, string=text)    ## DEBUG
+# found = re.findall(pattern=patrn, string=text_raw)    ## DEBUG
 
 # set delimiter
 delimiters = {'TAB': "\t", 'SEMICOL': ";", 'COMMA': ","}
