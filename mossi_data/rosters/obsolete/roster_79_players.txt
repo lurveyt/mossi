@@ -1,0 +1,358 @@
+AL East Division;Detroit Dirtbags;;PLAYERS - 16;Pos;'D;B;Sp;Other Positions
+AL East Division;Detroit Dirtbags;;CERONE, Rick;C;'7;R;10;
+AL East Division;Detroit Dirtbags;;FOSSE, Ray;C+;'7;R;6;1B2
+AL East Division;Detroit Dirtbags;;SWISHER, Steve;C;'7;R;5;
+AL East Division;Detroit Dirtbags;;HERNANDEZ, Keith;1B;'5;L;8;
+AL East Division;Detroit Dirtbags;;MURPHY, Dale;1B+;'2;R;11;C5
+AL East Division;Detroit Dirtbags;;RANDOLPH, Willie;2B;'8;R;18;
+AL East Division;Detroit Dirtbags;;McKAY, Dave;2B+;'7;B;12;3B4
+AL East Division;Detroit Dirtbags;;TRAMMELL, Alan;SS;'9;R;15;
+AL East Division;Detroit Dirtbags;;CHANEY, Darrel;SS+;'8;B;11;C5, 2B7, 3B4
+AL East Division;Detroit Dirtbags;;VALENTINE, Bobby;SS+;'7;R;10;C5, 2B6, 3B3, OF2
+AL East Division;Detroit Dirtbags;;WINFIELD, Dave;OF;'3;R;17;
+AL East Division;Detroit Dirtbags;;BONNELL, Barry;OF+;'2;R;16;3B3
+AL East Division;Detroit Dirtbags;;HARLOW, Larry;OF;'2;L;17;
+AL East Division;Detroit Dirtbags;;HERNDON, Larry;OF;'2;R;18;
+AL East Division;Detroit Dirtbags;;MORALES, Jerry;OF;'2;R;12;
+AL East Division;Detroit Dirtbags;;GUERRERO, Pedro;OF+;'1;R;15;1B2, 3B3
+AL East Division;Flushing Metropolitans;;PLAYERS - 17;Pos;'D;B;Sp;Other Positions
+AL East Division;Flushing Metropolitans;;WYNEGAR, Butch;C;'8;B;6;
+AL East Division;Flushing Metropolitans;;BOCHTE, Bruce;1B;'3;L;3;
+AL East Division;Flushing Metropolitans;;WOCKENFUSS, John;1B+;'2;R;6;C6, OF1
+AL East Division;Flushing Metropolitans;;DAUER, Rich;2B+;'8;R;9;3B3
+AL East Division;Flushing Metropolitans;;HARRELSON, Bud;2B+;'8;B;15;3B3, SS7, OF1
+AL East Division;Flushing Metropolitans;;KENNEDY, Junior;2B+;'7;R;16;3B4, SS8
+AL East Division;Flushing Metropolitans;;SCHMIDT, Mike;3B+;'5;R;16;SS7
+AL East Division;Flushing Metropolitans;;ONTIVEROS, Steve;3B+;'4;B;5;1B2
+AL East Division;Flushing Metropolitans;;ROYSTER, Jerry;3B+;'4;R;17;2B7
+AL East Division;Flushing Metropolitans;;SMALLEY, Roy;SS+;'9;B;12;1B2
+AL East Division;Flushing Metropolitans;;THOMAS, Gorman;OF;'3;R;15;
+AL East Division;Flushing Metropolitans;;BUMBRY, Al;OF;'2;L;18;
+AL East Division;Flushing Metropolitans;;NORTH, Bill;OF;'2;B;18;
+AL East Division;Flushing Metropolitans;;POWELL, Hosken;OF;'2;L;17;
+AL East Division;Flushing Metropolitans;;JACKSON, Reggie;OF;'1;L;16;
+AL East Division;Flushing Metropolitans;;KINGMAN, Dave;OF;'1;R;8;
+AL East Division;Flushing Metropolitans;;LOWENSTEIN, John;OF+;'1;L;16;1B2, 3B3
+AL East Division;Germantown Toros;;PLAYERS - 17;Pos;'D;B;Sp;Other Positions
+AL East Division;Germantown Toros;;PARRISH, Lance;C;'7;R;6;
+AL East Division;Germantown Toros;;STEARNS, John;C+;'7;R;11;1B2, 3B3, OF1
+AL East Division;Germantown Toros;;STINSON, Bob;C;'7;B;5;
+AL East Division;Germantown Toros;;PUTNAM, Pat;1B;'3;L;5;
+AL East Division;Germantown Toros;;STARGELL, Willie;1B;'3;L;3;
+AL East Division;Germantown Toros;;TRILLO, Manny;2B;'8;R;11;
+AL East Division;Germantown Toros;;PARRISH, Larry;3B;'5;R;10;
+AL East Division;Germantown Toros;;HEBNER, Richie;3B+;'3;L;6;1B3
+AL East Division;Germantown Toros;;FRIAS, Pepe;SS;'8;R;12;
+AL East Division;Germantown Toros;;KESSINGER, Don;SS+;'8;B;8;1B2, 2B7
+AL East Division;Germantown Toros;;TAVERAS, Frank;SS;'8;R;18;
+AL East Division;Germantown Toros;;BAKER, Dusty;OF;'2;R;9;
+AL East Division;Germantown Toros;;BONDS, Bobby;OF;'2;R;16;
+AL East Division;Germantown Toros;;DAVIS, Willie;OF;'2;L;15;
+AL East Division;Germantown Toros;;FOSTER, George;OF;'2;R;5;
+AL East Division;Germantown Toros;;SMITH, Reggie;OF;'2;B;10;
+AL East Division;Germantown Toros;;LUZINSKI, Greg;OF;'1;R;4;
+AL East Division;MIll Creek Crankers;;PLAYERS - 17;Pos;'D;B;Sp;Other Positions
+AL East Division;MIll Creek Crankers;;OTT, Ed;C;'7;L;8;
+AL East Division;MIll Creek Crankers;;BENEDICT, Bruce;C;'6;R;9;
+AL East Division;MIll Creek Crankers;;BOCHY, Bruce;C;'6;R;3;
+AL East Division;MIll Creek Crankers;;BERGMAN, Dave;1B;'3;L;16;
+AL East Division;MIll Creek Crankers;;DWYER, Jim;1B+;'2;L;11;OF2
+AL East Division;MIll Creek Crankers;;GONZALEZ, Fernando;2B+;'7;R;8;3B4
+AL East Division;MIll Creek Crankers;;TYSON, Mike;2B;'7;R;12;
+AL East Division;MIll Creek Crankers;;HUBBARD, Glenn;2B;'6;R;13;
+AL East Division;MIll Creek Crankers;;CUBBAGE, Mike;3B+;'3;L;6;1B2, 2B6
+AL East Division;MIll Creek Crankers;;PATEK, Freddie;SS;'8;R;17;
+AL East Division;MIll Creek Crankers;;MULLINIKS, Rance;SS;'7;L;11;
+AL East Division;MIll Creek Crankers;;DAWSON, Andre;OF;'3;R;17;
+AL East Division;MIll Creek Crankers;;OFFICE, Rowland;OF;'3;L;17;
+AL East Division;MIll Creek Crankers;;GRIFFEY, Ken;OF;'2;L;17;
+AL East Division;MIll Creek Crankers;;LEONARD, Jeffrey;OF;'2;R;18;
+AL East Division;MIll Creek Crankers;;DAVIS, Dick;OF;'1;R;15;
+AL East Division;MIll Creek Crankers;;ROENICKE, Gary;OF;'1;R;10;
+AL East Division;Melbourne Thunder;;PLAYERS - 19;Pos;'D;B;Sp;Other Positions
+AL East Division;Melbourne Thunder;;BOONE, Bob;C+;'8;R;5;3B3
+AL East Division;Melbourne Thunder;;MARTINEZ, Buck;C;'7;R;3;P1
+AL East Division;Melbourne Thunder;;SCOTT, George;1B+;'3;R;5;3B3
+AL East Division;Melbourne Thunder;;REVERING, Dave;1B;'2;L;4;
+AL East Division;Melbourne Thunder;;WILFONG, Rob;2B+;'8;L;17;OF1
+AL East Division;Melbourne Thunder;;CASH, Dave;2B;'6;R;15;
+AL East Division;Melbourne Thunder;;BANDO, Sal;3B+;'5;R;4;P1, 1B2, 2B5
+AL East Division;Melbourne Thunder;;CABELL, Enos;3B+;'4;R;17;1B4
+AL East Division;Melbourne Thunder;;MEYER, Dan;3B+;'3;L;14;1B3, OF1
+AL East Division;Melbourne Thunder;;GARCIA, Kiko;SS+;'8;R;17;2B6, 3B3, OF1
+AL East Division;Melbourne Thunder;;METZGER, Roger;SS+;'8;B;10;2B7, 3B3
+AL East Division;Melbourne Thunder;;VERYZER, Tom;SS;'8;R;11;
+AL East Division;Melbourne Thunder;;GUERRERO, Mario;SS;'7;R;5;
+AL East Division;Melbourne Thunder;;GERONIMO, Cesar;OF;'3;L;17;
+AL East Division;Melbourne Thunder;;MORENO, Omar;OF;'3;L;19;
+AL East Division;Melbourne Thunder;;PARKER, Dave;OF;'3;L;17;
+AL East Division;Melbourne Thunder;;ROBINSON, Bill;OF+;'2;R;15;1B3, 3B3
+AL East Division;Melbourne Thunder;;HORTON, Willie;OF;'1;R;2;
+AL East Division;Melbourne Thunder;;KEMP, Steve;OF;'1;L;10;
+AL West Division;Beantown Loafers;;PLAYERS - 20;Pos;'D;B;Sp;Other Positions
+AL West Division;Beantown Loafers;;HASSEY, Ron;C+;'7;L;4;1B2
+AL West Division;Beantown Loafers;;HUMPHREY, Terry;C;'7;R;6;
+AL West Division;Beantown Loafers;;CORRELL, Vic;C;'6;R;6;
+AL West Division;Beantown Loafers;;POCOROBA, Biff;C;'6;B;8;
+AL West Division;Beantown Loafers;;THOMPSON, Jason;1B;'3;L;8;
+AL West Division;Beantown Loafers;;MAY, Lee;1B;'2;R;3;
+AL West Division;Beantown Loafers;;SCOTT, Rodney;2B+;'8;B;19;SS7
+AL West Division;Beantown Loafers;;MOLITOR, Paul;2B+;'7;R;18;SS7
+AL West Division;Beantown Loafers;;SMITH, Billy;2B+;'7;B;17;SS6
+AL West Division;Beantown Loafers;;DUFFY, Frank;2B+;'6;R;12;1B2
+AL West Division;Beantown Loafers;;REITZ, Ken;3B;'5;R;3;
+AL West Division;Beantown Loafers;;MANKOWSKI, Phil;3B;'4;L;9;
+AL West Division;Beantown Loafers;;GARCIA, Damaso;SS+;'6;R;17;3B3
+AL West Division;Beantown Loafers;;MANNING, Rick;OF;'3;L;18;
+AL West Division;Beantown Loafers;;BANNISTER, Alan;OF+;'2;R;18;1B2, 2B6, 3B3
+AL West Division;Beantown Loafers;;GROSS, Greg;OF;'2;L;10;
+AL West Division;Beantown Loafers;;LANDREAUX, Ken;OF;'2;L;18;
+AL West Division;Beantown Loafers;;DAVALILLO, Vic;OF;'1;L;10;
+AL West Division;Beantown Loafers;;NORWOOD, Willie;OF;'1;R;17;
+AL West Division;Beantown Loafers;;POQUETTE, Tom;OF;'1;L;8;
+AL West Division;Milwaukee Lagers;;PLAYERS - 14;Pos;'D;B;Sp;Other Positions
+AL West Division;Milwaukee Lagers;;DOWNING, Brian;C;'7;R;10;
+AL West Division;Milwaukee Lagers;;SANGUILLEN, Manny;C+;'5;R;7;1B2
+AL West Division;Milwaukee Lagers;;GARVEY, Steve;1B;'5;R;10;
+AL West Division;Milwaukee Lagers;;STAUB, Rusty;1B+;'2;L;2;OF1
+AL West Division;Milwaukee Lagers;;GONZALEZ, Julio;2B+;'8;R;16;3B4, SS7
+AL West Division;Milwaukee Lagers;;MORGAN, Joe;2B;'8;L;16;
+AL West Division;Milwaukee Lagers;;GANTNER, Jim;3B+;'4;L;16;P1, 2B7, SS7
+AL West Division;Milwaukee Lagers;;SODERHOLM, Eric;3B+;'4;R;4;1B2
+AL West Division;Milwaukee Lagers;;DENT, Bucky;SS;'9;R;8;
+AL West Division;Milwaukee Lagers;;PUHL, Terry;OF;'3;L;16;
+AL West Division;Milwaukee Lagers;;GARR, Ralph;OF;'1;L;16;
+AL West Division;Milwaukee Lagers;;MILNER, John;OF+;'1;L;8;1B2
+AL West Division;Milwaukee Lagers;;TURNER, Jerry;OF;'1;L;11;
+AL West Division;Milwaukee Lagers;;ZISK, Richie;OF;'1;R;4;
+AL West Division;Porltand Peaks;;PLAYERS - 17;Pos;'D;B;Sp;Other Positions
+AL West Division;Porltand Peaks;;ASHBY, Alan;C;'8;B;6;
+AL West Division;Porltand Peaks;;DYER, Duffy;C;'8;R;3;
+AL West Division;Porltand Peaks;;RADER, Dave;C;'6;L;5;
+AL West Division;Porltand Peaks;;BUCKNER, Bill;1B;'4;L;10;
+AL West Division;Porltand Peaks;;CARTY, Rico;1B;'2;R;1;
+AL West Division;Porltand Peaks;;RANDALL, Bob;2B+;'8;R;9;3B3, SS6, OF1
+AL West Division;Porltand Peaks;;LANDESTOY, Rafael;2B+;'7;B;18;SS7
+AL West Division;Porltand Peaks;;BRETT, George;3B+;'4;L;17;1B2
+AL West Division;Porltand Peaks;;MADLOCK, Bill;3B+;'4;R;16;1B2, 2B7
+AL West Division;Porltand Peaks;;BURLESON, Rick;SS;'9;R;12;
+AL West Division;Porltand Peaks;;GRIFFIN, Alfredo;SS;'8;B;18;
+AL West Division;Porltand Peaks;;DILONE, Miguel;OF;'2;B;19;
+AL West Division;Porltand Peaks;;LeFLORE, Ron;OF;'2;R;18;
+AL West Division;Porltand Peaks;;THOMPSON, Scot;OF;'2;L;12;
+AL West Division;Porltand Peaks;;McRAE, Hal;OF;'1;R;10;
+AL West Division;Porltand Peaks;;NORRIS, Jim;OF;'1;L;16;
+AL West Division;Porltand Peaks;;RICE, Jim;OF;'1;R;12;
+AL West Division;Scottsburgh Spiders;;PLAYERS - 16;Pos;'D;B;Sp;Other Positions
+AL West Division;Scottsburgh Spiders;;BENCH, Johnny;C+;'8;R;5;1B2
+AL West Division;Scottsburgh Spiders;;MAY, Milt;C;'7;L;3;
+AL West Division;Scottsburgh Spiders;;MOORE, Charlie;C;'7;R;14;
+AL West Division;Scottsburgh Spiders;;HUTTON, Tom;1B+;'5;L;8;OF1
+AL West Division;Scottsburgh Spiders;;WHITE, Frank;2B;'9;R;17;
+AL West Division;Scottsburgh Spiders;;BELL, Buddy;3B+;'5;R;9;SS8
+AL West Division;Scottsburgh Spiders;;BOWA, Larry;SS;'10;B;18;
+AL West Division;Scottsburgh Spiders;;PHILLIPS, Mike;SS+;'8;L;14;2B7, 3B3
+AL West Division;Scottsburgh Spiders;;EVANS, Dwight;OF;'3;R;15;
+AL West Division;Scottsburgh Spiders;;CROMARTIE, Warren;OF;'2;L;15;
+AL West Division;Scottsburgh Spiders;;MUMPHREY, Jerry;OF;'2;B;18;
+AL West Division;Scottsburgh Spiders;;OGLIVIE, Ben;OF+;'2;L;16;1B2
+AL West Division;Scottsburgh Spiders;;RIVERS, Mickey;OF;'2;L;18;
+AL West Division;Scottsburgh Spiders;;HENDERSON, Steve;OF;'1;R;17;
+AL West Division;Scottsburgh Spiders;;SMITH, Lonnie;OF;'1;R;18;
+AL West Division;Scottsburgh Spiders;;WHITE, Roy;OF;'1;B;12;
+AL West Division;Tri City Atomics;;PLAYERS - 16;Pos;'D;B;Sp;Other Positions
+AL West Division;Tri City Atomics;;PORTER, Darrell;C;'8;L;7;
+AL West Division;Tri City Atomics;;JOHNSON, Cliff;C;'5;R;4;
+AL West Division;Tri City Atomics;;CHAMBLISS, Chris;1B;'4;L;6;
+AL West Division;Tri City Atomics;;MAYBERRY, John;1B;'4;L;3;
+AL West Division;Tri City Atomics;;KUIPER, Duane;2B;'8;L;16;
+AL West Division;Tri City Atomics;;ALMON, Bill;2B+;'7;R;17;SS8, OF1
+AL West Division;Tri City Atomics;;BERRA, Dale;3B+;'3;R;14;SS6
+AL West Division;Tri City Atomics;;HORNER, Bob;3B+;'3;R;7;1B2
+AL West Division;Tri City Atomics;;WASHINGTON, U. L.;SS+;'8;B;18;2B7, 3B4
+AL West Division;Tri City Atomics;;OESTER, Ron;SS;'7;B;15;
+AL West Division;Tri City Atomics;;BENIQUEZ, Juan;OF+;'3;R;18;3B3
+AL West Division;Tri City Atomics;;ARMAS, Tony;OF;'2;R;9;
+AL West Division;Tri City Atomics;;NORDHAGEN, Wayne;OF+;'2;R;6;P1, C5
+AL West Division;Tri City Atomics;;WASHINGTON, Claudell;OF;'2;L;16;
+AL West Division;Tri City Atomics;;BROCK, Lou;OF;'1;L;16;
+AL West Division;Tri City Atomics;;WOODS, Al;OF;'1;L;15;
+NL East Division;Mississippi Mudhens;;PLAYERS - 17;Pos;'D;B;Sp;Other Positions
+NL East Division;Mississippi Mudhens;;COX, Larry;C;'8;R;5;
+NL East Division;Mississippi Mudhens;;McCARVER, Tim;C+;'6;L;7;OF1
+NL East Division;Mississippi Mudhens;;ALEXANDER, Gary;C+;'5;R;6;OF1
+NL East Division;Mississippi Mudhens;;GARNER, Phil;2B+;'8;R;15;3B3, SS7
+NL East Division;Mississippi Mudhens;;HOWE, Art;2B+;'7;R;6;1B3, 3B4
+NL East Division;Mississippi Mudhens;;SMITH, Ozzie;SS;'9;B;18;
+NL East Division;Mississippi Mudhens;;LYNN, Fred;OF;'3;L;10;
+NL East Division;Mississippi Mudhens;;OTIS, Amos;OF;'3;R;17;
+NL East Division;Mississippi Mudhens;;THOMAS, Derrel;OF+;'3;B;17;1B2, 2B6, 3B3, SS6
+NL East Division;Mississippi Mudhens;;FORD, Dan;OF;'2;R;16;
+NL East Division;Mississippi Mudhens;;MONDAY, Rick;OF;'2;L;7;
+NL East Division;Mississippi Mudhens;;ROBERTS, Leon;OF;'2;R;6;
+NL East Division;Mississippi Mudhens;;WOHLFORD, Jim;OF;'2;R;17;
+NL East Division;Mississippi Mudhens;;EASLER, Mike;OF;'1;L;11;
+NL East Division;Mississippi Mudhens;;HARGROVE, Mike;OF+;'1;L;6;1B3
+NL East Division;Mississippi Mudhens;;LACY, Lee;OF+;'1;R;15;2B6
+NL East Division;Mississippi Mudhens;;VELEZ, Otto;OF+;'1;R;7;1B2
+NL East Division;Philadelphia J's;;PLAYERS - 22;Pos;'D;B;Sp;Other Positions
+NL East Division;Philadelphia J's;;HILL, Marc;C+;'7;R;3;1B2
+NL East Division;Philadelphia J's;;MORELAND, Keith;C;'6;R;7;
+NL East Division;Philadelphia J's;;NAHORODNY, Bill;C;'6;R;6;
+NL East Division;Philadelphia J's;;DRIESSEN, Dan;1B;'4;L;17;
+NL East Division;Philadelphia J's;;AIKENS, Willie;1B;'3;L;4;
+NL East Division;Philadelphia J's;;ROSE, Pete;1B+;'3;B;15;2B5, 3B3
+NL East Division;Philadelphia J's;;ELLIS, John;1B+;'2;R;3;C6
+NL East Division;Philadelphia J's;;PEREZ, Tony;1B;'2;R;3;
+NL East Division;Philadelphia J's;;OBERKFELL, Ken;2B+;'8;L;16;3B4, SS6
+NL East Division;Philadelphia J's;;SIZEMORE, Ted;2B+;'8;R;7;C5
+NL East Division;Philadelphia J's;;STENNETT, Rennie;2B;'6;R;6;
+NL East Division;Philadelphia J's;;LANSFORD, Carney;3B;'5;R;19;
+NL East Division;Philadelphia J's;;RODRIGUEZ, Aurelio;3B+;'5;R;8;1B2
+NL East Division;Philadelphia J's;;FOLI, Tim;SS;'9;R;8;
+NL East Division;Philadelphia J's;;TEMPLETON, Garry;SS;'9;B;18;
+NL East Division;Philadelphia J's;;MILLER, Rick;OF;'3;L;16;
+NL East Division;Philadelphia J's;;VALENTINE, Ellis;OF;'3;R;10;
+NL East Division;Philadelphia J's;;CORCORAN, Tim;OF+;'2;L;13;1B4
+NL East Division;Philadelphia J's;;JOSHUA, Von;OF;'2;L;15;
+NL East Division;Philadelphia J's;;MADDOX, Elliott;OF+;'2;R;14;3B3
+NL East Division;Philadelphia J's;;MARTIN, Jerry;OF;'2;R;17;
+NL East Division;Philadelphia J's;;KELLY, Pat;OF;'1;L;17;
+NL East Division;Seattle Sluggers;;PLAYERS - 14;Pos;'D;B;Sp;Other Positions
+NL East Division;Seattle Sluggers;;KENDALL, Fred;C+;'7;R;4;1B2
+NL East Division;Seattle Sluggers;;KENNEDY, Terry;C;'6;L;8;
+NL East Division;Seattle Sluggers;;NEWMAN, Jeff;C+;'6;R;5;1B2, 3B3
+NL East Division;Seattle Sluggers;;JOHNSTONE, Jay;1B+;'2;L;8;OF2
+NL East Division;Seattle Sluggers;;McCOVEY, Willie;1B;'2;L;2;
+NL East Division;Seattle Sluggers;;WHITAKER, Lou;2B;'8;L;17;
+NL East Division;Seattle Sluggers;;CHALK, Dave;2B+;'7;R;13;3B3, SS7
+NL East Division;Seattle Sluggers;;SPEIER, Chris;SS;'8;R;9;
+NL East Division;Seattle Sluggers;;BLANKS, Larvell;SS+;'7;R;11;2B7
+NL East Division;Seattle Sluggers;;BOSETTI, Rick;OF;'2;R;18;
+NL East Division;Seattle Sluggers;;MOLINARO, Bob;OF;'2;L;18;
+NL East Division;Seattle Sluggers;;MURCER, Bobby;OF;'2;L;12;
+NL East Division;Seattle Sluggers;;WALLIS, Joe;OF;'2;B;16;
+NL East Division;Seattle Sluggers;;PRUITT, Ron;OF+;'1;R;16;C6, 3B3
+NL East Division;Tardtown Twin Killers;;PLAYERS - 15;Pos;'D;B;Sp;Other Positions
+NL East Division;Tardtown Twin Killers;;MUNSON, Thurman;C+;'8;R;8;1B2
+NL East Division;Tardtown Twin Killers;;TENACE, Gene;C+;'6;R;3;1B2
+NL East Division;Tardtown Twin Killers;;CAREW, Rod;1B;'3;L;19;
+NL East Division;Tardtown Twin Killers;;YASTRZEMSKI, Carl;1B+;'3;L;5;OF2
+NL East Division;Tardtown Twin Killers;;WOLFE, Larry;2B+;'7;R;7;C5, 1B2, 3B3, SS7
+NL East Division;Tardtown Twin Killers;;MONEY, Don;3B+;'5;R;6;1B3, 2B7
+NL East Division;Tardtown Twin Killers;;BELANGER, Mark;SS;'10;R;16;
+NL East Division;Tardtown Twin Killers;;MILBOURNE, Larry;SS+;'8;B;17;2B7, 3B4
+NL East Division;Tardtown Twin Killers;;GRUBB, Johnny;OF;'2;L;10;
+NL East Division;Tardtown Twin Killers;;HENDRICK, George;OF;'2;R;12;
+NL East Division;Tardtown Twin Killers;;RUDI, Joe;OF+;'2;R;5;1B3
+NL East Division;Tardtown Twin Killers;;BRAUN, Steve;OF+;'1;L;6;3B3
+NL East Division;Tardtown Twin Killers;;CARBO, Bernie;OF;'1;L;4;
+NL East Division;Tardtown Twin Killers;;HURDLE, Clint;OF+;'1;L;7;3B3
+NL East Division;Tardtown Twin Killers;;RETTENMUND, Merv;OF;'1;R;10;
+NL East Division;Vegas Gamblerz;;PLAYERS - 16;Pos;'D;B;Sp;Other Positions
+NL East Division;Vegas Gamblerz;;FERGUSON, Joe;C+;'8;R;3;OF1
+NL East Division;Vegas Gamblerz;;ESSIAN, Jim;C+;'7;R;5;1B2, 3B3, OF1
+NL East Division;Vegas Gamblerz;;SQUIRES, Mike;1B+;'4;L;15;OF1
+NL East Division;Vegas Gamblerz;;WILLS, Bump;2B;'7;B;17;
+NL East Division;Vegas Gamblerz;;HARRAH, Toby;3B+;'4;R;14;SS8
+NL East Division;Vegas Gamblerz;;BEVACQUA, Kurt;3B+;'3;R;7;1B2, 2B6, OF1
+NL East Division;Vegas Gamblerz;;CAMPANERIS, Bert;SS;'8;R;16;
+NL East Division;Vegas Gamblerz;;COWENS, Al;OF;'3;R;17;
+NL East Division;Vegas Gamblerz;;BAILOR, Bob;OF+;'2;R;17;3B4
+NL East Division;Vegas Gamblerz;;RANDLE, Lenny;OF;'2;B;18;
+NL East Division;Vegas Gamblerz;;SCOTT, Tony;OF;'2;B;18;
+NL East Division;Vegas Gamblerz;;THOMASSON, Gary;OF+;'2;L;14;1B2
+NL East Division;Vegas Gamblerz;;UNSER, Del;OF+;'2;L;13;1B2
+NL East Division;Vegas Gamblerz;;ADAMS, Glenn;OF;'1;L;4;
+NL East Division;Vegas Gamblerz;;MURPHY, Dwayne;OF;'1;L;17;
+NL East Division;Vegas Gamblerz;;PAGE, Mitchell;OF;'1;L;16;
+NL West Division;Charm City Rookies;;PLAYERS - 14;Pos;'D;B;Sp;Other Positions
+NL West Division;Charm City Rookies;;DEMPSEY, Rick;C;'9;R;12;
+NL West Division;Charm City Rookies;;IVIE, Mike;1B+;'4;R;6;2B5, 3B3, OF1
+NL West Division;Charm City Rookies;;JOHNSON, Lamar;1B;'3;R;4;
+NL West Division;Charm City Rookies;;WATHAN, John;1B+;'3;R;12;C6, OF1
+NL West Division;Charm City Rookies;;ORTA, Jorge;2B;'7;L;13;
+NL West Division;Charm City Rookies;;KNIGHT, Ray;3B;'4;R;7;
+NL West Division;Charm City Rookies;;HOWELL, Roy;3B;'3;L;4;
+NL West Division;Charm City Rookies;;LeMASTER, Johnnie;SS;'8;R;17;
+NL West Division;Charm City Rookies;;YOUNT, Robin;SS;'8;R;18;
+NL West Division;Charm City Rookies;;CRUZ, Jose;OF;'2;L;16;
+NL West Division;Charm City Rookies;;McBRIDE, Bake;OF;'2;L;19;
+NL West Division;Charm City Rookies;;OLIVER, Al;OF;'2;L;13;
+NL West Division;Charm City Rookies;;PINIELLA, Lou;OF;'2;R;5;
+NL West Division;Charm City Rookies;;WHITFIELD, Terry;OF;'1;L;14;
+NL West Division;Crown Hill Crabbers;;PLAYERS - 18;Pos;'D;B;Sp;Other Positions
+NL West Division;Crown Hill Crabbers;;FISK, Carlton;C+;'7;R;9;OF1
+NL West Division;Crown Hill Crabbers;;DIAZ, Bo;C;'6;R;6;
+NL West Division;Crown Hill Crabbers;;COOPER, Cecil;1B;'4;L;10;
+NL West Division;Crown Hill Crabbers;;LaCOCK, Pete;1B;'4;L;7;
+NL West Division;Crown Hill Crabbers;;CEDENO, Cesar;1B+;'3;R;18;3B3, OF3
+NL West Division;Crown Hill Crabbers;;FLYNN, Doug;2B+;'8;R;12;SS8
+NL West Division;Crown Hill Crabbers;;EDWARDS, Mike;2B+;'7;R;17;SS6
+NL West Division;Crown Hill Crabbers;;DeCINCES, Doug;3B;'4;R;11;
+NL West Division;Crown Hill Crabbers;;DADE, Paul;3B+;'3;R;17;OF1
+NL West Division;Crown Hill Crabbers;;GROSS, Wayne;3B+;'3;L;6;1B2, OF1
+NL West Division;Crown Hill Crabbers;;DeJESUS, Ivan;SS;'9;R;18;
+NL West Division;Crown Hill Crabbers;;CHAPPAS, Harry;SS;'7;B;15;
+NL West Division;Crown Hill Crabbers;;MADDOX, Garry;OF;'3;R;19;
+NL West Division;Crown Hill Crabbers;;JONES, Ruppert;OF;'2;L;18;
+NL West Division;Crown Hill Crabbers;;WALLING, Denny;OF;'2;L;16;
+NL West Division;Crown Hill Crabbers;;COLLINS, Dave;OF+;'1;B;19;1B2
+NL West Division;Crown Hill Crabbers;;GAMBLE, Oscar;OF;'1;L;9;
+NL West Division;Crown Hill Crabbers;;SAMPLE, Billy;OF;'1;R;18;
+NL West Division;Issaquah IronPigs;;PLAYERS - 19;Pos;'D;B;Sp;Other Positions
+NL West Division;Issaquah IronPigs;;CARTER, Gary;C;'8;R;8;
+NL West Division;Issaquah IronPigs;;FAHEY, Bill;C;'6;L;6;
+NL West Division;Issaquah IronPigs;;NOLAN, Joe;C;'6;L;4;
+NL West Division;Issaquah IronPigs;;MURRAY, Eddie;1B;'4;B;7;
+NL West Division;Issaquah IronPigs;;SPENCER, Jim;1B;'4;L;3;
+NL West Division;Issaquah IronPigs;;LOPES, Davey;2B;'8;R;18;
+NL West Division;Issaquah IronPigs;;CEY, Ron;3B;'5;R;6;
+NL West Division;Issaquah IronPigs;;AUERBACH, Rick;3B+;'3;R;16;2B6, SS8
+NL West Division;Issaquah IronPigs;;MORRISON, Jim;3B+;'3;R;15;2B7
+NL West Division;Issaquah IronPigs;;PRYOR, Greg;SS+;'8;R;15;2B7, 3B3
+NL West Division;Issaquah IronPigs;;RUSSELL, Bill;SS;'8;R;17;
+NL West Division;Issaquah IronPigs;;LEZCANO, Sixto;OF;'3;R;16;
+NL West Division;Issaquah IronPigs;;CLARK, Jack;OF+;'2;R;16;3B3
+NL West Division;Issaquah IronPigs;;HISLE, Larry;OF;'2;R;13;
+NL West Division;Issaquah IronPigs;;AYALA, Benny;OF;'1;R;5;
+NL West Division;Issaquah IronPigs;;BAYLOR, Don;OF+;'1;R;18;1B2
+NL West Division;Issaquah IronPigs;;HEATH, Mike;OF+;'1;R;6;C7, 3B3
+NL West Division;Issaquah IronPigs;;IORG, Dane;OF+;'1;L;7;1B3
+NL West Division;Issaquah IronPigs;;SUMMERS, Champ;OF+;'1;L;8;1B2
+NL West Division;Pasco Buffet;;PLAYERS - 18;Pos;'D;B;Sp;Other Positions
+NL West Division;Pasco Buffet;;SIMMONS, Ted;C;'8;B;5;
+NL West Division;Pasco Buffet;;OATES, Johnny;C;'7;L;13;
+NL West Division;Pasco Buffet;;MONTANEZ, Willie;1B;'4;L;7;
+NL West Division;Pasco Buffet;;THORNTON, Andre;1B;'4;R;11;
+NL West Division;Pasco Buffet;;MORALES, Jose;1B;'2;R;2;
+NL West Division;Pasco Buffet;;GRICH, Bobby;2B;'8;R;11;
+NL West Division;Pasco Buffet;;HOBSON, Butch;3B+;'4;R;8;2B6
+NL West Division;Pasco Buffet;;EVANS, Darrell;3B;'3;L;11;
+NL West Division;Pasco Buffet;;CONCEPCION, Dave;SS;'9;R;18;
+NL West Division;Pasco Buffet;;STANLEY, Fred;SS+;'8;R;9;1B2, 2B7, 3B3, OF1
+NL West Division;Pasco Buffet;;TORRES, Rusty;OF;'2;B;16;
+NL West Division;Pasco Buffet;;ALOU, Jesus;OF+;'1;R;2;1B2
+NL West Division;Pasco Buffet;;BIITTNER, Larry;OF+;'1;L;6;1B4
+NL West Division;Pasco Buffet;;BURROUGHS, Jeff;OF;'1;R;4;
+NL West Division;Pasco Buffet;;PACIOREK, Tom;OF+;'1;R;11;1B2
+NL West Division;Pasco Buffet;;RICHARDS, Gene;OF;'1;L;19;
+NL West Division;Pasco Buffet;;SINGLETON, Ken;OF;'1;B;4;
+NL West Division;Pasco Buffet;;VAIL, Mike;OF+;'1;R;6;3B3
+NL West Division;Redmond Luchadores;;PLAYERS - 16;Pos;'D;B;Sp;Other Positions
+NL West Division;Redmond Luchadores;;SUNDBERG, Jim;C;'9;R;6;
+NL West Division;Redmond Luchadores;;YEAGER, Steve;C;'9;R;5;
+NL West Division;Redmond Luchadores;;JACKSON, Ron;1B+;'4;R;14;3B4, SS6, OF1
+NL West Division;Redmond Luchadores;;WATSON, Bob;1B;'3;R;3;
+NL West Division;Redmond Luchadores;;CRUZ, Julio;2B;'8;B;18;
+NL West Division;Redmond Luchadores;;REMY, Jerry;2B;'8;L;18;
+NL West Division;Redmond Luchadores;;NETTLES, Graig;3B;'5;L;5;
+NL West Division;Redmond Luchadores;;STEIN, Bill;3B+;'4;R;6;2B7, SS7
+NL West Division;Redmond Luchadores;;REYNOLDS, Craig;SS;'8;L;15;
+NL West Division;Redmond Luchadores;;LEMON, Chet;OF;'3;R;16;
+NL West Division;Redmond Luchadores;;WILSON, Willie;OF;'3;B;20;
+NL West Division;Redmond Luchadores;;BOSLEY, Thad;OF;'2;L;19;
+NL West Division;Redmond Luchadores;;MATTHEWS, Gary;OF;'2;R;16;
+NL West Division;Redmond Luchadores;;MAZZILLI, Lee;OF+;'2;B;17;1B2
+NL West Division;Redmond Luchadores;;RIVERA, Bombo;OF;'2;R;16;
+NL West Division;Redmond Luchadores;;YOUNGBLOOD, Joel;OF+;'2;R;15;2B6, 3B3
