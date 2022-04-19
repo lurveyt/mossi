@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 # files provided by Rich
 # TODO: get 'year' out of the code
-year = '81'
+year = '83'
 roster_path = os.path.join(os.getcwd(), r"mossi_data\rosters")
 
 
