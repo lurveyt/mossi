@@ -7,24 +7,35 @@ import openpyxl
 import openpyxl.utils
 import numpy as np
 
+from _code.utils.utilities import configure_logger
+
+LEVEL = 'INFO'
+log = configure_logger(name=__name__,
+                       console_level=LEVEL,
+                       log_file="{}.log".format(__file__))
 
 def build_roster_dict(ids: tuple, teams: tuple):
     """ {Player_ID: Team Name}"""
     try:
         assert len(ids) == len(teams)
-    except AssertionError:
-        print("ID and TEAMS are different sizes!")
-    #
-    d = {}
-    for i in range(len(ids)):
-        d.update({ids[i].value: teams[i].value})
-    return d
+    except AssertionError as e:
+        log.error("ID and TEAMS are different sizes!")
+        raise e
+
+    dplayers = {}
+    for i in range(2, len(ids) - 1):
+        log.debug("found {p:>9} for team {t}".format(p=ids[i].value, t=teams[i].value))
+        dplayers.update({ids[i].value: teams[i].value})
+
+    log.info("Found {n:000d} players".format(n=len(dplayers)))
+    return dplayers
 
 
 def populate_players(wb: openpyxl.workbook, roster: dict, bat_or_pit: str = 'batting'):
     """Using a roster dictionary and the year, populate the roster for current and future years"""
     # get variables
     xyear = wb['DRAFT_STATS']['C3'].value
+    log.info("Working on year {y}".format(y=xyear))
     sheet = wb['WAR_{}'.format(bat_or_pit)]
     col = openpyxl.utils.get_column_letter([x.value for x in sheet['A1:AZ1'][0]].index('ROSTER') + 1)
     # get arrays from worksheet column data
@@ -33,44 +44,46 @@ def populate_players(wb: openpyxl.workbook, roster: dict, bat_or_pit: str = 'bat
     # find matches
     match_name = np.in1d(plyr, np.array(list(roster.keys())))
     match_year = year >= xyear
-    match_indx = np.nonzero(match_name * match_year)[0]
+    match_index = np.nonzero(match_name * match_year)[0]
+    log.debug("Found {n} matches in spreadsheet".format(n=len(match_index)))
     # populate team names for matches
     for i, x in enumerate(match_year):
         if x:
             val = ""
-            if i in match_indx:
+            if i in match_index:
                 val += roster.get(sheet['A{}'.format(i + 2)].value)
             sheet['{c}{r}'.format(c=col, r=i + 2)].value = val
+            log.debug("set value for: {p} in {c}{r}".format(p=val, c=col, r=i + 2))
 
-    # for i in match_indx + 2:  # adjust for cells starting with 1
+    # for i in match_index + 2:  # adjust for cells starting with 1
     #     sheet['{c}{r}'.format(c=col, r=i)].value = roster.get(sheet['A{}'.format(i)].value)
 
 
-def main(*args):
+def main():
     excel_file = r"..\MILWAUKEE_FULL_STATS2.xlsx"
     shutil.copy(src=excel_file, dst=excel_file + "_bak")
-    print('opening workbook for reading...')
+    log.info('opening workbook for reading...')
     r_wb = openpyxl.load_workbook(excel_file, data_only=True)
-    print('- begin read')
+    log.info('begin read')
     #
     rost_dict = build_roster_dict(teams=r_wb['ROSTERS']['B:B'], ids=r_wb['ROSTERS']['C:C'])
-    print('- rosters built')
+    log.info('rosters built')
     r_wb.close()
-    print('closing workbook for reading')
+    log.info('closing workbook for reading')
     #
-    print('opening workbook for writing')
+    log.info('opening workbook for writing')
     w_wb = openpyxl.load_workbook(excel_file, data_only=False)
-    print('- begin write')
+    log.info('begin write')
     populate_players(wb=w_wb, roster=rost_dict, bat_or_pit='batting')
-    print('- batters populated')
+    log.info('batters populated')
     #
     populate_players(wb=w_wb, roster=rost_dict, bat_or_pit='pitching')
-    print('- pitchers populated')
+    log.info('pitchers populated')
     #
-    print('saving...')
+    log.info('saving...')
     w_wb.save(excel_file)
-    print('done!')
+    log.info('done!')
 
 
 if __name__ == '__main__':
-    main(sys.argv[1:])
+    main()
