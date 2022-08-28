@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 __author__ = 'Timothy Lurvey'
 
-import sys
+import sys, os
 import shutil
 import openpyxl
 import openpyxl.utils
@@ -9,23 +9,30 @@ import numpy as np
 
 from _code.utils.utilities import configure_logger
 
+ROSTER_SHEET = 'ROSTERS'
 LEVEL = 'INFO'
 log = configure_logger(name=__name__,
                        console_level=LEVEL,
                        log_file="{}.log".format(__file__))
 
+base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+file_path = os.path.join(base_path, 'mossixls', 'MILWAUKEE_FULL_STATS2.xlsx')
+
 def build_roster_dict(ids: tuple, teams: tuple):
     """ {Player_ID: Team Name}"""
-    try:
-        assert len(ids) == len(teams)
-    except AssertionError as e:
-        log.error("ID and TEAMS are different sizes!")
-        raise e
+    if not len(ids) == len(teams):
+        msg = f"ID and TEAMS are different sizes from {ROSTER_SHEET} sheet"
+        log.error(msg)
+        raise ValueError(msg)
 
     dplayers = {}
     for i in range(2, len(ids) - 1):
-        log.debug("found {p:>9} for team {t}".format(p=ids[i].value, t=teams[i].value))
-        dplayers.update({ids[i].value: teams[i].value})
+        if ids[i].value and teams[i].value:
+            log.debug(f"found {ids[i].value:>9} for team {teams[i].value}")
+            dplayers.update({ids[i].value: teams[i].value})
+        else:
+            log.debug(f"end of roster list.  {i} items")
+            break
 
     log.info("Found {n:000d} players".format(n=len(dplayers)))
     return dplayers
@@ -35,7 +42,7 @@ def populate_players(wb: openpyxl.workbook, roster: dict, bat_or_pit: str = 'bat
     """Using a roster dictionary and the year, populate the roster for current and future years"""
     # get variables
     xyear = wb['DRAFT_STATS']['C3'].value
-    log.info("Working on year {y}".format(y=xyear))
+    log.info("Working on year {y} for {s}".format(y=xyear, s=bat_or_pit))
     sheet = wb['WAR_{}'.format(bat_or_pit)]
     col = openpyxl.utils.get_column_letter([x.value for x in sheet['A1:AZ1'][0]].index('ROSTER') + 1)
     # get arrays from worksheet column data
@@ -59,8 +66,13 @@ def populate_players(wb: openpyxl.workbook, roster: dict, bat_or_pit: str = 'bat
     #     sheet['{c}{r}'.format(c=col, r=i)].value = roster.get(sheet['A{}'.format(i)].value)
 
 
-def main():
-    excel_file = r"..\MILWAUKEE_FULL_STATS2.xlsx"
+def main(excel_file=""):
+
+    if not os.path.exists(excel_file):
+        raise FileNotFoundError(f"file:{excel_file}")
+    else:
+        log.info(f"Working on {excel_file}")
+
     shutil.copy(src=excel_file, dst=excel_file + "_bak")
     log.info('opening workbook for reading...')
     r_wb = openpyxl.load_workbook(excel_file, data_only=True)
@@ -86,4 +98,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main(excel_file=file_path)
