@@ -1,0 +1,337 @@
+ADDUCI, Jim ;26;1B;2;L;9;;29;L;;W;M
+ALDRETE, Mike ;25;1B+;3;L;7;;30;L;;W;M
+ALLANSON, Andy ;24;C;6;R;14;-3;29;R;;W;M
+AMELUNG, Ed ;27;OF;2;L;16;;28;L;;W;M
+ASADOOR, Randy ;23;3B+;3;R;15;;30;R;;W;M
+BAKER, Doug ;25;SS+;7;B;16;;33;R;;W;M
+BATHE, Bill ;25;C;6;R;7;-4;32;R;;W;M
+BEANE, Billy ;24;OF;2;R;17;;32;R;;W;M
+BELL, Jay ;20;2B;5;R;12;;32;R;;W;M
+BELL, Terry ;23;C;5;R;6;-4;30;R;;W;M
+BELLIARD, Rafael ;24;SS+;8;R;17;;33;R;;W;M
+BILARDELLO, Dann ;27;C;7;R;5;-1;32;R;;W;M
+BONDS, Barry ;21;OF;2;L;17;;30;L;;W;M
+BONILLA, Bobby ;23;OF+;1;B;16;;28;R;;W;M
+BONNELL, Barry ;32;OF+;2;R;11;;34;R;;W;M
+BRADLEY, Scott ;26;C+;6;L;3;-2;32;R;;W;M
+BRAGGS, Glenn ;23;OF;1;R;16;;28;R;;W;M
+BRANTLEY, Mickey ;25;OF;1;R;12;;30;R;;W;M
+BREWER, Mike ;26;OF;1;R;7;;30;R;;W;M
+BROWER, Bob ;26;OF;1;R;17;;30;R;;W;M
+BROWNE, Jerry ;20;2B;6;B;17;;27;R;;W;M
+BRYANT, Ralph ;25;OF;1;L;15;;30;R;;W;M
+BULLOCK, Eric ;26;OF;1;L;17;;30;L;;W;M
+BUTERA, Sal ;33;C;7;R;4;+0;34;R;1 *;XW;
+CANDAELE, Casey ;25;2B+;7;B;15;;30;R;;W;M
+CANGELOSI, John ;23;OF;2;B;18;;29;L;;W;M
+CASTILLO, Juan ;24;2B+;7;B;17;;32;R;;W;M
+CHRISTMAS, Steve ;28;C+;6;L;7;-4;31;R;;W;M
+CLARK, Dave ;23;OF;1;L;16;;30;R;;W;M
+CLARK, Will ;22;1B;3;L;14;;31;L;;W;M
+COCHRANE, Dave ;23;3B+;3;B;11;;31;R;;W;M
+CRAIG, Rod ;28;OF;1;B;17;;28;R;;W;M
+DANIELS, Kal ;22;OF;1;L;16;;27;R;;W;M
+DAVID, Andre ;28;OF;1;L;9;;28;L;;W;M
+DAVIDSON, Mark ;25;OF;2;R;17;;32;R;;W;M
+DAVIS, Trench ;25;OF;1;L;13;;30;L;;W;M
+DAYETT, Brian ;29;OF;2;R;8;;32;R;;W;M
+DeJESUS, Ivan ;33;SS;6;R;15;;33;R;;W;M
+DIAZ, Edgar ;22;SS;6;R;11;;32;R;;W;M
+DIAZ, Mike ;26;OF+;1;R;3;-4;27;R;;W;M
+DISTEFANO, Benny ;24;OF+;1;L;13;;29;L;;W;M
+DODD, Tom ;27;3B;3;R;9;;30;R;;W;M
+DODSON, Pat ;26;1B;3;L;10;;26;L;;W;M
+ELSTER, Kevin ;21;SS;7;R;11;;32;R;;W;M
+ESPINO, Juan ;30;C;6;R;6;-4;31;R;;W;M
+FELDER, Mike ;24;OF;1;B;18;;30;R;;W;M
+FIELDS, Bruce ;25;OF;1;L;16;;27;R;;W;M
+FIMPLE, Jack ;27;C+;7;R;5;+3;36;R;;W;M
+FISCHLIN, Mike ;30;SS+;8;R;16;;35;R;;W;M
+FORD, Curt ;25;OF;2;L;18;;31;R;;W;M
+GAINEY, Ty ;25;OF;1;L;15;;30;R;;W;M
+GERHART, Ken ;25;OF;2;R;17;;24;R;;W;M
+GIBBONS, John ;24;C;6;R;7;-4;30;R;;W;M
+GILES, Brian ;26;2B+;7;R;17;;30;R;;W;M
+GONZALES, Rene ;25;SS+;7;R;15;;33;R;;W;M
+GONZALEZ, Jose ;21;OF;1;R;17;;28;R;;W;M
+GREEN, Gary ;24;SS;7;R;15;;33;R;;W;M
+GREENWELL, Mike ;22;OF;1;L;8;;29;R;;W;M
+GRUBER, Kelly ;24;3B+;3;R;16;;31;R;;W;M
+GULDEN, Brad ;30;C;6;L;6;-2;32;R;;W;M
+HAMILTON, Jeff ;22;3B+;4;R;15;;31;R;;W;M
+HEARN, Ed ;25;C;6;R;5;-4;32;R;;W;M
+HEARRON, Jeff ;24;C;6;R;7;-4;32;R;;W;M
+HENGEL, Dave ;24;OF;1;R;10;;30;R;;W;M
+HERNANDEZ, Leo ;26;3B+;3;R;11;;32;R;;W;M
+HILL, Marc ;34;C;7;R;2;+4;31;R;;W;M
+HUDLER, Rex ;25;2B+;5;R;18;;31;R;;W;M
+HUNT, Randy ;26;C;6;R;7;-4;31;R;;W;M
+INCAVIGLIA, Pete ;22;OF;1;R;5;;24;R;;W;M
+IORG, Dane ;36;1B+;2;L;3;;26;R;1 *;M;
+JACKSON, Bo ;23;OF;1;R;19;;37;R;;W;M
+JAMES, Chris ;23;OF;2;R;15;;32;R;;W;M
+JAVIER, Stan ;22;OF;2;B;18;;31;R;;W;M
+JEFFERSON, Stan ;23;OF;2;B;19;;31;R;;W;M
+JOHNSON, Rondin ;27;2B;7;B;12;;30;R;;W;M
+JOHNSON, Wallace ;29;1B;2;B;18;;25;R;;W;M
+JONES, Bob ;36;OF+;1;L;7;;28;L;;W;M
+JONES, Chris ;28;OF;1;L;12;;29;L;;W;M
+JONES, Lynn ;33;OF+;2;R;16;;32;R;;W;M
+JONES, Ricky ;28;2B+;7;R;9;;32;R;;W;M
+JONES, Ross ;26;SS+;7;R;11;;32;R;;W;M
+JONES, Tracy ;25;OF+;1;R;18;;29;R;;W;M
+JOYNER, Wally ;24;1B;4;L;11;;25;L;;W;M
+KARKOVICE, Ron ;22;C;6;R;7;+1;35;R;;W;M
+KIEFER, Steve ;25;SS;6;R;9;;31;R;;W;M
+KINGERY, Mike ;25;OF;2;L;17;;34;L;;W;M
+KRUK, John ;25;OF+;2;L;13;;30;L;;W;M
+KUNKEL, Jeff ;24;SS;6;R;15;;36;R;;W;M
+KUTCHER, Randy ;26;OF+;2;R;17;;32;R;;W;M
+LAGA, Mike ;26;1B;3;L;9;;27;L;;W;M
+LANCELLOTTI, Rick ;29;1B+;2;L;6;;29;L;;W;M
+LARKIN, Barry ;22;SS+;7;R;16;;32;R;;W;M
+LaVALLIERE, Mike ;25;C;7;L;4;+2;31;R;;W;M
+LAWLESS, Tom ;29;3B+;3;R;17;;29;R;;W;M
+LEE, Manuel ;21;2B+;7;B;11;;34;R;;W;M
+LEFEBVRE, Joe ;30;OF;2;L;11;;36;R;;W;M
+LEGG, Greg ;26;2B+;6;R;12;;33;R;;W;M
+LINDEMAN, Jim ;24;1B+;2;R;6;;27;R;;W;M
+LOMBARDI, Phil ;23;C+;5;R;6;-4;31;R;;W;M
+LOMBARDOZZI, Steve ;26;2B;8;R;12;;33;R;;W;M
+LOWRY, Dwight ;28;C+;7;L;5;-3;33;R;;W;M
+LYONS, Barry ;26;C;6;R;7;-4;33;R;;W;M
+MADISON, Scotti ;26;3B;3;B;8;;31;R;;W;M
+MAGADAN, Dave ;23;1B;2;L;9;;30;R;;W;M
+MANRIQUE, Fred ;24;3B+;3;R;15;;34;R;;W;M
+MARTIN, Mike ;27;C;6;L;6;-4;32;R;;W;M
+MARTINEZ, Dave ;21;OF;1;L;17;;30;L;;W;M
+McGRIFF, Fred ;22;1B;2;L;7;;26;L;;W;M
+McGWIRE, Mark ;22;3B;3;R;7;;34;R;;W;M
+McLEMORE, Mark ;21;2B;6;B;18;;31;R;;W;M
+MEADOWS, Louie ;25;OF;1;L;15;;29;L;;W;M
+MELENDEZ, Francisco ;22;1B;2;L;10;;29;L;;W;M
+MILLER, Darrell ;28;OF+;2;R;13;-4;32;R;;W;M
+MITCHELL, Kevin ;24;OF+;1;R;13;;29;R;;W;M
+MIZEROCK, John ;25;C;7;L;5;-3;33;R;;W;M
+MOORE, Bill ;25;1B+;2;R;9;;29;L;;W;M
+MORMAN, Russ ;24;1B;2;R;5;;29;R;;W;M
+MORRIS, John ;25;OF;2;L;18;;35;L;;W;M
+MOSES, John ;28;OF+;2;B;18;;35;L;;W;M
+MULLINS, Fran ;29;2B+;6;R;14;;32;R;;W;M
+NARRON, Jerry ;30;C;7;L;4;+4;33;R;;W;M
+NELSON, Ricky ;27;OF;1;L;17;;29;R;;W;M
+NELSON, Rob ;22;1B;2;L;7;;27;L;;W;M
+NEWMAN, Al ;26;2B+;6;B;18;;29;R;;W;M
+NICHOLS, Carl ;23;C;6;R;6;-4;32;R;;W;M
+NOKES, Matt ;22;C;6;L;7;-3;27;R;;W;M
+O'NEILL, Paul ;23;OF;1;L;10;;29;L;;W;M
+OUELLETTE, Phil ;24;C;6;B;6;-3;31;R;;W;M
+PALMEIRO, Rafael ;21;OF;1;L;10;;26;L;;W;M
+PARDO, Al ;23;C;6;B;6;-4;33;R;;W;M
+PARENT, Mark ;24;C;5;R;5;-4;33;R;;W;M
+PARIS, Kelly ;28;3B;3;R;17;;31;R;;W;M
+PECOTA, Bill ;26;3B+;3;R;17;;32;R;;W;M
+PENA, Bert ;26;SS+;6;R;15;;32;R;;W;M
+PETERS, Rick ;30;OF+;2;B;17;;26;R;;W;M
+PITTARO, Chris ;24;2B+;6;B;15;;31;R;;W;M
+POLIDOR, Gus ;24;2B+;6;R;14;;31;R;;W;M
+PYZNARSKI, Tim ;26;1B;2;R;11;;29;R;;W;M
+QUINONES, Luis ;24;SS+;6;B;17;;35;R;;W;M
+QUINONES, Rey ;22;SS;7;R;15;;31;R;;W;M
+QUIRK, Jamie ;31;C+;7;L;4;+6;33;R;;W;M
+REED, Jeff ;23;C;7;L;5;-4;32;R;;W;M
+RENTERIA, Rich ;24;3B;3;R;15;;31;R;;W;M
+REYNOLDS, Ronn ;27;C;6;R;6;-4;36;R;;W;M
+RIVERA, Luis ;22;SS;6;R;12;;31;R;;W;M
+ROBERTS, Bip ;22;2B;6;B;17;;28;R;;W;M
+ROBIDOUX, Billy Jo ;22;1B;2;L;4;;29;R;;W;M
+RODRIGUEZ, Ruben ;21;C;6;R;10;-4;31;R;;W;M
+ROHN, Dan ;30;2B+;6;L;15;;32;R;;W;M
+ROMINE, Kevin ;25;OF;3;R;17;;32;R;;W;M
+ROWDON, Wade ;25;3B+;3;R;15;;31;R;;W;M
+RUNGE, Paul ;28;2B;6;R;14;;30;R;;W;M
+RUNNELLS, Tom ;31;2B+;6;B;13;;30;R;;W;M
+RYAL, Mark ;25;OF+;1;L;9;;29;L;;W;M
+SANCHEZ, Alejandro ;27;OF;1;R;15;;25;R;;W;M
+SANTIAGO, Benito ;21;C;6;R;9;-4;30;R;;W;M
+SEE, Larry ;26;1B;2;R;6;;28;R;;W;M
+SEITZER, Kevin ;24;1B+;2;R;10;;29;R;;W;M
+SHEPHERD, Ron ;25;OF;2;R;15;;30;R;;W;M
+SHIPLEY, Craig ;23;SS+;6;R;15;;32;R;;W;M
+SIERRA, Ruben ;20;OF;2;B;16;;32;R;;W;M
+SNYDER, Cory ;23;OF+;2;R;14;;38;R;;W;M
+STANLEY, Mike ;23;3B+;3;R;8;+2;30;R;;W;M
+STAPLETON, Dave ;32;1B+;4;R;12;;33;R;;W;M
+STEFERO, John ;26;C;6;L;7;-1;32;R;;W;M
+STEINBACH, Terry ;24;C;6;R;7;+3;33;R;;W;M
+STILLWELL, Kurt ;21;SS;7;B;17;;36;R;;W;M
+SVEUM, Dale ;22;3B+;3;B;14;;28;R;;W;M
+TARTABULL, Danny ;23;OF+;1;R;15;;25;R;;W;M
+TARVER, LaSchelle ;27;OF;2;L;15;;28;L;;W;M
+TAYLOR, Dwight ;26;OF;1;L;15;;29;L;;W;M
+TEJADA, Wilfredo ;23;C;7;R;7;+1;32;R;;W;M
+THOMAS, Andres ;22;SS;7;R;16;;33;R;;W;M
+THOMPSON, Robby ;24;2B+;7;R;15;;30;R;;W;M
+TILLMAN, Rusty ;25;OF;1;R;15;;30;R;;W;M
+TOLMAN, Tim ;30;OF+;1;R;9;;28;R;;W;M
+TRABER, Jim ;24;1B+;2;L;7;;26;L;;W;M
+VALLE, Dave ;25;C+;5;R;6;-4;31;R;;W;M
+WALKER, Chico ;27;OF;1;B;18;;31;R;;W;M
+WALKER, Tony ;26;OF;2;R;17;;35;R;;W;M
+WASINGER, Mark ;24;3B+;3;R;12;;30;R;;W;M
+WHITE, Devon ;23;OF;2;B;18;;35;R;;W;M
+WHITE, Jerry ;33;OF;2;B;17;;34;R;;W;M
+WHITFIELD, Terry ;33;OF;2;L;9;;30;R;;W;M
+WILLIAMS, Eddie ;21;OF;1;R;10;;28;R;;W;M
+WILLIAMS, Kenny ;22;OF;2;R;17;;32;R;;W;M
+WILLIAMS, Reggie ;25;OF;2;R;17;;31;R;;W;M
+WINE, Robbie ;23;C;6;R;6;-4;32;R;;W;M
+WOHLFORD, Jim ;35;OF+;2;R;9;;33;R;;W;M
+WOODARD, Mike ;26;2B+;7;L;18;;30;R;;W;M
+WOODS, Al ;32;OF;1;L;12;;27;L;;W;M
+AKERFELDS, Darrel ;24;P;1;R;7;;;R;1 *;X;M
+ANDERSON, Allan ;22;P;1;L;9;;;L;3 ;Y;
+ANDERSON, Rick ;29;P;2;R;9;;;R;8/10 *;Z;G
+AQUINO, Luis ;22;P;2;R;9;;;R;2 *;Z;M
+ARMSTRONG, Mike ;32;P;1;R;7;;;R;1 ;X;M
+ARNOLD, Tony ;27;P;2;R;8;;;R;9 *;H;
+ARNSBERG, Brad ;22;P;1;R;5;;;R;6 ;Z;
+ARROYO, Fernando ;34;P;1;R;10;;;R;1 *;W;
+ASSENMACHER, Paul ;25;P;2;L;6;;;L;16 *;X;
+BAILES, Scott ;24;P;1;L;9;;;L;4/5 *;;
+BALLER, Jay ;25;P;2;R;5;;;R;5 *;YW;L
+BANKHEAD, Scott ;22;P;2;R;9;;;R;4 ;XZ;
+BARGAR, Greg ;27;P;2;R;6;;;R;2 *;;
+BELL, Eric ;22;P;2;L;8;;;L;6 ;YW;L
+BIELECKI, Mike ;26;P;2;R;7;;;R;6 ;W;G
+BIRKBECK, Mike ;25;P;2;R;7;;;R;5 ;W;H
+BITTIGER, Jeff ;24;P;1;R;10;;;R;2 ;L;
+BOCKUS, Randy ;25;P+;1;L;6;;31;R;8 *;W;L
+BOEVER, Joe ;25;P;2;R;5;;;R;16 *;W;
+BOSIO, Chris ;23;P;1;R;4;;;R;1/2 *;X;M
+BROWN, Curt ;26;P;1;R;4;;;R;7 *;Z;H
+BROWN, Kevin ;21;P;1;R;7;;;R;4 ;XZ;
+BRYDEN, T.R. ;27;P;2;R;5;;;R;4 *;YW;
+BURTT, Dennis ;28;P;1;R;9;;;R;1 *;W;M
+CARY, Chuck ;26;P;2;L;7;;;L;10 *;Y;
+CERUTTI, John ;26;P;2;L;7;;;L;7 ;Y;L
+CHADWICK, Ray ;23;P;2;B;7;;;R;2 ;W;L
+CHILDRESS, Rocky ;24;P;1;R;5;;;R;1 *;;
+CLARKE, Stan ;25;P;1;R;8;;;L;1 *;YW;M
+CLUTTERBUCK, Bryan ;26;P;2;R;4;;;R;4 *;YZ;
+CONE, David ;23;P;2;L;8;;;R;5 *;XW;G
+COOK, Mike ;22;P;2;R;6;;;R;1 ;W;M
+CORREA, Ed ;20;P;2;R;8;;;R;9 ;XW;G
+DAVIS, Steve ;25;P;1;L;7;;;L;1 *;XYW;M
+DESHAIES, Jim ;26;P;1;L;5;;;L;11 ;X;L
+DOWNS, Kelly ;25;P;1;R;15;;;R;9 ;YZ;G
+DOZIER, Tom ;24;P;2;R;6;;;R;3 *;YW;L
+DRABEK, Doug ;23;P;2;R;9;;;R;7;;
+EARLEY, Bill ;30;P;1;R;5;;;L;3 *;YW;
+FANSLER, Stan ;21;P;2;R;8;;;R;6 ;W;
+FINLEY, Chuck ;23;P;2;L;5;;;L;13 *;XW;H
+FIREOVID, Steve ;29;P;1;B;6;;;R;4 ;Z;G
+FISCHER, Todd ;25;P;2;R;9;;;R;5 *;M;
+FORSCH, Ken ;39;P;1;R;6;;;R;1 *;YW;M
+FRASER, Willie ;22;P;1;R;5;;;R;1 ;Z;
+FREEMAN, Marvin ;23;P;1;R;8;;;R;13 ;W;H
+FUNK, Tom ;24;P;1;L;6;;;L;2 *;W;
+GALVEZ, Balvino ;22;P;1;R;8;;;R;7 *;W;M
+GARDNER, Wes ;25;P;1;R;6;;;R;1 *;X;
+GORDON, Don ;26;P;1;R;8;;;R;2 *;H;
+GORMAN, Tom ;28;P;2;L;14;;;L;1 *;H;
+GRANT, Mark ;22;P;1;R;5;;;R;4/6 *;W;G
+GUETTERMAN, Lee ;27;P;1;L;5;;;L;1/2 *;;
+GUZMAN, Jose ;23;P;2;R;8;;;R;4;;
+HABYAN, John ;22;P;2;R;7;;;R;6 ;W;
+HALL, Drew ;23;P;1;L;7;;;L;6 ;XW;L
+HARGESHEIMER, Alan ;31;P;2;R;8;;;R;2 ;G;
+HAVENS, Brad ;26;P;1;L;9;;;L;5 *;X;
+HAYWARD, Ray ;25;P;1;L;9;;;L;1;;
+HENRY, Dwayne ;24;P;1;R;7;;;R;6 *;XW;G
+HENSLEY, Chuck ;27;P;1;L;5;;;L;9 *;X;M
+HERNANDEZ, Manny ;25;P;1;R;8;;;R;4;;
+HOFFMAN, Guy ;29;P;1;L;15;;;L;4/5 *;Z;
+HOLTON, Brian ;26;P;2;R;8;;;R;3/4 *;XYZ;G
+JACKSON, Mike ;21;P;1;R;9;;;R;6 *;Z;M
+JONES, Barry ;23;P;1;R;5;;;R;13 *;YW;
+JONES, Jimmy ;22;P;2;R;15;;;R;10 ;XYZ;G
+KELLY, Bryan ;27;P;1;R;7;;;R;5 ;XW;M
+KERN, Jim ;37;P;1;R;5;;;R;2 *;W;H
+KING, Eric ;22;P;2;R;8;;;R;14 ;YW;G
+KINNUNEN, Mike ;28;P;2;L;8;;;L;3 *;W;
+KIPPER, Bob ;21;P;1;R;15;;;L;4 ;YZ;M
+KNUDSON, Mark ;25;P;2;R;4;;;R;3 ;Z;M
+KRAWCZYK, Ray ;26;P;1;R;6;;;R;2 *;W;M
+LANDRUM, Bill ;28;P;1;R;8;;;R;1 *;XZ;H
+LATHAM, Bill ;25;P;1;L;6;;;L;1/2 *;G;
+LAZORKO, Jack ;30;P;1;R;7;;;R;5 *;W;G
+LEIPER, Dave ;24;P;1;L;9;;;L;7 *;W;
+LERCH, Randy ;31;P;1;L;11;;;L;1 *;W;G
+LOYND, Mike ;22;P;1;R;7;;;R;4 ;Y;
+MADDUX, Greg ;20;P;2;R;15;;;R;2 ;Z;
+MADDUX, Mike ;24;P;1;L;8;;;R;2;;
+MASON, Roger ;28;P;1;R;4;;;R;6 ;YW;
+MATHEWS, Greg ;24;P;2;B;9;;;L;8 ;L;
+McCULLERS, Lance ;22;P;1;B;16;;;R;12/14 *;Y;
+McKEON, Joel ;23;P;2;L;8;;;L;17 *;YW;G
+MITCHELL, John ;20;P;1;R;9;;;R;4/6 *;W;
+MOHORCIC, Dale ;30;P;2;R;7;;;R;16 *;Z;G
+MONTALVO, Rafael ;22;P;1;R;8;;;R;1 *;W;
+MONTEFUSCO, John ;36;P;1;R;7;;;R;10 *;W;L
+MOONEYHAM, Bill ;25;P;1;R;8;;;R;5/7 *;YW;H
+MOYER, Jamie ;23;P;2;L;7;;;L;7 ;W;L
+MULHOLLAND, Terry ;23;P;1;R;7;;;L;4 ;W;G
+MURPHY, Rob ;26;P;1;L;6;;;L;25 *;XW;H
+MUSSELMAN, Jeff ;23;P;2;L;9;;;L;1 *;YW;L
+MYERS, Randy ;23;P;1;L;9;;;L;5 *;XYW;
+NIELSEN, Scott ;27;P;1;R;8;;;R;5 ;Z;M
+NIEMANN, Randy ;30;P;2;L;4;;;L;4/6 *;Z;G
+NIEVES, Juan ;21;P;1;L;8;;;L;5 ;Y;
+OELKERS, Bryan ;25;P;2;L;7;;;L;5/7 *;W;M
+OLWINE, Ed ;28;P;2;R;8;;;L;9 *;XZ;L
+OWNBEY, Rick ;28;P;1;R;6;;;R;5/8 *;W;
+PACELLA, John ;29;P;1;R;9;;;R;6 *;W;H
+PARRETT, Jeff ;24;P;1;R;4;;;R;5 *;XYW;L
+PATTERSON, Bob ;27;P;2;R;8;;;L;3 ;Z;H
+PENA, Hipolito ;22;P;1;L;6;;;L;1 ;YZ;M
+PERRY, Pat ;27;P;2;L;9;;;L;7 *;;
+PLESAC, Dan ;24;P;1;L;6;;;L;15 *;X;G
+PLUNK, Eric ;22;P;1;R;5;;;R;6 ;XW;
+PORTUGAL, Mark ;23;P;2;R;9;;;R;7 ;YW;
+PULIDO, Alfonso ;29;P;2;L;9;;;L;3/4 *;Z;M
+RIJO, Jose ;21;P;1;R;9;;;R;7 ;XW;
+RILEY, George ;29;P;1;L;6;;;L;5 *;W;G
+RITTER, Reggie ;26;P;1;L;6;;;R;2 *;;
+RODRIGUEZ, Rick ;25;P;1;R;7;;;R;2 ;M;
+ROMAN, Jose ;23;P;1;R;9;;;R;4 ;W;
+RUFFIN, Bruce ;22;P;2;R;8;;;L;13 ;Z;G
+SAUVEUR, Rich ;22;P;2;L;6;;;L;3 ;W;M
+SCHIRALDI, Calvin ;24;P;2;R;5;;;R;18 *;XYZ;
+SEBRA, Bob ;24;P;2;R;10;;;R;7 ;YZ;
+SELLERS, Jeff ;22;P;2;R;8;;;R;4 ;YW;L
+SHIELDS, Steve ;27;P;1;R;4;;;R;5 *;W;M
+SMILEY, John ;21;P;1;L;7;;;L;4 *;X;M
+SMITH, Mike ;25;P;1;R;10;;;R;1 ;Z;
+SOFF, Ray ;27;P;2;R;8;;;R;10 *;;
+SPECK, Cliff ;29;P;2;R;6;;;R;4/6 *;YW;
+SWAGGERTY, Bill ;29;P;1;R;15;;;R;1 *;;
+SWINDELL, Greg ;21;P;1;R;5;;;L;6 ;XZ;L
+TERRY, Scott ;26;P;1;R;12;;;R;2/3 *;W;L
+TEWKSBURY, Bob ;25;P;2;R;7;;;R;11 ;Z;G
+THIGPEN, Bobby ;22;P;1;R;10;;;R;17 *;Y;H
+TOLIVER, Fred ;25;P;2;R;12;;;R;8 ;YW;H
+TOMLIN, Dave ;37;P;1;L;8;;;L;4 *;W;
+VALDEZ, Sergio ;21;P;1;R;9;;;R;1 ;Y;
+VOSBERG, Ed ;24;P;1;L;6;;;L;2 ;W;G
+WALTER, Gene ;25;P;2;L;6;;;L;9 *;XW;
+WARD, Duane ;22;P;1;R;6;;;R;1 ;W;
+WEGMAN, Bill ;23;P;2;R;16;;;R;4 ;Z;L
+WILLIAMS, Mitch ;21;P;1;L;6;;;L;14 *;XW;G
+WILLIS, Carl ;25;P;1;L;5;;;R;6 *;W;
+WITT, Bobby ;22;P;1;R;10;;;R;6 ;XYW;
+WOJNA, Ed ;25;P;1;R;9;;;R;8 ;G;
+WOODWARD, Rob ;23;P;2;R;6;;;R;4;;
+WRIGHT, Ricky ;27;P;1;L;15;;;L;4/6 *;W;H
+YETT, Rich ;23;P;1;R;9;;;R;3/4 *;Y;
+YOUMANS, Floyd ;22;P;1;R;9;;;R;12 ;XW;G

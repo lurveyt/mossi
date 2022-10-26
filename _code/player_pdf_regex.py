@@ -9,7 +9,7 @@ remove header lines
 
 import re
 
-year = 1985
+year = 1986
 filex = r"..\mossi_data\draft\{}_draft_raw.txt".format(
     year)
 
