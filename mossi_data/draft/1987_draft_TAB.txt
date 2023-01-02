@@ -1,0 +1,140 @@
+AGUAYO, Luis 	0	SS+	7	R	10		30	R			
+ALMON, Bill 	0	SS+	7	R	16		31	R			
+BENEDICT, Bruce 	0	C	7	R	4	-2	31	R			
+BENZINGER, Todd 	0	OF+	1	B	14		31	R			
+BIANCALANA, Buddy 	0	SS+	6	B	15		33	R			
+BLAUSER, Jeff 	0	SS	7	R	17		32	R			
+BOOKER, Rod 	0	2B+	6	L	17		30	R			
+BROWER, Bob 	0	OF	1	R	17		30	R			
+BURKS, Ellis 	0	OF	2	R	19		33	R			
+BUTERA, Sal 	0	C	7	R	3	+1	33	R			
+CAMINITI, Ken 	0	3B+	4	B	8		34	R			
+CHRISTENSEN, John 	0	OF	1	R	13		32	R			
+CORA, Joey 	0	2B+	5	B	17		26	R			
+COTTO, Henry 	0	OF	2	R	17		37	R			
+DAVIDSON, Mark 	0	OF	2	R	17		32	R			
+DAYETT, Brian 	0	OF	2	R	8		32	R			
+DODSON, Pat 	0	1B	3	L	10		26	L			
+ENGLE, Dave 	0	OF+	1	R	5	-2	32	R			
+FELDER, Mike 	0	OF+	2	B	18		31	R			
+FERMIN, Felix 	0	SS	6	R	11		32	R			
+FORD, Curt 	0	OF	2	L	18		32	R			
+GANT, Ron 	0	2B	6	R	17		28	R			
+GERHART, Ken 	0	OF	2	R	17		24	R			
+GROSS, Greg 	0	OF+	2	L	7		32	L			
+HENDERSON, Steve 	0	OF	1	R	12		24	R			
+HINZO, Tommy 	0	2B	6	B	16		28	R			
+HOFFMAN, Glenn 	0	SS+	7	R	8		36	R			
+HORN, Sam 	0	1B	2	L	6		25	L			
+HUGHES, Keith 	0	OF	1	L	7		26	L			
+JACKSON, Chuck 	0	3B+	4	B	15		32	R			
+JEFFERSON, Stan 	0	OF	2	B	19		31	R			
+JOHNSON, Lance 	0	OF	1	L	18		31	L			
+JOHNSON, Wallace 	0	1B	2	B	18		25	R			
+JONES, Ross 	0	SS+	7	R	11		32	R			
+JONES, Ruppert 	0	OF	2	L	13		33	L			
+KIEFER, Steve 	0	3B+	3	R	9		31	R			
+LAKE, Steve 	0	C	8	R	5	+3	36	R			
+LANDRUM, Tito 	0	OF+	2	R	16		33	R			
+LARKIN, Gene 	0	1B	2	B	7		27	R			
+LIND, Jose 	0	2B	7	R	15		29	R			
+LINDEMAN, Jim 	0	OF+	1	R	6		27	R			
+LIRIANO, Nelson 	0	2B	7	B	18		29	R			
+LOMBARDOZZI, Steve 	0	2B	8	R	12		34	R			
+LYONS, Barry 	0	C	6	R	7	+0	33	R			
+MACK, Shane 	0	OF	2	R	16		32	R			
+MANRIQUE, Fred 	0	2B+	7	R	15		34	R			
+MARZANO, John 	0	C	6	R	8	-2	29	R			
+McGRIFF, Terry 	0	C	6	R	10	+0	32	R			
+MILLER, Darrell 	0	C+	5	R	15	+1	34	R			
+MOORE, Charlie 	0	C+	6	R	13	+0	36	R			
+MORRIS, John 	0	OF	2	L	18		35	L			
+NICHOLS, Reid 	0	OF+	2	R	17		34	R			
+NIXON, Donell 	0	OF	2	R	18		31	R			
+NOBOA, Junior 	0	2B+	6	R	16		31	R			
+NOCE, Paul 	0	2B+	7	R	16		31	R			
+O'MALLEY, Tom 	0	3B+	4	L	7		33	R			
+OWEN, Larry 	0	C	6	R	7	-1	32	R			
+PACIOREK, Jim 	0	1B+	2	R	12		27	R			
+PANKOVITS, Jim 	0	2B+	6	R	14		28	R			
+PEDRIQUE, Al 	0	SS+	7	R	17		32	R			
+POLIDOR, Gus 	0	SS+	7	R	14		31	R			
+POLONIA, Luis 	0	OF	2	L	18		30	L			
+PUHL, Terry 	0	OF	2	L	14		33	R			
+QUINONES, Luis 	0	SS+	7	B	17		35	R			
+QUINONES, Rey 	0	SS	8	R	13		32	R			
+QUIRK, Jamie 	0	C+	6	L	3	-2	28	R			
+RAMOS, Domingo 	0	SS+	8	R	16		31	R			
+RAMSEY, Mike 	0	OF	2	B	17		34	L			
+RAYFORD, Floyd 	0	C+	5	R	4	-3	28	R			
+REED, Jeff 	0	C	7	L	5	+1	34	R			
+REYNOLDS, Ronn 	0	C	7	R	6	+1	36	R			
+RIPKEN, Bill 	0	2B	7	R	16		31	R			
+ROENICKE, Ron 	0	OF	2	B	15		32	L			
+RYAL, Mark 	0	OF+	1	L	9		29	L			
+SHEAFFER, Danny 	0	C	5	R	7	-2	32	R			
+STANICEK, Pete 	0	2B+	5	B	17		30	R			
+STEELS, James 	0	OF	2	L	17		31	L			
+SULLIVAN, Marc 	0	C	6	R	6	+1	34	R			
+SURHOFF, B. J. 	0	C+	7	L	16	+1	34	R			
+THORNTON, Andre 	0	1B	2	R	2		23	R			
+THURMAN, Gary 	0	OF	2	R	18		33	R			
+TREVINO, Alex 	0	C+	7	R	8	+1	34	R			
+WALEWANDER, Jim 	0	2B+	6	B	17		30	R			
+WALKER, Chico 	0	OF+	1	B	18		31	R			
+WIGGINS, Alan 	0	2B+	6	B	18		30	R			
+WILLIAMS, Ken 	0	OF	2	R	17		32	R			
+WILLIAMS, Matt 	0	SS+	7	R	14		35	R			
+WOODSON, Tracy 	0	3B+	4	R	11		33	R			
+YOUNG, Gerald 	0	OF	2	B	19		32	R			
+AKERFELDS, Darrel 	0	P	1	R	7			R	1 	Y	M
+ALDRICH, Jay 	0	P	1	R	6			R	2 *	Z	
+ARNOLD, Tony 	0	P	1	R	8			R	1 *	Z	L
+BALLARD, Jeff 	0	P	2	L	7			L	1 	M	
+BELL, Eric 	0	P	2	L	8			L	3 	Y	M
+BOLTON, Tom 	0	P	1	L	8			L	4 *	X	G
+BUICE, DeWayne 	0	P	1	R	9			R	13 *	XZ	
+CHILDRESS, Rocky 	0	P	1	R	5			R	10 *	Z	
+CLARKE, Stan 	0	P	1	L	8			L	1 *	Y	M
+COMSTOCK, Keith 	0	P+	1	L	10		31	L	4 *	XY	
+CRIM, Chuck 	0	P	1	R	9			R	5/11 *	Z	
+DAVIS, J. K. 	0	P	2	R	4			R	12 *	H	
+DUNNE, Mike 	0	P	2	R	7			R	13 	G	
+FARRELL, John 	0	P	1	R	5			R	7 	Z	G
+FRAZIER, George 	0	P	1	R	4			R	4 *	YW	
+GARDNER, Wes 	0	P	1	R	6			R	3 	X	M
+GIDEON, Brett 	0	P	1	R	7			R	2 *	XZ	M
+GLAVINE, Tom 	0	P	1	L	8			L	1 	W	
+GORDON, Don 	0	P	1	R	8			R	5 *	Z	G
+GRANT, Mark 	0	P	1	R	5			R	5 	Y	L
+GRIFFIN, Mike 	0	P	1	R	7			R	4 	Y	
+HABYAN, John 	0	P	2	R	7			R	3 	Y	L
+HAVENS, Brad 	0	P	1	L	9			L	3 	Y	G
+HENNEMAN, Mike 	0	P	2	R	8			R	14 *	XZ	G
+HILLEGAS, Shawn 	0	P	1	R	5			R	5 	XW	
+JAMES, Bob 	0	P	1	R	7			R	4 *	YZ	L
+KILGUS, Paul 	0	P	1	L	9			L	5 	Z	
+KNUDSON, Mark 	0	P	1	R	4			R	1 	Z	
+LANCASTER, Lester 	0	P	2	R	7			R	4 	Y	
+LAZORKO, Jack 	0	P	1	R	7			R	3 	Z	L
+LONG, Bill 	0	P	2	R	9			R	5 	Z	
+LOYND, Mike 	0	P	1	R	7			R	1 	YW	M
+MAGRANE, Joe 	0	P	1	R	8			L	10 	YZ	G
+MEADS, Dave 	0	P	1	L	8			L	1 *	YZ	M
+MITCHELL, John 	0	P	1	R	9			R	4 	Z	G
+NIELSEN, Scott 	0	P	1	R	8			R	1		
+NOLES, Dickie 	0	P	2	R	5			R	5/11 *	H	
+NUNEZ, Jose 	0	P	2	R	14			R	2 	XY	
+RITCHIE, Wally 	0	P	1	L	9			L	8 *	YZ	
+ROBINSON, Jeff M. 	0	P	2	R	5			R	3 	Y	
+SAMBITO, Joe 	0	P	1	L	6			L	1 *	X	M
+SELLERS, Jeff 	0	P	2	R	8			R	2 	Y	H
+SHIELDS, Steve 	0	P	1	R	4			R	1 *	Y	M
+STRAKER, Les 	0	P	1	R	6			R	5		
+TAYLOR, Dorn 	0	P	1	R	15			R	1 	Y	M
+TOLIVER, Fred 	0	P	1	R	12			R	1 	X	G
+TRUJILLO, Mike 	0	P	2	R	9			R	1 	L	
+WILKINSON, Bill 	0	P	1	R	9			L	10 *	XZ	
+WILLIAMSON, Mark 	0	P	2	R	8			R	5/6 *	YZ	G
+WOODWARD, Rob 	0	P	1	R	6			R	1 	L	
+YETT, Rich 	0	P	2	R	9			R	2 	Y	M

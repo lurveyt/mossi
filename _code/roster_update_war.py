@@ -9,10 +9,8 @@ import numpy as np
 
 from _code.utils.utilities import configure_logger
 
-ROSTER_SHEET = 'ROSTERS'
-LEVEL = 'INFO'
 log = configure_logger(name=__name__,
-                       console_level=LEVEL,
+                       console_level=20,    # INFO
                        log_file="{}.log".format(__file__))
 
 base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -21,7 +19,7 @@ file_path = os.path.join(base_path, 'mossixls', 'MILWAUKEE_FULL_STATS2.xlsx')
 def build_roster_dict(ids: tuple, teams: tuple):
     """ {Player_ID: Team Name}"""
     if not len(ids) == len(teams):
-        msg = f"ID and TEAMS are different sizes from {ROSTER_SHEET} sheet"
+        msg = f"ID and TEAMS are different sizes from ROSTERS sheet"
         log.error(msg)
         raise ValueError(msg)
 
