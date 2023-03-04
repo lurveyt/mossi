@@ -32,7 +32,10 @@ patrn = "{Name}\s{Age}\s{Pos}\s{D}\s{B}\s{Sp}\s{Th}\s?{Arm}\s?{T}\s?{Grade}\s?{C
 # found = re.findall(pattern=patrn, string=text_raw)    ## DEBUG
 
 # set delimiter
-delimiters = {'TAB': "\t", 'SEMICOL': ";", 'COMMA': ","}
+delimiters = {
+    'TAB': "\t",
+    'SEMICOL': ";",
+}
 
 # Delete Header Lines
 text_strip = re.sub(pattern="\d{1,2}\/\d{1,2}\/\d{4}.+?\n", repl="", string=text_raw)

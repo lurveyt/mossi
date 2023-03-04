@@ -22,10 +22,10 @@ def file_writer(wfile, d):
     :type d: dict
     """
     with open(os.path.join(roster_path, wfile), 'w') as W:
-        for league, teams in sorted(d.items()):
+        for lg, teams in sorted(d.items()):
             for team, players in sorted(teams.items()):
                 for player in players:
-                    W.write(f"{league};")
+                    W.write(f"{lg};")
                     W.write(";;".join([team, player]) + "\n")
 
 
@@ -39,12 +39,12 @@ d_pitch = {}
 d_pos = {}
 
 
-def read_table_for_names(table, league, pdict):
+def read_table_for_names(table, sleague, pdict):
     """
     Read the table and add extracted named to dictionary, formatted.
 
     :param table: the HTML soup table
-    :param league: league string
+    :param sleague: league string
     :param pdict: the dictionary to add data to
     :return: the dictionary with added data
     """
@@ -57,11 +57,11 @@ def read_table_for_names(table, league, pdict):
         # add ' to grade because MS Excel is a shit program
         table_data[2] = "'{0}".format(table_data[2].strip())
         # get the existing list
-        existing = pdict[league].get(team_name, [])
+        existing = pdict[sleague].get(team_name, [])
         # update the team sub dict
         dteam = {team_name: existing + [';'.join(map(str, table_data))]}
         # update the league dict
-        pdict[league].update(dteam)
+        pdict[sleague].update(dteam)
 
     return pdict
 
@@ -73,6 +73,7 @@ for filex in files:
 
     for node in soup.find_all("p"):
         # get the league if it's a new league
+        # league or Division always starts the data segment
         if "AL " in node.text or "NL " in node.text or "Division" in node.text:
             pattern = re.compile("[AN]L")
 
