@@ -187,7 +187,7 @@ Pasco Buffet;;BURGMEIER, Tom;L;'20;*; ;
 Pasco Buffet;;GLADDING, Fred;R;'17;*; ; 
 Pasco Buffet;;MARSHALL, Mike;R;'8;*;X; 
 Philadelphia J's;;PITCHERS - 16;T;'Grade; ;Ctrl; 
-Philadelphia J's;;ROBERTS, Dave;L;'18; ;Z; 
+Philadelphia J's;;ROBERTS, Dave A.;L;'18; ;Z; 
 Philadelphia J's;;PERRY, Gaylord;R;'15; ;YZ; 
 Philadelphia J's;;OSTEEN, Claude;L;'13; ;Z; 
 Philadelphia J's;;WRIGHT, Clyde;L;'13; ;Z; 

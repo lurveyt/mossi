@@ -196,7 +196,7 @@ Philadelphia J's;;WRIGHT, Clyde;L;''14; ; ;
 Philadelphia J's;;ELLIS, Dock;R;''12; ;Y; 
 Philadelphia J's;;GENTRY, Gary;R;''9; ;Y; 
 Philadelphia J's;;OSTEEN, Claude;L;''8; ;Z; 
-Philadelphia J's;;ROBERTS, Dave;L;''8; ;Z; 
+Philadelphia J's;;ROBERTS, Dave A.;L;''8; ;Z; 
 Philadelphia J's;;ALLEN, Lloyd;R;''6/9;*; ; 
 Philadelphia J's;;DAL CANTON, Bruce;R;''4/5;*; ; 
 Philadelphia J's;;KRAUSSE, Lew;R;''4; ;YZ; 

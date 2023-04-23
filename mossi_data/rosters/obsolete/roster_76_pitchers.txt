@@ -159,7 +159,7 @@ Philadelphia J's;;REDFERN, Pete;R;'11; ;YW;
 Philadelphia J's;;JONES, Rick;L;'9; ;Z; 
 Philadelphia J's;;TIDROW, Dick;R;'8/15;*;X; 
 Philadelphia J's;;CURTIS, John;L;'6/7;*;W; 
-Philadelphia J's;;ROBERTS, Dave;L;'6; ;Z; 
+Philadelphia J's;;ROBERTS, Dave A.;L;'6; ;Z; 
 Philadelphia J's;;BARE, Ray;R;'5; ; ; 
 Philadelphia J's;;BOSMAN, Dick;R;'4; ;Z; 
 Philadelphia J's;;DAL CANTON, Bruce;R;'4/12;*;W; 

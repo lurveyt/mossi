@@ -193,7 +193,7 @@ Philadelphia J's;;ELLIS, Dock;R;'8; ;X;
 Philadelphia J's;;SELMA, Dick;R;'8; ;XY; 
 Philadelphia J's;;KRAUSSE, Lew;R;'4; ;YZ; 
 Philadelphia J's;;WRIGHT, Clyde;L;'4/5;*; ; 
-Philadelphia J's;;ROBERTS, Dave;L;'3/4;*; ; 
+Philadelphia J's;;ROBERTS, Dave A.;L;'3/4;*; ; 
 Philadelphia J's;;ALLEN, Lloyd;R;'2/3;*;W; 
 Philadelphia J's;;LYLE, Sparky;L;'15;*;X; 
 Philadelphia J's;;TAYLOR, Ron;R;'14;*;Z; 

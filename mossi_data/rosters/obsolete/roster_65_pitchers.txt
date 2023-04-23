@@ -123,7 +123,7 @@ Pasco Buffet;;PITCHERS - 13;T;'Grade; ;Ctrl;
 Pasco Buffet;;KOUFAX, Sandy;L;'18; ;XYZ; 
 Pasco Buffet;;BUNNING, Jim;R;'14; ;XYZ; 
 Pasco Buffet;;HORLEN, Joe;R;'12; ;Z; 
-Pasco Buffet;;MILLER, John;R;'12; ;YW; 
+Pasco Buffet;;MILLER, John E.;R;'12; ;YW; 
 Pasco Buffet;;HOWARD, Bruce;R;'10; ;XW; 
 Pasco Buffet;;PIZARRO, Juan;L;'9; ;Y; 
 Pasco Buffet;;ZACHARY, Chris;R;'5; ;W; 
