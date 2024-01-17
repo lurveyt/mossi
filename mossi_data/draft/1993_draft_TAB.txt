@@ -1,0 +1,482 @@
+ABBOTT, Kurt 	24	OF+	1	R	15		32	R		W	M
+ALEXANDER, Manny 	22	2B	5	R	16		32	R		W	M
+ALLANSON, Andy 	31	C+	6	R	13	-2	31	R		W	M
+ARIAS, Alex 	25	2B+	7	R	17		33	R		W	M
+ARMAS, Marcos 	23	1B+	2	R	9		30	R		W	M
+ASHLEY, Billy 	22	OF	1	R	9		31	R		W	M
+AUDE, Rich 	21	1B+	2	R	9		29	R		W	M
+AUSMUS, Brad 	24	C	7	R	9	+3	32	R		W	M
+BACKMAN, Wally 	33	3B+	3	B	16		26	R		W	M
+BAEZ, Kevin 	26	SS	7	R	15		32	R		W	M
+BALBONI, Steve 	36	1B	2	R	2		26	R		W	M
+BATISTE, Kim 	25	3B+	4	R	14		32	R		W	M
+BAUTISTA, Danny 	21	OF	2	R	17		32	R		W	M
+BEAN, Billy 	29	OF+	2	L	15		31	L		W	M
+BECKER, Rich 	21	OF	1	B	17		31	L		W	M
+BELL, Juan 	25	2B+	7	B	16		32	R		W	M
+BENAVIDES, Freddie 	27	SS+	7	R	15		32	R		W	M
+BLOSSER, Greg 	22	OF	1	L	7		28	L		W	M
+BOGAR, Tim 	26	SS+	7	R	11		33	R		W	M
+BOLICK, Frank 	27	1B+	2	B	6		32	R		W	M
+BOURNIGAL, Rafael 	27	SS+	6	R	14		32	R		W	M
+BRANSON, Jeff 	26	SS+	7	L	12		32	R		W	M
+BREWER, Rod 	27	OF+	2	L	9		30	L	1 *	W	M
+BRITO, Bernardo 	29	OF	2	R	13		28	R		W	M
+BROOKS, Jerry 	26	OF	1	R	10		32	R		W	M
+BROWN, Jarvis 	26	OF	2	R	18		32	R		W	M
+BRUETT, J.T. 	25	OF	1	L	18		32	L		W	M
+BRUMFIELD, Jacob 	28	OF+	2	R	17		32	R		W	M
+BRUMLEY, Mike 	30	OF+	2	B	16		36	R		W	M
+BUFORD, Damon 	23	OF	2	R	17		30	R		W	M
+BULLETT, Scott 	24	OF	2	L	17		30	L		W	M
+BURNITZ, Jeromy 	24	OF	1	L	15		30	R		W	M
+BUSH, Randy 	34	1B+	2	L	6		25	L		W	M
+BUTLER, Rob 	23	OF	2	L	11		32	L		W	M
+BYRD, Jim 	24	2B	5	R	14		31	R		W	M
+CABRERA, Francisco 	26	1B+	2	R	6	-4	32	R		W	M
+CALDERON, Ivan 	31	OF	1	R	9		26	R		W	M
+CANATE, Willie 	21	OF	2	R	18		32	R		W	M
+CANSECO, Ozzie 	28	OF	1	R	11		33	R		W	M
+CARABALLO, Ramon 	24	2B	6	B	15		29	R		W	M
+CAREY, Paul 	25	1B	2	L	7		29	R		W	M
+CARR, Chuck 	25	OF	2	B	18		32	R		W	M
+CARRILLO, Matias 	30	OF	2	L	15		34	L		W	M
+CASTELLANO, Pedro 	23	3B+	3	R	11		32	R		W	M
+CEDENO, Andujar 	23	SS+	7	R	15		32	R		W	M
+CEDENO, Domingo 	24	SS+	7	B	10		32	R		W	M
+CHAMBERLAIN, Wes 	27	OF	1	R	12		33	R		W	M
+CIANFROCCO, Archi 	26	3B+	3	R	11		31	R		W	M
+CLARK, Dave 	30	OF	1	L	8		29	R		W	M
+COLBERT, Craig 	28	C+	6	R	10	+3	32	R		W	M
+COLE, Alex 	27	OF	2	L	18		32	L		W	M
+CORREIA, Rod 	25	SS+	7	R	17		30	R		W	M
+COSTO, Tim 	24	OF+	1	R	9		27	R		W	M
+COTTO, Henry 	32	OF	2	R	17		34	R		W	M
+CROMER, Tripp 	25	SS	6	R	13		33	R		W	M
+CUMMINGS, Midre 	21	OF	1	L	15		29	R		W	M
+DAUGHERTY, Jack 	32	OF+	1	B	7		29	L		W	M
+DAVIS, Butch 	35	OF	2	R	15		26	R		W	M
+DECKER, Steve 	27	C	6	R	5	-3	33	R		W	M
+DELGADO, Carlos 	21	C	6	L	6	-1	31	R		W	M
+DENSON, Drew 	27	1B	2	B	9		29	R		W	M
+DESTRADE, Orestes 	31	1B	2	B	4		29	R		W	M
+DIAZ, Alex 	24	OF	2	B	16		32	R		W	M
+DIAZ, Mario 	31	SS+	8	R	15		33	R		W	M
+DONNELS, Chris 	27	3B+	3	L	15		32	R		W	M
+DORSETT, Brian 	32	C+	6	R	5	-2	31	R		W	M
+EDMONDS, Jim 	23	OF	2	L	11		30	L		W	M
+ESPY, Cecil 	30	OF	2	B	18		32	R		W	M
+EVERETT, Carl 	22	OF	1	B	15		33	R		W	M
+FANEYTE, Rikkert 	24	OF	1	R	15		31	R		W	M
+FARIES, Paul 	28	2B+	6	R	16		31	R		W	M
+FARISS, Monty 	25	OF	2	R	14		29	R		W	M
+FLOYD, Cliff 	20	1B	3	L	16		30	R		W	M
+FOLEY, Tom 	33	2B+	7	L	8		30	R		W	M
+FOX, Eric 	29	OF	2	B	16		33	L		W	M
+FRAZIER, Lou 	28	OF+	2	B	18		30	R		W	M
+GAINER, Jay 	26	1B	2	L	9		29	L		W	M
+GALLAGHER, Dave 	32	OF+	2	R	10		31	R		W	M
+GARCIA, Carlos 	25	2B+	7	R	16		32	R		W	M
+GARDNER, Jeff 	29	2B+	7	L	15		27	R		W	M
+GATES, Brent 	23	2B	7	B	10		31	R		W	M
+GEREN, Bob 	31	C+	6	R	5	+1	33	R		W	M
+GIL, Benji 	20	SS	7	R	15		33	R		W	M
+GOFF, Jerry 	29	C	6	L	13	+0	31	R		W	M
+GOMEZ, Chris 	22	SS+	7	R	12		32	R		W	M
+GONZALES, Larry 	26	C	6	R	6	-3	32	R		W	M
+GORDON, Keith 	24	OF	1	R	15		30	R		W	M
+GREEN, Shawn 	20	OF	1	L	14		30	L		W	M
+GREGG, Tommy 	29	OF	2	L	13		30	L		W	M
+GRIFFIN, Alfredo 	35	SS+	8	B	15		30	R		W	M
+GUTIERREZ, Ricky 	23	SS+	8	R	15		33	R		W	M
+GWYNN, Chris 	28	OF+	2	L	15		33	L		W	M
+HAMELIN, Bob 	25	1B	2	L	6		29	L		W	M
+HAMMONDS, Jeffrey 	22	OF	2	R	15		32	R		W	M
+HARRIS, Donald 	25	OF	2	R	15		31	R		W	M
+HASELMAN, Bill 	27	C+	6	R	6	-3	30	R		W	M
+HELFAND, Eric 	24	C	6	L	6	+1	31	R		W	M
+HEMOND, Scott 	27	C+	6	R	15	+2	31	R		W	M
+HENDERSON, Dave 	34	OF	2	R	8		31	R		W	M
+HERNANDEZ, Carlos 	26	C	7	R	8	-1	32	R		W	M
+HERNANDEZ, Cesar 	26	OF	2	R	17		28	R		W	M
+HIATT, Phil 	24	3B	3	R	10		31	R		W	M
+HIGGINS, Kevin 	26	C+	6	L	6	+0	31	R		W	M
+HOCKING, Dennis 	23	SS+	7	B	16		33	R		W	M
+HORN, Sam 	29	1B	2	L	3		24	L		W	M
+HOSEY, Steve 	24	OF	1	R	15		32	R		W	M
+HOUSIE, Wayne 	28	OF	1	B	16		29	R		W	M
+HOWARD, Christopher 	27	C	5	R	6	-4	31	R		W	M
+HOWARD, Dave 	26	2B+	6	B	15		32	R		W	M
+HOWITT, Dann 	29	OF	1	L	10		26	R		W	M
+HUFF, Mike 	29	OF	2	R	17		34	R		W	M
+HUGHES, Keith 	29	OF	1	L	7		26	L		W	M
+HULSE, David 	25	OF	2	L	17		32	L		W	M
+HUMPHREYS, Mike 	26	OF	2	R	16		31	R		W	M
+HUSKEY, Butch 	21	3B	3	R	9		31	R		W	M
+JAMES, Chris 	30	OF	1	R	6		32	R		W	M
+JENNINGS, Doug 	28	1B	2	L	12		27	L		W	M
+JOHNSON, Erik 	27	2B+	6	R	12		32	R		W	M
+JONES, Chipper 	21	SS	6	B	15		32	R		W	M
+JONES, Chris 	27	OF	2	R	17		30	R		W	M
+JONES, Tim 	30	SS+	8	L	15		32	R		W	M
+JORGENSEN, Terry 	26	3B+	3	R	12		29	R		W	M
+KESSINGER, Keith 	26	SS	6	B	11		32	R		W	M
+KIRBY, Wayne 	29	OF	2	L	18		31	R		W	M
+KMAK, Joe 	30	C	6	R	6	+1	32	R		W	M
+KNORR, Randy 	24	C	7	R	7	-2	32	R		W	M
+KOELLING, Brian 	24	2B+	6	R	16		30	R		W	M
+KOSLOFSKI, Kevin 	26	OF	2	L	16		32	R		W	M
+LAKE, Steve 	36	C	8	R	2	+5	36	R		W	M
+LAKER, Tim 	23	C	6	R	7	-4	31	R		W	M
+LANDRUM, Ced 	29	OF	1	L	18		30	R		W	M
+LANSING, Mike 	25	3B+	4	R	16		30	R		W	M
+LEE, Derek 	26	OF	1	L	16		30	R		W	M
+LEONARD, Mark 	28	OF	1	L	6		27	R		W	M
+LEVIS, Jesse 	25	C	6	L	7	+2	32	R		W	M
+LINDEMAN, Jim 	31	1B	2	R	9		26	R		W	M
+LINDSEY, Doug 	25	C	6	R	6	-3	33	R		W	M
+LITTON, Greg 	28	OF+	1	R	6		35	R		W	M
+LONGMIRE, Tony 	24	OF	2	L	12		31	R		W	M
+LOPEZ, Luis 	22	2B	7	B	13		31	R		W	M
+LOVULLO, Torey 	27	2B+	7	B	15		32	R		W	M
+LYDEN, Mitch 	28	C	6	R	5	-3	31	R		W	M
+LYDY, Scott 	24	OF	1	R	13		31	R		W	M
+LYONS, Steve 	33	OF+	1	L	17	-4	31	R		W	M
+MAAS, Kevin 	28	1B	2	L	8		32	L		W	M
+MACLIN, Lonnie 	26	OF	1	L	12		30	L		W	M
+MAKSUDIAN, Mike 	27	1B+	2	L	5		27	R		W	M
+MANTO, Jeff 	28	3B+	3	R	11		34	R		W	M
+MARRERO, Oreste 	23	1B	2	L	10		31	L		W	M
+MARTIN, Norberto 	26	2B	6	B	15		31	R		W	M
+MARTINEZ, Domingo 	25	1B+	2	R	8		28	R		W	M
+MAY, Derrick 	24	OF	1	L	12		28	R		W	M
+McCARTY, Dave 	23	OF+	2	R	14		35	L		W	M
+McCLENDON, Lloyd 	34	OF+	1	R	4		28	R		W	M
+McGRIFF, Terry 	29	C	6	R	8	-2	32	R		W	M
+McINTOSH, Tim 	28	OF+	1	R	13	-2	31	R		W	M
+McKNIGHT, Jeff 	30	SS+	7	B	13	-4	31	R		W	M
+McNAMARA, Jim 	28	C	6	L	6	-2	32	R		W	M
+McNEELY, Jeff 	23	OF	2	R	18		31	R		W	M
+MEARES, Pat 	24	SS	7	R	14		33	R		W	M
+MEJIA, Roberto 	21	2B	6	R	15		31	R		W	M
+MERCEDES, Henry 	23	C	7	R	8	+5	33	R		W	M
+MERCEDES, Luis 	25	OF	1	R	18		31	R		W	M
+MERULLO, Matt 	27	C	5	L	8	-4	32	R		W	M
+MEULENS, Hensley 	26	OF+	1	R	15		29	R		W	M
+MIESKE, Matt 	25	OF	1	R	15		33	R		W	M
+MILLETTE, Joe 	26	SS+	8	R	11		34	R		W	M
+MONDESI, Raul 	22	OF	2	R	11		36	R		W	M
+MONTOYO, Charlie 	27	2B	5	R	9		30	R		W	M
+MURPHY, Dale 	37	OF	1	R	3		28	R		W	M
+NATAL, Rob 	27	C	6	R	8	-1	32	R		W	M
+NAVARRO, Tito 	22	SS	6	B	16		31	R		W	M
+NEWFIELD, Marc 	20	OF	1	R	8		29	R		W	M
+NEWSON, Warren 	28	OF	1	L	15		28	L		W	M
+NIEVES, Melvin 	21	OF	1	B	12		28	R		W	M
+OBANDO, Sherman 	23	OF	1	R	14		29	R		W	M
+O'LEARY, Troy 	23	OF	1	L	15		30	L		W	M
+OQUENDO, Jose 	29	SS+	8	B	12		37	R		W	M
+ORTIZ, Luis 	23	3B	3	R	9		29	R		W	M
+ORTON, John 	27	C+	6	R	9	-1	32	R		W	M
+OWENS, Jayhawk 	24	C	6	R	7	+1	31	R		W	M
+PAPPAS, Erik 	27	C+	7	R	10	+0	32	R		W	M
+PAQUETTE, Craig 	24	3B+	3	R	12		32	R		W	M
+PARENT, Mark 	31	C	6	R	4	-4	35	R		W	M
+PARKER, Rick 	30	OF+	2	R	16		30	R		W	M
+PARKS, Derek 	24	C	6	R	7	-4	32	R		W	M
+PASQUA, Dan 	31	OF+	1	L	6		28	L		W	M
+PATTERSON, John 	26	2B	5	B	17		28	R		W	M
+PECOTA, Bill 	33	3B+	4	R	16		34	R		W	M
+PELTIER, Dan 	25	OF+	1	L	6		30	L		W	M
+PENNYFEATHER, Will 	25	OF	2	R	13		30	R		W	M
+PEREZ, Eduardo 	23	3B	4	R	12		31	R		W	M
+PERRY, Gerald 	32	1B+	3	L	11		24	R		W	M
+PHILLIPS, J.R. 	23	1B	2	L	8		29	L		W	M
+PIRKL, Greg 	22	1B	2	R	7		30	R		W	M
+POLIDOR, Gus 	31	2B+	6	R	14		31	R		W	M
+POSE, Scott 	26	OF	2	L	15		32	R		W	M
+PRIDE, Curtis 	24	OF	1	L	17		31	R		W	M
+PRINCE, Tom 	28	C	7	R	7	-3	33	R		W	M
+PULLIAM, Harvey 	25	OF	2	R	13		28	R		W	M
+RAMIREZ, Manny 	21	OF	1	R	9		33	R		W	M
+READY, Randy 	33	2B+	6	R	7		29	R		W	M
+RENTERIA, Rich 	31	2B+	6	R	15		31	R		W	M
+RHODES, Karl 	24	OF	2	L	16		32	L		W	M
+RICHARDSON, Jeff 	27	2B+	7	R	12		31	R		W	M
+RILES, Ernest 	32	2B+	7	L	12		31	R		W	M
+RIPKEN, Billy 	28	2B+	8	R	12		32	R		W	M
+RIVERA, Luis 	29	SS+	7	R	13		34	R		W	M
+ROBERSON, Kevin 	25	OF	1	B	8		30	R		W	M
+RONAN, Marc 	23	C	6	L	6	-2	31	R		W	M
+ROSSY, Rico 	29	2B+	7	R	15		36	R		W	M
+ROWLAND, Rich 	29	C	7	R	6	-1	31	R		W	M
+ROYER, Stan 	25	3B+	3	R	9		31	R		W	M
+RUSSELL, John 	32	C+	6	R	5	-3	27	R		W	M
+SAMUEL, Juan 	32	2B+	6	R	18		31	R		W	M
+SANTOVENIA, Nelson 	31	C	6	R	5	-2	35	R		W	M
+SAUNDERS, Doug 	23	2B+	6	R	10		30	R		W	M
+SCARSONE, Steve 	27	2B+	7	R	15		29	R		W	M
+SHAVE, Jon 	25	SS+	7	R	11		31	R		W	M
+SHEAFFER, Danny 	31	C+	6	R	8	-1	32	R		W	M
+SHEETS, Larry 	33	OF	1	L	4		30	R		W	M
+SHELTON, Ben 	23	OF+	1	R	7		29	L		W	M
+SHERMAN, Darrell 	25	OF	2	L	17		33	L		W	M
+SHIELDS, Tommy 	28	2B+	6	R	15		29	R		W	M
+SHIPLEY, Craig 	30	3B+	4	R	15		32	R		W	M
+SIDDALL, Joe 	25	C+	7	L	10	-1	33	R		W	M
+SILVESTRI, Dave 	25	SS+	6	R	15		32	R		W	M
+SPEHR, Tim 	26	C	6	R	8	-2	31	R		W	M
+STAHOVIAK, Scott 	23	3B	3	L	10		30	R		W	M
+STATON, Dave 	25	1B	2	R	6		30	R		W	M
+STILLWELL, Kurt 	28	SS+	7	B	11		36	R		W	M
+STOCKER, Kevin 	23	SS	8	B	15		33	R		W	M
+STRANGE, Doug 	29	2B+	7	B	11		32	R		W	M
+SUERO, William 	26	2B+	6	R	17		32	R		W	M
+SVEUM, Dale 	29	1B+	2	B	9		31	R		W	M
+TARASCO, Tony 	22	OF	1	L	15		31	R		W	M
+TATUM, Jim 	25	1B+	2	R	6		32	R		W	M
+TEUFEL, Tim 	34	2B+	7	R	6		27	R		W	M
+THOMPSON, Ryan 	25	OF	2	R	15		33	R		W	M
+THON, Dickie 	35	SS+	8	R	15		34	R		W	M
+THURMAN, Gary 	28	OF	2	R	18		34	R		W	M
+TINGLEY, Ron 	34	C	7	R	7	+1	32	R		W	M
+TINSLEY, Lee 	24	OF	2	B	15		33	R		W	M
+TOMBERLIN, Andy 	26	OF	1	L	15		32	L		W	M
+TUBBS, Greg 	30	OF	2	R	15		28	R		W	M
+TUCKER, Scooter 	26	C	6	R	6	+1	32	R		W	M
+TURANG, Brian 	26	OF+	1	R	15		31	R		W	M
+TURNER, Chris 	24	C	6	R	8	-4	32	R		W	M
+URIBE, Jose 	34	SS	7	B	15		34	R		W	M
+VAN BURKLEO, Ty 	29	1B	2	L	8		29	L		W	M
+VARSHO, Gary 	32	OF	2	L	14		27	R		W	M
+VELASQUEZ, Guillermo 	25	1B+	3	L	6		27	R		W	M
+VILLANUEVA, Hector 	28	C	6	R	3	-4	27	R		W	M
+VINA, Fernando 	24	2B+	7	L	16		32	R		W	M
+VOIGT, Jack 	27	OF+	1	R	15		28	R		W	M
+WALBECK, Matt 	23	C	6	B	6	-4	30	R		W	M
+WALEWANDER, Jim 	31	SS+	7	B	16		32	R		W	M
+WALTON, Jerome 	27	OF	2	R	17		34	R		W	M
+WARD, Turner 	28	OF+	2	B	16		32	R		W	M
+WEDGE, Eric 	25	C	6	R	10	+0	25	R		W	M
+WEHNER, John 	26	OF+	1	R	13		32	R		W	M
+WHITE, Derrick 	23	1B	3	R	12		31	R		W	M
+WHITE, Rondell 	21	OF	1	R	16		29	R		W	M
+WHITMORE, Darrell 	24	OF	1	L	13		30	R		W	M
+WILSON, Craig 	28	3B+	3	R	7		31	R		W	M
+WILSON, Glenn 	34	OF	2	R	7		35	R		W	M
+WILSON, Nigel 	23	OF	1	L	14		31	L		W	M
+WOMACK, Tony 	23	SS	7	L	17		31	R		W	M
+WOOD, Ted 	26	OF	1	L	12		31	L		W	M
+WOODSON, Tracy 	30	3B+	3	R	6		33	R		W	M
+WRONA, Rick 	29	C	6	R	6	-4	31	R		W	M
+YELDING, Eric 	28	2B+	7	R	19		29	R		W	M
+YOUNG, Gerald 	28	OF	1	B	19		32	R		W	M
+ZAMBRANO, Eddie 	27	OF+	1	R	10		29	R		W	M
+AGOSTO, Juan 	35	P	1	L	7			L	2 *	Z	M
+ALDRED, Scott 	25	P	2	L	7			L	1 *	W	L
+ANDERSON, Brian 	21	P	1	B	9			L	4 	Z	
+ANDERSON, Mike 	26	P	1	R	6			R	1 *	W	M
+AROCHA, Rene 	27	P	1	R	9			R	7 	Z	
+AYALA, Bobby 	23	P	1	R	8			R	4/5 *	YW	L
+AYRAULT, Bob 	27	P	1	R	3			R	5 *	W	G
+BAILEY, Cory 	22	P	1	R	6			R	10 *	YW	H
+BANKS, Willie 	24	P	1	R	9			R	7 	X	
+BATCHELOR, Rich 	26	P	1	R	7			R	1 *	Z	
+BELL, Eric 	29	P	1	L	8			L	2 *	Z	G
+BERE, Jason 	22	P	1	R	7			R	13 	XW	
+BERGMAN, Sean 	23	P	1	R	7			R	4 	W	L
+BLAIR, Willie 	27	P	2	R	8			R	4 	Z	L
+BOLTON, Rodney 	24	P	1	R	8			R	1		
+BORBON, Pedro 	25	P	1	R	7			L	1 *	YW	
+BOUCHER, Denis 	25	P	2	R	8			L	12 	Z	H
+BOWEN, Ryan 	25	P	1	R	16			R	7 	YW	G
+BRENNAN, Bill 	30	P	1	R	7			R	4/5 *	YW	L
+BREWER, Billy 	25	P	1	L	9			L	14 *	XW	L
+BRINK, Brad 	28	P	1	R	8			R	4 *	XYW	M
+BRISCOE, John 	25	P	1	R	7			R	1 *	XW	G
+BRONKEY, Jeff 	27	P	2	R	5			R	6 *	Z	
+BROSS, Terry 	27	P	1	R	8			R	1 *	W	M
+BROW, Scott 	24	P	1	R	7			R	4 	W	
+BRUMMETT, Greg 	26	P	2	R	9			R	4 	M	
+BURGOS, Enrique 	27	P	1	L	8			L	1 *	XYW	
+BUSHING, Chris 	25	P	1	R	9			R	1 *	W	M
+BUTCHER, Mike 	28	P	1	R	7			R	13 *	XW	G
+CAMPBELL, Kevin 	28	P	1	R	7			R	2 *	W	G
+CARY, Chuck 	33	P	1	L	7			L	5 *	W	G
+CASIAN, Larry 	27	P	1	R	9			L	13 *	Z	H
+CHRISTOPHER, Mike 	29	P	1	R	6			R	6 *	YZ	M
+CONVERSE, Jim 	21	P	2	L	10			R	4 	W	H
+COOK, Andy 	25	P	1	R	5			R	4 *	YW	L
+COOK, Mike 	29	P	1	R	5			R	3 *	XY	
+CUMMINGS, John 	24	P	1	L	7			L	2 	Z	
+DAAL, Omar 	21	P	2	L	8			L	5 *	W	L
+DAVIS, Mark 	32	P	1	L	10			L	7 *	XW	L
+DAYLEY, Ken 	34	P	1	L	13			L	1 *	XYW	
+DeSILVA, John 	25	P	1	R	8			R	1 *	XYZ	G
+DEWEY, Mark 	28	P	1	R	9			R	13 *	H	
+DiPINO, Frank 	36	P	2	L	6			L	1 *		
+DiPOTO, Jerry 	25	P	1	R	7			R	18 *	Y	H
+DIXON, Steve 	23	P	1	L	8			L	1 *	W	M
+DRAHMAN, Brian 	26	P	1	R	5			R	6 *	G	
+DRAPER, Mike 	26	P	1	R	8			R	4 	Z	G
+DREYER, Steve 	23	P	2	R	8			R	3 	L	
+EILAND, Dave 	26	P	1	R	7			R	3		
+ETTLES, Mark 	26	P	1	R	9			R	1 *	Z	M
+FAJARDO, Hector 	22	P	1	R	6			R	1 *	X	
+FARRELL, John 	30	P	2	R	4			R	1 	M	
+FLENER, Huck 	24	P	2	B	9			L	6 *	W	G
+FLETCHER, Paul 	26	P	1	R	8			R	1 *		
+FOSTER, Kevin 	24	P	2	R	12			R	1 	YW	M
+FOSTER, Steve 	26	P	1	R	9			R	14 *	YZ	H
+FREDRICKSON, Scott 	25	P	1	R	6			R	3 *	YW	
+GARCES, Rich 	22	P	1	R	6			R	4 *	YW	
+GOHR, Greg 	25	P	1	R	6			R	4 *	XW	G
+GOMEZ, Pat 	25	P	1	L	9			L	4/5 *	XW	G
+GOZZO, Mauro 	27	P	1	R	9			R	11 *		
+GRANGER, Jeff 	21	P	1	R	6			L	1 *	W	
+GRATER, Mark 	29	P	1	R	6			R	4 *	YW	
+GREEN, Tyler 	23	P	1	R	6			R	1 	YW	
+GREER, Kenny 	26	P	1	R	7			R	1 *	XY	
+GROSS, Kip 	28	P	1	R	8			R	12 *	X	H
+GUARDADO, Eddie 	22	P	2	R	8			L	2 	L	
+HAAS, Dave 	27	P	1	R	6			R	2 *	Z	M
+HAMPTON, Mike 	20	P	1	R	9			L	1 	W	L
+HARKEY, Mike 	26	P	1	R	7			R	3 	Z	
+HARRIS, Gene 	28	P	2	R	14			R	15 *	YW	G
+HATHAWAY, Hilly 	23	P	2	L	7			L	4		
+HEATON, Neal 	33	P	1	L	14			L	3 *	M	
+HERNANDEZ, Jeremy 	26	P	1	R	7			R	10 *	YZ	L
+HILL, Milt 	27	P	1	R	9			R	3 *	X	M
+HILLEGAS, Shawn 	28	P	1	R	5			R	2 	W	
+HILLMAN, Eric 	27	P	1	L	5			L	4 	Z	
+HOFFMAN, Trevor 	25	P	2	R	8			R	8 *	X	
+HOLMAN, Brad 	25	P	1	R	5			R	7 *	H	
+HOLZEMER, Mark 	23	P	1	L	9			L	1 	W	G
+HOPE, John 	22	P	1	R	8			R	4 	Z	G
+HOWARD, Christian 	27	P	1	R	9			L	3 *	W	
+HUTTON, Mark 	23	P	1	R	6			R	5 	W	
+IGNASIAK, Michael 	27	P	1	B	9			R	11 *	XW	G
+JEAN, Domingo 	24	P	1	R	9			R	5 	L	
+JIMENEZ, Miguel 	23	P	1	R	8			R	7 	W	M
+JOHNSON, Dave 	33	P	1	R	9			R	1 *	Y	M
+JOHNSTON, Joel 	26	P	2	R	4			R	10 *	Y	L
+JOHNSTONE, John 	24	P	1	R	7			R	3 *	W	
+JONES, Barry 	30	P	1	R	3			R	1 *	X	M
+JONES, Bobby 	23	P	2	R	6			R	6		
+JONES, Todd 	25	P	2	L	7			R	10 *	Y	
+JUDEN, Jeff 	22	P	1	R	4			R	3 *	XYW	M
+KAISER, Jeff 	32	P	1	R	6			L	1 *	XYW	
+KARSAY, Steve 	21	P	2	R	8			R	5 	Y	
+KIEFER, Mark 	24	P	1	R	7			R	7 *	XW	G
+KILGUS, Paul 	31	P	2	L	8			L	14/24 *	X	H
+KING, Kevin 	24	P	1	L	7			L	2 *	YZ	M
+KLINK, Joe 	31	P	2	L	8			L	6 *	W	H
+KNUDSEN, Kurt 	26	P	2	R	9			R	5 *	Y	M
+KNUDSON, Mark 	32	P	1	R	4			R	1 *	W	M
+KRAMER, Tom 	25	P	2	B	7			R	6/8 *	L	
+LANDRUM, Bill 	35	P	2	R	7			R	6 *	YZ	G
+LAYANA, Tim 	29	P	2	R	8			R	1 *	M	
+LEFTWICH, Phil 	24	P	1	R	6			R	9 	G	
+LESKANIC, Curt 	25	P	1	R	9			R	4 	W	
+LEWIS, Richie 	27	P	1	R	8			R	14 *	XW	
+LEWIS, Scott 	27	P	1	R	9			R	4/5 *		
+LINTON, Doug 	28	P	2	R	9			R	1/2 *	W	M
+LLOYD, Graeme 	26	P	1	L	5			L	14 *	Z	
+LOONEY, Brian 	23	P	1	L	10			L	4 	XY	G
+LOPEZ, Albie 	21	P	1	R	9			R	5 	W	L
+LUEBBERS, Larry 	23	P	1	R	6			R	6 	W	
+MacDONALD, Rob 	28	P	1	L	6			L	4 *		
+MAGRANE, Joe 	28	P	1	R	10			L	5		
+MAHOMES, Pat 	22	P	2	R	8			R	1 	M	
+MALDONADO, Carlos 	26	P	1	R	7			R	4 *	G	
+MANZANILLO, Josias 	25	P	1	R	9			R	2 	YW	G
+MARTINEZ, Pedro A. 	24	P	1	L	9			L	15 *	X	
+MAUSER, Tim 	26	P	1	R	8			R	6 *	X	
+MAYSEY, Matt 	26	P	1	R	5			R	5 *	W	L
+McGEHEE, Kevin 	24	P	2	R	8			R	3 *	Z	M
+McMICHAEL, Greg 	26	P	1	R	8			R	19 *	XY	H
+MENENDEZ, Tony 	28	P	1	R	7			R	9 *	YZ	M
+MERRIMAN, Brett 	26	P	1	R	8			R	1 *	W	
+MICELI, Dan 	22	P	1	R	9			R	4 *	YW	G
+MILLER, Paul 	28	P	1	R	6			R	3 	Z	M
+MINCHEY, Nate 	23	P	1	R	5			R	8 	Z	L
+MINOR, Blas 	27	P	2	R	7			R	5 *	XZ	
+MINUTELLI, Gino 	29	P	1	L	10			L	5 *	YW	L
+MIRANDA, Angel 	23	P	1	L	9			L	10 	Y	
+MLICKI, Dave 	25	P	2	R	8			R	9 	W	L
+MOELLER, Dennis 	25	P	2	R	8			L	1 *	Y	
+MOHLER, Mike 	24	P	1	R	8			L	4/5 *	YW	L
+MOORE, Marcus 	22	P	1	B	7			R	2 *	W	L
+MUNOZ, Bobby 	25	P	1	R	4			R	6 *	YW	H
+MUTIS, Jeff 	26	P	1	L	8			L	3 	L	
+NEN, Robb 	23	P	2	R	6			R	2 	YW	
+NIED, David 	24	P	1	R	8			R	5 	W	
+NIELSEN, Jerry 	26	P	1	L	8			L	1 *	Z	G
+NOVOA, Rafael 	25	P	2	L	8			L	3/4 *		
+NUNEZ, Edwin 	30	P	1	R	3			R	11 *	Y	H
+O'DONOGHUE, John 	24	P	1	L	7			L	4 	X	M
+OLIVER, Darren 	22	P	1	R	10			L	3 *	XYZ	M
+OQUIST, Mike 	25	P	1	R	7			R	6 *	YZ	H
+OSUNA, Al 	27	P	1	R	5			L	14 *	XW	L
+OTTO, Dave 	28	P	1	L	1			L	3/4 *	L	
+PAINTER, Lance 	25	P	1	L	8			L	2 	Z	L
+PATTERSON, Ken 	28	P	1	L	5			L	7 *	YW	
+PENNINGTON, Brad 	24	P	1	L	6			L	4 *	XYW	M
+PETKOVSEK, Mark 	27	P	1	R	9			R	1 *	Z	M
+PLANTENBERG, Erik 	24	P	2	B	9			L	3 *	W	G
+POWELL, Dennis 	29	P	2	R	6			L	4/8 *	YW	L
+POWELL, Ross 	25	P	1	L	9			L	4/5 *	XYW	G
+PUGH, Tim 	26	P	2	R	6			R	4		
+RIGHETTI, Dave 	34	P	2	L	8			L	3 *	Y	M
+RISLEY, Bill 	26	P	1	R	7			R	2 *	YW	M
+ROBERTSON, Rich 	24	P	1	L	7			L	3 *	W	G
+ROPER, John 	21	P	2	R	10			R	4 	YW	
+RUETER, Kirk 	22	P	2	L	7			L	13 	Z	G
+RUFFCORN, Scott 	23	P	1	R	6			R	1 	W	M
+RUFFIN, Johnny 	21	P	1	R	8			R	8 *	X	
+RUSKIN, Scott 	30	P	1	R	8			L	1 *	W	M
+SALKELD, Roger 	22	P	1	R	6			R	9 	XZ	H
+SANDERS, Scott 	24	P	2	R	6			R	7 	YW	
+SANFORD, Mo 	26	P	1	R	6			R	4 	XW	
+SCHWARZ, Jeff 	29	P	1	R	7			R	14 *	XW	H
+SCOTT, Darryl 	24	P	1	R	9			R	4 *	YW	G
+SELE, Aaron 	23	P	1	R	6			R	14 	X	G
+SERVICE, Scott 	26	P	2	R	6			R	5 *	X	L
+SHEPHERD, Keith 	25	P	1	R	8			R	1 	Z	M
+SHINALL, Zak 	24	P	1	R	7			R	2 *	W	M
+SHOUSE, Brian 	24	P	1	L	8			L	1 *	W	M
+SLUSARSKI, Joe 	26	P	2	R	7			R	3 	W	
+SMITH, Bryn 	37	P	2	R	4			R	1 	G	
+SMITHBERG, Roger 	27	P	2	R	7			R	11 *	Z	
+SPRADLIN, Jerry 	26	P	1	B	5			R	9 *	Z	
+SPRINGER, Russ 	24	P	2	R	7			R	2 	W	L
+SWINGLE, Paul 	26	P	1	R	9			R	1 *	W	M
+TAVAREZ, Julian 	20	P	2	L	10			R	2 	Z	M
+TAYLOR, Kerry 	22	P	2	R	7			R	2/3 *	W	G
+TAYLOR, Scott 	25	P	1	L	8			L	1 *	YW	
+TELGHEDER, Dave 	26	P	1	R	7			R	3/4 *	Z	L
+THIGPEN, Bobby 	29	P	2	R	10			R	3 *		
+TORRES, Salomon 	21	P	1	R	9			R	5 	W	
+TRACHSEL, Steve 	22	P	1	R	8			R	4 	YZ	M
+TRLICEK, Ricky 	24	P	1	R	7			R	6 *	Y	G
+TSAMIS, George 	26	P	1	R	8			L	2 *	L	
+TURNER, Matt 	26	P	1	R	6			R	14 *	X	
+URBANI, Tom 	25	P	1	L	8			L	4 	G	
+VALDEZ, Sergio 	28	P	1	R	9			R	1 *	Y	M
+VAN POPPEL, Todd 	21	P	2	R	6			R	6 	W	
+WAGNER, Paul 	25	P	2	R	7			R	5 	X	
+WAINHOUSE, Dave 	25	P	1	L	8			R	1 *	W	M
+WALTON, Bruce 	30	P	2	R	7			R	1 *	W	L
+WATSON, Allen 	22	P	1	L	7			L	4 	L	
+WENDELL, Turk 	26	P	1	B	8			R	4 	Y	H
+WERTZ, Bill 	26	P	1	R	5			R	12 *	XW	
+WESTON, Mickey 	32	P	1	R	8			R	1 *	Z	G
+WHITESIDE, Matt 	25	P	1	R	9			R	5 *	Z	
+WICKANDER, Kevin 	28	P	1	L	6			L	4 *	W	M
+WILLIAMS, Woody 	26	P	2	R	9			R	8 *	YW	G
+WILLIAMSON, Mark 	33	P	2	R	7			R	3/4 *	Z	G
+WITT, Mike 	32	P	1	R	5			R	6 	YW	L
+WORRELL, Tim 	25	P	1	R	6			R	4		
+YOUNG, Cliff 	28	P	2	L	8			L	4 	Z	L
+YOUNG, Curt 	33	P	1	R	8			L	5 	M	
+YOUNG, Pete 	25	P	1	R	6			R	4 *	YZ	M
