@@ -36,7 +36,7 @@ def configure_logger(default_level='DEBUG', **kwargs):
         'version': 1,
         'formatters': {
             'default': {'format': '%(asctime)s - '
-                                  '%(levelname)s -'
+                                  '%(levelname)s - '
                                   '%(filename)s.%(funcName)s():%(lineno)d - '
                                   '%(message)s',
                         'datefmt': '%Y-%m-%d %H:%M:%S'}
