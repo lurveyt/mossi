@@ -1,4 +1,4 @@
-""",
+"""
 It is intended to take HTML files from the fantasy baseball program (provided by Rich)
 and combine the rosters for pitching and position players into single files.
 """
@@ -10,16 +10,16 @@ from bs4 import BeautifulSoup
 
 # files provided by Rich
 # TODO: get 'year' out of the code
-year = '94'
+year = '95'
 roster_path = os.path.join(os.getcwd(), r"mossi_data\rosters")
 
 
 def file_writer(wfile, d):
-    """write data dictionary to wfile
-    :param wfile: file name to write into
-    :type wfile: str
-    :param d: dictionary of keys
-    :type d: dict
+    """
+    write data dictionary to wfile
+
+    :param str wfile: file name to write into
+    :param dict d: dictionary of keys
     """
     with open(os.path.join(roster_path, wfile), 'w') as W:
         for lg, teams in sorted(d.items()):
@@ -44,9 +44,10 @@ def read_table_for_names(table, sleague, pdict):
     Read the table and add extracted named to dictionary, formatted.
 
     :param table: the HTML soup table
-    :param sleague: league string
-    :param pdict: the dictionary to add data to
+    :param str sleague: league string
+    :param dict pdict: the dictionary to add data to
     :return: the dictionary with added data
+    :rtype: dict
     """
     for row in table.find_all('tr'):
         # keep only the lines that have text
