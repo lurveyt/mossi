@@ -22,6 +22,7 @@ def file_writer(wfile, d):
     :param str wfile: file name to write into
     :param dict d: dictionary of keys
     """
+    print(f"Writing: {os.path.abspath(wfile)}")
     with open(os.path.join(roster_path, wfile), 'w') as W:
         for lg, teams in sorted(d.items()):
             for team, players in sorted(teams.items()):
@@ -55,6 +56,9 @@ def read_table_for_names(table, sleague, pdict):
         table_data = [s.string.strip() for s in row.find_all('td')]
         # skip blank line in table
         if not table_data[0]:
+            continue
+        # skip headers
+        if any([k for k in ['PLAYERS', 'PITCHERS'] if k in table_data[0]]):
             continue
         # add ' to grade because MS Excel is a shit program
         table_data[2] = "'{0}".format(table_data[2].strip())
@@ -102,5 +106,13 @@ for filex in files:
 
 
 # write data to files
-file_writer(wfile="roster_{}_pitchers.txt".format(year), d=d_pitch)
-file_writer(wfile="roster_{}_players.txt".format(year), d=d_pos)
+# file_writer(wfile=f"roster_{year}_pitchers.txt", d=d_pitch)
+# file_writer(wfile=f"roster_{year}_players.txt", d=d_pos)
+
+# combine to single file
+d_all = {}
+for divName, divDict in d_pos.items():
+    d_all.update({divName:{}})
+    for teamName in divDict.keys():
+        d_all[divName][teamName] = d_pos[divName][teamName] + d_pitch[divName][teamName]
+file_writer(wfile=f"roster_{year}_all.txt", d=d_all)
