@@ -9,7 +9,7 @@ remove header lines
 
 import re
 
-year = 1999
+year = 2000
 filex = r"..\mossi_data\draft\{}_draft_raw.txt".format(year)
 
 text_raw = open(filex, 'r').read()
@@ -49,6 +49,9 @@ for key, DE in delimiters.items():
     sub_text = re.sub(pattern="Player\sName\sAge\sPos\sD\sB\sSp\sTh\sArm\sT\sGrade\sCtrl\sHR\sTm\sLg",
                       repl="Player Name{0}Age{0}Pos{0}D{0}B{0}Sp{0}Th{0}Arm{0}T{0}Grade{0}Ctrl{0}HR{0}Tm{0}Lg".format(DE),
                       string=sub_text)
+
+    #TODO:
+    # strip the space off the end of the 'Player Name'
 
     print(sub_text)
 
