@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 # files provided by Rich
 # TODO: get 'year' out of the code
-year = '2000'
+year = '2001'
 print(f"Building '{year} rosters...")
 
 roster_path = os.path.join(os.getcwd(), r"mossi_data\rosters")
