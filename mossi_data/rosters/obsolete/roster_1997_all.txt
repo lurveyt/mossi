@@ -1,0 +1,745 @@
+AL Central Division;Melbourne Thunder;;MATHENY, Mike;C+;'8;R;5;1B2
+AL Central Division;Melbourne Thunder;;HOUSTON, Tyler;C+;'6;L;8;1B2, 2B5, 3B3, SS6
+AL Central Division;Melbourne Thunder;;ERSTAD, Darin;1B+;'3;L;13;OF2
+AL Central Division;Melbourne Thunder;;KARROS, Eric;1B;'3;R;4;
+AL Central Division;Melbourne Thunder;;NILSSON, Dave;1B+;'2;L;6;OF1
+AL Central Division;Melbourne Thunder;;BOONE, Bret;2B;'9;R;12;
+AL Central Division;Melbourne Thunder;;RIPKEN, Cal;3B+;'4;R;8;SS8
+AL Central Division;Melbourne Thunder;;SPRAGUE, Ed;3B;'3;R;4;
+AL Central Division;Melbourne Thunder;;BOGAR, Tim;SS+;'8;R;15;1B4, 3B4
+AL Central Division;Melbourne Thunder;;ANDERSON, Garret;OF;'2;L;12;
+AL Central Division;Melbourne Thunder;;GLANVILLE, Doug;OF;'2;R;15;
+AL Central Division;Melbourne Thunder;;GOODWIN, Tom;OF;'2;L;20;
+AL Central Division;Melbourne Thunder;;ORSULAK, Joe;OF+;'2;L;8;1B2
+AL Central Division;Melbourne Thunder;;WEHNER, John;OF+;'2;R;15;3B3
+AL Central Division;Melbourne Thunder;;VANDER WAL, John;OF+;'1;L;9;1B2
+AL Central Division;Melbourne Thunder;;BANKS, Willie;R;'10;;W;
+AL Central Division;Melbourne Thunder;;KARL, Scott;L;'6;;;
+AL Central Division;Melbourne Thunder;;BURKETT, John;R;'5;;YZ;
+AL Central Division;Melbourne Thunder;;OLIVARES, Omar;R;'5;;;
+AL Central Division;Melbourne Thunder;;OQUIST, Mike;R;'5;;Y;
+AL Central Division;Melbourne Thunder;;SMITH, Pete;R;'5;;;
+AL Central Division;Melbourne Thunder;;VALENZUELA, Fernando;L;'3;;W;
+AL Central Division;Melbourne Thunder;;BOSKIE, Shawn;R;'2;;Z;
+AL Central Division;Melbourne Thunder;;PANIAGUA, Jose;R;'1;;W;
+AL Central Division;Melbourne Thunder;;HOFFMAN, Trevor;R;'16;*;XYZ;
+AL Central Division;Melbourne Thunder;;MATHEWS, T. J.;R;'14;*;X;
+AL Central Division;Melbourne Thunder;;WOHLERS, Mark;R;'14;*;XYW;
+AL Central Division;Melbourne Thunder;;HOLTZ, Mike;L;'13;*;XZ;
+AL Central Division;Melbourne Thunder;;LLOYD, Graeme;L;'13;*;Z;
+AL Central Division;Melbourne Thunder;;CLONTZ, Brad;R;'10;*;Y;
+AL Central Division;Melbourne Thunder;;CADARET, Greg;L;'9;*;Y;
+AL Central Division;Melbourne Thunder;;WAGNER, Paul;R;'4;*;W;
+AL Central Division;Melbourne Thunder;;MINOR, Blas;R;'3;*;;
+AL Central Division;Melbourne Thunder;;NAULTY, Dan;R;'2;*;Y;
+AL Central Division;Melbourne Thunder;;RUEBEL, Matt;L;'2;*;Y;
+AL Central Division;Mill Creek Mafia;;PIAZZA, Mike;C;'8;R;3;
+AL Central Division;Mill Creek Mafia;;LEVIS, Jesse;C;'7;L;6;
+AL Central Division;Mill Creek Mafia;;VAUGHN, Mo;1B;'2;L;5;
+AL Central Division;Mill Creek Mafia;;McLEMORE, Mark;2B+;'7;B;18;OF2
+AL Central Division;Mill Creek Mafia;;MUELLER, Bill;3B;'4;B;11;
+AL Central Division;Mill Creek Mafia;;STOCKER, Kevin;SS;'8;B;12;
+AL Central Division;Mill Creek Mafia;;GRUDZIELANEK, Mark;SS;'7;R;17;
+AL Central Division;Mill Creek Mafia;;MEARES, Pat;SS;'7;R;11;
+AL Central Division;Mill Creek Mafia;;BECKER, Rich;OF;'2;L;16;
+AL Central Division;Mill Creek Mafia;;BAINES, Harold;OF;'1;L;3;
+AL Central Division;Mill Creek Mafia;;BELL, Derek;OF;'1;R;15;
+AL Central Division;Mill Creek Mafia;;HARRIS, Lenny;OF+;'1;L;15;1B2, 2B6, 3B3
+AL Central Division;Mill Creek Mafia;;JUSTICE, David;OF;'1;L;10;
+AL Central Division;Mill Creek Mafia;;SCHILLING, Curt;R;'14;;XYZ;
+AL Central Division;Mill Creek Mafia;;BENES, Andy;R;'12;;X;
+AL Central Division;Mill Creek Mafia;;RUETER, Kirk;L;'11;;Z;
+AL Central Division;Mill Creek Mafia;;BURBA, Dave;R;'5;;Y;
+AL Central Division;Mill Creek Mafia;;HELLING, Rick;R;'5/6;*;YW;
+AL Central Division;Mill Creek Mafia;;HITCHCOCK, Sterling;L;'4;;;
+AL Central Division;Mill Creek Mafia;;BATISTA, Miguel;R;'2;;W;
+AL Central Division;Mill Creek Mafia;;TELEMACO, Amaury;R;'1;;YZ;
+AL Central Division;Mill Creek Mafia;;OROSCO, Jesse;L;'19;*;XW;
+AL Central Division;Mill Creek Mafia;;AYALA, Bobby;R;'11;*;X;
+AL Central Division;Mill Creek Mafia;;ADAMS, Terry;R;'5;*;Y;
+AL Central Division;Mill Creek Mafia;;OLSON, Gregg;R;'4;*;YW;
+AL Central Division;Mill Creek Mafia;;CHARLTON, Norm;L;'1;*;YW;
+AL Central Division;Portland Peaks;;MARTINEZ, Sandy;C;'7;L;6;
+AL Central Division;Portland Peaks;;STEINBACH, Terry;C+;'7;R;5;1B2
+AL Central Division;Portland Peaks;;PALMEIRO, Rafael;1B;'5;L;12;
+AL Central Division;Portland Peaks;;MARTINEZ, Edgar;1B+;'2;R;7;3B3
+AL Central Division;Portland Peaks;;THOMAS, Frank;1B;'2;R;7;
+AL Central Division;Portland Peaks;;BAERGA, Carlos;2B;'7;B;7;
+AL Central Division;Portland Peaks;;DUNCAN, Mariano;2B+;'6;R;13;OF1
+AL Central Division;Portland Peaks;;ARIAS, Alex;3B+;'4;R;7;SS7
+AL Central Division;Portland Peaks;;LEWIS, Mark;3B+;'3;R;12;2B6
+AL Central Division;Portland Peaks;;PAQUETTE, Craig;3B+;'3;R;9;OF1
+AL Central Division;Portland Peaks;;ESPINOZA, Alvaro;SS+;'7;R;10;2B7, 3B4
+AL Central Division;Portland Peaks;;GRIFFEY, Ken;OF;'3;L;17;
+AL Central Division;Portland Peaks;;AMARO, Ruben;OF+;'2;B;14;1B2
+AL Central Division;Portland Peaks;;GWYNN, Tony;OF;'2;L;10;
+AL Central Division;Portland Peaks;;PEREZ, Robert;OF;'2;R;11;
+AL Central Division;Portland Peaks;;MAY, Derrick;OF;'1;L;8;
+AL Central Division;Portland Peaks;;MITCHELL, Kevin;OF;'1;R;2;
+AL Central Division;Portland Peaks;;MUSSINA, Mike;R;'14;;XZ;
+AL Central Division;Portland Peaks;;VALDES, Marc;R;'10/13;*;;
+AL Central Division;Portland Peaks;;ROSADO, Jose;L;'5;;;
+AL Central Division;Portland Peaks;;SMILEY, John;L;'4;;YZ;
+AL Central Division;Portland Peaks;;WADE, Terrell;L;'3;;Y;
+AL Central Division;Portland Peaks;;AVERY, Steve;L;'2;;W;
+AL Central Division;Portland Peaks;;LIRA, Felipe;R;'2;;;
+AL Central Division;Portland Peaks;;HANSON, Erik;R;'1;;XY;
+AL Central Division;Portland Peaks;;ISRINGHAUSEN, Jason;R;'1;;YW;
+AL Central Division;Portland Peaks;;ASSENMACHER, Paul;L;'14;*;XZ;
+AL Central Division;Portland Peaks;;FETTERS, Mike;R;'13;*;X;
+AL Central Division;Portland Peaks;;RODRIGUEZ, Rich;L;'12;*;Z;
+AL Central Division;Portland Peaks;;BOCHTLER, Doug;R;'5;*;YW;
+AL Central Division;Portland Peaks;;HERNANDEZ, Xavier;R;'5;*;Y;
+AL Central Division;Portland Peaks;;BRANDENBURG, Mark;R;'3;*;YZ;
+AL Central Division;Portland Peaks;;BAUTISTA, Jose;R;'1;*;Z;
+AL Central Division;Portland Peaks;;DAVIS, Tim;L;'1;*;XYW;
+AL Central Division;Portland Peaks;;MADDUX, Mike;R;'1;*;W;
+AL Central Division;Rodgers Dodgers;;HUNDLEY, Todd;C;'8;B;10;
+AL Central Division;Rodgers Dodgers;;MAYNE, Brent;C;'8;L;5;
+AL Central Division;Rodgers Dodgers;;PEREZ, Eddie;C+;'8;R;6;1B2
+AL Central Division;Rodgers Dodgers;;THOME, Jim;1B;'3;L;9;
+AL Central Division;Rodgers Dodgers;;EASLEY, Damion;2B+;'7;R;15;SS7
+AL Central Division;Rodgers Dodgers;;KENT, Jeff;2B+;'7;R;14;1B2
+AL Central Division;Rodgers Dodgers;;HERNANDEZ, Jose;3B+;'4;R;11;1B2, 2B6, SS7, OF1
+AL Central Division;Rodgers Dodgers;;ROLEN, Scott;3B;'4;R;17;
+AL Central Division;Rodgers Dodgers;;LISTACH, Pat;SS+;'7;B;18;OF2
+AL Central Division;Rodgers Dodgers;;WALKER, Larry;OF+;'3;L;14;1B3
+AL Central Division;Rodgers Dodgers;;HAMMONDS, Jeffrey;OF;'2;R;14;
+AL Central Division;Rodgers Dodgers;;NUNNALLY, Jon;OF;'2;L;16;
+AL Central Division;Rodgers Dodgers;;RAMIREZ, Manny;OF;'2;R;9;
+AL Central Division;Rodgers Dodgers;;STAIRS, Matt;OF+;'2;L;6;1B2
+AL Central Division;Rodgers Dodgers;;WARD, Turner;OF;'2;B;14;
+AL Central Division;Rodgers Dodgers;;KILE, Darryl;R;'16;;Y;
+AL Central Division;Rodgers Dodgers;;NEAGLE, Denny;L;'15;;YZ;
+AL Central Division;Rodgers Dodgers;;GLAVINE, Tom;L;'14;;;
+AL Central Division;Rodgers Dodgers;;BENES, Alan;R;'13;;X;
+AL Central Division;Rodgers Dodgers;;ERICKSON, Scott;R;'13;;Z;
+AL Central Division;Rodgers Dodgers;;MERCEDES, Jose;R;'10;;;
+AL Central Division;Rodgers Dodgers;;GOODEN, Dwight;R;'5;;W;
+AL Central Division;Rodgers Dodgers;;MYERS, Randy;L;'24;*;X;
+AL Central Division;Rodgers Dodgers;;FRASCATORE, John;R;'16;*;Y;
+AL Central Division;Rodgers Dodgers;;WICKMAN, Bob;R;'16;*;Y;
+AL Central Division;Rodgers Dodgers;;DREIFORT, Darren;R;'15;*;XW;
+AL Central Division;Rodgers Dodgers;;EMBREE, Alan;L;'15;*;Z;
+AL Central Division;Rodgers Dodgers;;CHRISTIANSEN, Jason;L;'14;*;X;
+AL East Division;Centralia Centaurs;;JOHNSON, Charles;C;'9;R;5;
+AL East Division;Centralia Centaurs;;SLAUGHT, Don;C;'7;R;4;
+AL East Division;Centralia Centaurs;;GRACE, Mark;1B;'5;L;9;
+AL East Division;Centralia Centaurs;;BLOWERS, Mike;1B+;'2;R;6;3B3, OF1
+AL East Division;Centralia Centaurs;;MOLITOR, Paul;1B;'2;R;15;
+AL East Division;Centralia Centaurs;;ALOMAR, Roberto;2B;'8;B;16;
+AL East Division;Centralia Centaurs;;LIRIANO, Nelson;2B+;'7;L;13;1B3, 3B3, SS7
+AL East Division;Centralia Centaurs;;BELL, David;3B+;'4;R;8;2B7, SS6
+AL East Division;Centralia Centaurs;;SANTANGELO, F. P.;3B+;'3;B;15;2B6, SS6, OF2
+AL East Division;Centralia Centaurs;;GIL, Benji;SS;'8;R;12;
+AL East Division;Centralia Centaurs;;VALENTIN, Jose;SS;'7;B;15;
+AL East Division;Centralia Centaurs;;CURTIS, Chad;OF;'2;R;18;
+AL East Division;Centralia Centaurs;;HENDERSON, Rickey;OF;'2;R;15;
+AL East Division;Centralia Centaurs;;NEWSON, Warren;OF;'2;L;14;
+AL East Division;Centralia Centaurs;;MARTIN, Al;OF;'1;L;17;
+AL East Division;Centralia Centaurs;;PRIDE, Curtis;OF;'1;L;15;
+AL East Division;Centralia Centaurs;;BELCHER, Tim;R;'6;;Z;
+AL East Division;Centralia Centaurs;;TEWKSBURY, Bob;R;'6;;Z;
+AL East Division;Centralia Centaurs;;FLORIE, Bryce;R;'5/7;*;YW;
+AL East Division;Centralia Centaurs;;PAVLIK, Roger;R;'5;;W;
+AL East Division;Centralia Centaurs;;WASDIN, John;R;'5/6;*;YZ;
+AL East Division;Centralia Centaurs;;MORGAN, Mike;R;'4;;Z;
+AL East Division;Centralia Centaurs;;RIVERA, Mariano;R;'21;*;XZ;
+AL East Division;Centralia Centaurs;;ECKERSLEY, Dennis;R;'10;*;YZ;
+AL East Division;Centralia Centaurs;;DIPOTO, Jerry;R;'5;*;YZ;
+AL East Division;Centralia Centaurs;;MILLS, Alan;R;'5;*;YW;
+AL East Division;Centralia Centaurs;;BAILEY, Cory;R;'1;*;;
+AL East Division;Centralia Centaurs;;LEWIS, Richie;R;'1;*;W;
+AL East Division;Flushing Metropolitans;;LIEBERTHAL, Mike;C;'8;R;6;
+AL East Division;Flushing Metropolitans;;SANTIAGO, Benito;C;'8;R;8;
+AL East Division;Flushing Metropolitans;;GALARRAGA, Andres;1B;'4;R;9;
+AL East Division;Flushing Metropolitans;;JAHA, John;1B;'3;R;9;
+AL East Division;Flushing Metropolitans;;VINA, Fernando;2B;'8;L;17;
+AL East Division;Flushing Metropolitans;;YOUNG, Eric;2B;'8;R;17;
+AL East Division;Flushing Metropolitans;;REBOULET, Jeff;2B+;'7;R;15;3B4, SS8, OF1
+AL East Division;Flushing Metropolitans;;SVEUM, Dale;3B+;'4;B;8;1B3, 2B6, SS6
+AL East Division;Flushing Metropolitans;;PALMER, Dean;3B;'3;R;7;
+AL East Division;Flushing Metropolitans;;LARKIN, Barry;SS;'8;R;19;
+AL East Division;Flushing Metropolitans;;ANDERSON, Brady;OF;'2;L;18;
+AL East Division;Flushing Metropolitans;;BRUMFIELD, Jacob;OF;'2;R;15;
+AL East Division;Flushing Metropolitans;;BURKS, Ellis;OF;'2;R;11;
+AL East Division;Flushing Metropolitans;;JOHNSON, Lance;OF;'2;L;19;
+AL East Division;Flushing Metropolitans;;PEMBERTON, Rudy;OF;'1;R;15;
+AL East Division;Flushing Metropolitans;;SOSA, Sammy;OF;'1;R;17;
+AL East Division;Flushing Metropolitans;;STRAWBERRY, Darryl;OF;'1;L;10;
+AL East Division;Flushing Metropolitans;;CONE, David;R;'15;;XY;
+AL East Division;Flushing Metropolitans;;FASSERO, Jeff;L;'13;;Y;
+AL East Division;Flushing Metropolitans;;HILL, Ken;R;'7;;W;
+AL East Division;Flushing Metropolitans;;ASHBY, Andy;R;'6;;YZ;
+AL East Division;Flushing Metropolitans;;ACEVEDO, Juan;R;'5/9;*;;
+AL East Division;Flushing Metropolitans;;GUZMAN, Juan;R;'5;;YW;
+AL East Division;Flushing Metropolitans;;REYNOLDS, Shane;R;'5;;YZ;
+AL East Division;Flushing Metropolitans;;FRANCO, John;L;'16;*;X;
+AL East Division;Flushing Metropolitans;;SHAW, Jeff;R;'16;*;YZ;
+AL East Division;Flushing Metropolitans;;KARCHNER, Matt;R;'15;*;;
+AL East Division;Flushing Metropolitans;;RADINSKY, Scott;L;'14;*;YZ;
+AL East Division;Flushing Metropolitans;;CORSI, Jim;R;'13;*;YZ;
+AL East Division;Flushing Metropolitans;;WENDELL, Turk;R;'6;*;YW;
+AL East Division;Flushing Metropolitans;;GUTHRIE, Mark;L;'3;*;;
+AL East Division;Flushing Metropolitans;;RYAN, Ken;R;'1;*;W;
+AL East Division;Germantown Toros;;PAGNOZZI, Tom;C+;'8;R;6;1B2, 3B3
+AL East Division;Germantown Toros;;WALBECK, Matt;C;'8;B;5;
+AL East Division;Germantown Toros;;DIFELICE, Mike;C+;'6;R;6;1B2
+AL East Division;Germantown Toros;;WIDGER, Chris;C;'6;R;7;
+AL East Division;Germantown Toros;;CLARK, Will;1B;'4;L;6;
+AL East Division;Germantown Toros;;TETTLETON, Mickey;1B;'2;B;3;
+AL East Division;Germantown Toros;;YOUNG, Dmitri;1B+;'2;B;8;OF1
+AL East Division;Germantown Toros;;FRYE, Jeff;2B+;'8;R;16;1B2, 3B3, SS6, OF1
+AL East Division;Germantown Toros;;CEDENO, Domingo;2B+;'6;B;13;3B3, SS6
+AL East Division;Germantown Toros;;WOMACK, Tony;2B+;'6;L;19;SS6
+AL East Division;Germantown Toros;;COOMER, Ron;3B+;'4;R;6;1B3, OF1
+AL East Division;Germantown Toros;;BONILLA, Bobby;3B+;'3;B;8;1B3
+AL East Division;Germantown Toros;;DAVIS, Russ;3B;'3;R;8;
+AL East Division;Germantown Toros;;WALKER, Todd;3B+;'3;L;15;2B6
+AL East Division;Germantown Toros;;GAGNE, Greg;SS;'8;R;11;
+AL East Division;Germantown Toros;;RELAFORD, Desi;SS;'7;B;15;
+AL East Division;Germantown Toros;;CEDENO, Roger;OF;'2;B;17;
+AL East Division;Germantown Toros;;CORDOVA, Marty;OF;'2;R;14;
+AL East Division;Germantown Toros;;GANT, Ron;OF;'1;R;13;
+AL East Division;Germantown Toros;;CANDIOTTI, Tom;R;'9/11;*;Z;
+AL East Division;Germantown Toros;;GARDNER, Mark;R;'6;;YZ;
+AL East Division;Germantown Toros;;VanLANDINGHAM, William;R;'4;;W;
+AL East Division;Germantown Toros;;BEECH, Matt;L;'3;;Y;
+AL East Division;Germantown Toros;;McDOWELL, Jack;R;'3;;X;
+AL East Division;Germantown Toros;;SCHOUREK, Pete;L;'3;;;
+AL East Division;Germantown Toros;;WELLS, Bob;R;'3;;YZ;
+AL East Division;Germantown Toros;;MARTINEZ, Dennis;R;'1;;W;
+AL East Division;Germantown Toros;;MILLER, Travis;L;'1;;;
+AL East Division;Germantown Toros;;POWELL, Jay;R;'12;*;Y;
+AL East Division;Germantown Toros;;PICHARDO, Hipolito;R;'8;*;Y;
+AL East Division;Germantown Toros;;PEREZ, Yorkis;L;'1;*;;
+AL East Division;Texas Tankers;;EUSEBIO, Tony;C;'7;R;6;
+AL East Division;Texas Tankers;;FABREGAS, Jorge;C+;'7;L;5;1B2
+AL East Division;Texas Tankers;;FORDYCE, Brook;C;'6;R;5;
+AL East Division;Texas Tankers;;STAHOVIAK, Scott;1B;'3;L;10;
+AL East Division;Texas Tankers;;HAMELIN, Bob;1B;'2;L;2;
+AL East Division;Texas Tankers;;CROMER, Tripp;2B+;'7;R;9;3B4, SS7
+AL East Division;Texas Tankers;;SANDBERG, Ryne;2B;'7;R;11;
+AL East Division;Texas Tankers;;SCARSONE, Steve;2B+;'7;R;14;3B3, OF1
+AL East Division;Texas Tankers;;SAMUEL, Juan;3B+;'3;R;15;1B2, 2B6, OF1
+AL East Division;Texas Tankers;;AURILIA, Rich;SS;'8;R;13;
+AL East Division;Texas Tankers;;GOMEZ, Chris;SS;'7;R;10;
+AL East Division;Texas Tankers;;WHITE, Devon;OF;'3;B;17;
+AL East Division;Texas Tankers;;GILES, Brian;OF;'2;L;15;
+AL East Division;Texas Tankers;;HOLLANDSWORTH, Todd;OF;'2;L;15;
+AL East Division;Texas Tankers;;CLARK, Dave;OF;'1;L;6;
+AL East Division;Texas Tankers;;NEVIN, Phil;OF+;'1;R;8;C5, 1B2, 3B3
+AL East Division;Texas Tankers;;SIERRA, Ruben;OF;'1;B;8;
+AL East Division;Texas Tankers;;PETTITTE, Andy;L;'16;;YZ;
+AL East Division;Texas Tankers;;HERMANSON, Dustin;R;'8;;Y;
+AL East Division;Texas Tankers;;HAYNES, Jimmy;R;'6;;YW;
+AL East Division;Texas Tankers;;D'AMICO, Jeff;R;'5;;YZ;
+AL East Division;Texas Tankers;;MULHOLLAND, Terry;L;'5;;Z;
+AL East Division;Texas Tankers;;RODRIGUEZ, Felix;R;'5;;W;
+AL East Division;Texas Tankers;;FERNANDEZ, Sid;L;'4;;;
+AL East Division;Texas Tankers;;SUPPAN, Jeff;R;'4;;Z;
+AL East Division;Texas Tankers;;HAWKINS, LaTroy;R;'3;;;
+AL East Division;Texas Tankers;;BULLINGER, Jim;R;'2;;;
+AL East Division;Texas Tankers;;CARRARA, Giovanni;R;'1;;;
+AL East Division;Texas Tankers;;THOMPSON, Mark;R;'1;;;
+AL East Division;Texas Tankers;;WILLIAMS, Brian;R;'10;*;W;
+AL East Division;Texas Tankers;;SHUEY, Paul;R;'2;*;XW;
+AL East Division;Texas Tankers;;LEVINE, Al;R;'1;*;YW;
+AL East Division;Texas Tankers;;POOLE, Jim;L;'1;*;;
+AL West Division;Beantown Loafers;;HASELMAN, Bill;C;'7;R;9;
+AL West Division;Beantown Loafers;;POSADA, Jorge;C;'7;B;9;
+AL West Division;Beantown Loafers;;TAUBENSEE, Eddie;C+;'6;L;9;1B2, OF1
+AL West Division;Beantown Loafers;;HOWARD, David;2B+;'7;B;15;3B4, SS8, OF2
+AL West Division;Beantown Loafers;;KELLY, Pat;2B;'7;R;14;
+AL West Division;Beantown Loafers;;JONES, Chipper;3B+;'4;B;10;OF2
+AL West Division;Beantown Loafers;;STRANGE, Doug;3B+;'3;B;7;1B2, 2B6, OF1
+AL West Division;Beantown Loafers;;SHIPLEY, Craig;SS+;'6;R;14;1B2, 2B6, 3B3
+AL West Division;Beantown Loafers;;DIAZ, Alex;OF+;'2;B;16;1B2, 2B5
+AL West Division;Beantown Loafers;;HAMILTON, Darryl;OF;'2;L;15;
+AL West Division;Beantown Loafers;;HOWARD, Thomas;OF;'2;B;13;
+AL West Division;Beantown Loafers;;LAWTON, Matt;OF;'2;L;16;
+AL West Division;Beantown Loafers;;McGEE, Willie;OF;'2;B;13;
+AL West Division;Beantown Loafers;;ABREU, Bobby;OF;'1;L;12;
+AL West Division;Beantown Loafers;;FLOYD, Cliff;OF+;'1;L;16;1B2
+AL West Division;Beantown Loafers;;NIEVES, Melvin;OF;'1;B;9;
+AL West Division;Beantown Loafers;;OTERO, Ricky;OF;'1;B;16;
+AL West Division;Beantown Loafers;;STEPHENSON, Garrett;R;'10;;Y;
+AL West Division;Beantown Loafers;;SIROTKA, Mike;L;'9;;YZ;
+AL West Division;Beantown Loafers;;BERE, Jason;R;'5;;YW;
+AL West Division;Beantown Loafers;;FOSTER, Kevin;R;'5;;Y;
+AL West Division;Beantown Loafers;;MENDOZA, Ramiro;R;'5/7;*;Z;
+AL West Division;Beantown Loafers;;SPRINGER, Dennis;R;'5;;;
+AL West Division;Beantown Loafers;;HANEY, Chris;L;'4;;Z;
+AL West Division;Beantown Loafers;;KRIVDA, Rick;L;'2;;;
+AL West Division;Beantown Loafers;;REKAR, Bryan;R;'2;;W;
+AL West Division;Beantown Loafers;;WRIGHT, Jamey;R;'2;;;
+AL West Division;Beantown Loafers;;CORMIER, Rheal;L;'1;;W;
+AL West Division;Beantown Loafers;;GROSS, Kevin;R;'1;;YW;
+AL West Division;Beantown Loafers;;SPRINGER, Russ;R;'5;*;XY;
+AL West Division;Milwaukee Lagers;;KARKOVICE, Ron;C;'8;R;6;
+AL West Division;Milwaukee Lagers;;HATTEBERG, Scott;C;'6;L;6;
+AL West Division;Milwaukee Lagers;;McGWIRE, Mark;1B;'3;R;2;
+AL West Division;Milwaukee Lagers;;FIELDER, Cecil;1B;'2;R;1;
+AL West Division;Milwaukee Lagers;;LOCKHART, Keith;2B+;'7;L;13;3B3
+AL West Division;Milwaukee Lagers;;VERAS, Quilvio;2B;'7;B;15;
+AL West Division;Milwaukee Lagers;;PHILLIPS, Tony;2B+;'6;B;14;3B3, OF1
+AL West Division;Milwaukee Lagers;;VALENTIN, John;3B+;'4;R;13;2B7
+AL West Division;Milwaukee Lagers;;ELSTER, Kevin;SS;'8;R;10;
+AL West Division;Milwaukee Lagers;;DAVIS, Eric;OF;'2;R;13;
+AL West Division;Milwaukee Lagers;;GREER, Rusty;OF;'2;L;14;
+AL West Division;Milwaukee Lagers;;HIGGINSON, Bobby;OF;'2;L;14;
+AL West Division;Milwaukee Lagers;;MERCED, Orlando;OF+;'2;L;11;1B3
+AL West Division;Milwaukee Lagers;;CANSECO, Jose;OF;'1;R;5;
+AL West Division;Milwaukee Lagers;;SIMMS, Mike;OF+;'1;R;6;1B3
+AL West Division;Milwaukee Lagers;;VALDEZ, Ismael;R;'14;;YZ;
+AL West Division;Milwaukee Lagers;;RADKE, Brad;R;'13;;YZ;
+AL West Division;Milwaukee Lagers;;BROCAIL, Doug;R;'10/14;*;Y;
+AL West Division;Milwaukee Lagers;;CORDOVA, Francisco;R;'10;;YZ;
+AL West Division;Milwaukee Lagers;;OLIVER, Darren;L;'8;;;
+AL West Division;Milwaukee Lagers;;SWINDELL, Greg;L;'8/12;*;YZ;
+AL West Division;Milwaukee Lagers;;MOEHLER, Brian;R;'6;;;
+AL West Division;Milwaukee Lagers;;PRIETO, Ariel;R;'5;;YW;
+AL West Division;Milwaukee Lagers;;TRACHSEL, Steve;R;'5;;YZ;
+AL West Division;Milwaukee Lagers;;PETERS, Chris;L;'4;;;
+AL West Division;Milwaukee Lagers;;DAAL, Omar;L;'1;;YZ;
+AL West Division;Milwaukee Lagers;;LOPEZ, Albie;R;'1;;Y;
+AL West Division;Milwaukee Lagers;;TAYLOR, Billy;R;'11;*;X;
+AL West Division;Milwaukee Lagers;;URBINA, Ugueth;R;'10;*;XY;
+AL West Division;Milwaukee Lagers;;JAMES, Mike;R;'8;*;X;
+AL West Division;Milwaukee Lagers;;TROMBLEY, Mike;R;'7;*;X;
+AL West Division;Milwaukee Lagers;;VOSBERG, Ed;L;'6;*;YZ;
+AL West Division;Milwaukee Lagers;;JORDAN, Ricardo;L;'3;*;W;
+AL West Division;Milwaukee Lagers;;MANUEL, Barry;R;'2;*;Y;
+AL West Division;Milwaukee Lagers;;CRABTREE, Tim;R;'1;*;Z;
+AL West Division;Raleigh Rednecks;;JOHNSON, Brian;C+;'7;R;8;1B2
+AL West Division;Raleigh Rednecks;;MYERS, Greg;C;'7;L;6;
+AL West Division;Raleigh Rednecks;;OLIVER, Joe;C+;'7;R;3;1B2
+AL West Division;Raleigh Rednecks;;MURRAY, Eddie;1B;'2;B;6;
+AL West Division;Raleigh Rednecks;;CASTILLO, Luis;2B;'7;B;19;
+AL West Division;Raleigh Rednecks;;GARCIA, Carlos;2B+;'7;R;16;3B3, SS7
+AL West Division;Raleigh Rednecks;;SPIEZIO, Scott;2B+;'7;B;11;3B3
+AL West Division;Raleigh Rednecks;;FRANCO, Julio;2B+;'6;R;8;1B2
+AL West Division;Raleigh Rednecks;;HAYES, Charlie;3B+;'4;R;9;2B6
+AL West Division;Raleigh Rednecks;;GONZALEZ, Alex;SS;'8;R;15;
+AL West Division;Raleigh Rednecks;;GUTIERREZ, Ricky;SS+;'7;R;11;2B7, 3B4
+AL West Division;Raleigh Rednecks;;BAUTISTA, Danny;OF;'2;R;15;
+AL West Division;Raleigh Rednecks;;HUNTER, Brian;OF;'2;R;17;
+AL West Division;Raleigh Rednecks;;KELLY, Roberto;OF;'2;R;17;
+AL West Division;Raleigh Rednecks;;CARTER, Joe;OF+;'1;R;9;1B2
+AL West Division;Raleigh Rednecks;;O'LEARY, Troy;OF;'1;L;13;
+AL West Division;Raleigh Rednecks;;KAMIENIECKI, Scott;R;'9;;;
+AL West Division;Raleigh Rednecks;;LOAIZA, Esteban;R;'6;;Z;
+AL West Division;Raleigh Rednecks;;WATSON, Allen;L;'6;;Y;
+AL West Division;Raleigh Rednecks;;COOKE, Steve;L;'5;;;
+AL West Division;Raleigh Rednecks;;RODRIGUEZ, Frank;R;'5;;;
+AL West Division;Raleigh Rednecks;;SELE, Aaron;R;'5;;Y;
+AL West Division;Raleigh Rednecks;;LEITER, Mark;R;'3;;YZ;
+AL West Division;Raleigh Rednecks;;BYRD, Paul;R;'2;;;
+AL West Division;Raleigh Rednecks;;WEATHERS, David;R;'1;;W;
+AL West Division;Raleigh Rednecks;;AGUILERA, Rick;R;'11;*;XZ;
+AL West Division;Raleigh Rednecks;;WILKINS, Marc;R;'10;*;;
+AL West Division;Raleigh Rednecks;;BOTTENFIELD, Kent;R;'8;*;Y;
+AL West Division;Raleigh Rednecks;;COOK, Dennis;L;'8;*;X;
+AL West Division;Tri City Atomics;;PENA, Tony;C+;'8;R;5;3B3
+AL West Division;Tri City Atomics;;WILSON, Dan;C;'8;R;6;
+AL West Division;Tri City Atomics;;SNOW, J. T.;1B;'5;B;7;
+AL West Division;Tri City Atomics;;CONINE, Jeff;1B+;'4;R;7;OF1
+AL West Division;Tri City Atomics;;MARTINEZ, Tino;1B;'4;L;6;
+AL West Division;Tri City Atomics;;CORA, Joey;2B;'7;B;12;
+AL West Division;Tri City Atomics;;CAIRO, Miguel;2B+;'6;R;16;SS6
+AL West Division;Tri City Atomics;;BROSIUS, Scott;3B+;'5;R;9;SS7, OF1
+AL West Division;Tri City Atomics;;CASTILLA, Vinny;3B;'5;R;8;
+AL West Division;Tri City Atomics;;BATISTA, Tony;SS+;'8;R;15;2B7, 3B4
+AL West Division;Tri City Atomics;;RODRIGUEZ, Alex;SS;'8;R;16;
+AL West Division;Tri City Atomics;;DUNSTON, Shawon;SS+;'7;R;14;OF1
+AL West Division;Tri City Atomics;;BURNITZ, Jeromy;OF;'2;L;13;
+AL West Division;Tri City Atomics;;WHITE, Rondell;OF;'2;R;17;
+AL West Division;Tri City Atomics;;KLESKO, Ryan;OF+;'1;L;7;1B2
+AL West Division;Tri City Atomics;;MADDUX, Greg;R;'17;;YZ;
+AL West Division;Tri City Atomics;;ALVAREZ, Wilson;L;'12;;Y;
+AL West Division;Tri City Atomics;;GORDON, Tom;R;'11;;X;
+AL West Division;Tri City Atomics;;STOTTLEMYRE, Todd;R;'8;;X;
+AL West Division;Tri City Atomics;;FINLEY, Chuck;L;'7;;X;
+AL West Division;Tri City Atomics;;MESA, Jose;R;'17;*;YZ;
+AL West Division;Tri City Atomics;;RHODES, Arthur;L;'14;*;XYZ;
+AL West Division;Tri City Atomics;;SPOLJARIC, Paul;L;'12;*;X;
+AL West Division;Tri City Atomics;;GUARDADO, Eddie;L;'10;*;XY;
+AL West Division;Tri City Atomics;;TAVAREZ, Julian;R;'8;*;;
+AL West Division;Tri City Atomics;;WORRELL, Todd;R;'5;*;X;
+AL West Division;Tri City Atomics;;GROOM, Buddy;L;'4;*;Y;
+AL West Division;Tri City Atomics;;WILLIAMS, Mike;R;'1;*;;
+NL Central Division;Issaquah IronPigs;;FLETCHER, Darrin;C;'7;L;2;
+NL Central Division;Issaquah IronPigs;;LOPEZ, Javier;C;'7;R;6;
+NL Central Division;Issaquah IronPigs;;DELGADO, Carlos;1B;'3;L;8;
+NL Central Division;Issaquah IronPigs;;MORANDINI, Mickey;2B+;'8;L;15;SS6
+NL Central Division;Issaquah IronPigs;;GAETTI, Gary;3B+;'4;R;4;P1, 1B2
+NL Central Division;Issaquah IronPigs;;BERRY, Sean;3B;'3;R;9;
+NL Central Division;Issaquah IronPigs;;HOWELL, Jack;3B+;'3;L;6;1B2
+NL Central Division;Issaquah IronPigs;;CLAYTON, Royce;SS;'8;R;17;
+NL Central Division;Issaquah IronPigs;;MARTIN, Norberto;SS+;'6;R;16;2B6, 3B3
+NL Central Division;Issaquah IronPigs;;BUHNER, Jay;OF;'3;R;7;
+NL Central Division;Issaquah IronPigs;;FINLEY, Steve;OF;'3;L;18;
+NL Central Division;Issaquah IronPigs;;WILLIAMS, Bernie;OF;'3;B;16;
+NL Central Division;Issaquah IronPigs;;ALOU, Moises;OF;'2;R;15;
+NL Central Division;Issaquah IronPigs;;BELLE, Albert;OF;'1;R;9;
+NL Central Division;Issaquah IronPigs;;HUDLER, Rex;OF+;'1;R;12;2B7
+NL Central Division;Issaquah IronPigs;;THOMPSON, Justin;L;'14;;YZ;
+NL Central Division;Issaquah IronPigs;;MOYER, Jamie;L;'13;;Z;
+NL Central Division;Issaquah IronPigs;;PARK, Chan Ho;R;'13;;Y;
+NL Central Division;Issaquah IronPigs;;HOLT, Chris;R;'11;;Z;
+NL Central Division;Issaquah IronPigs;;JONES, Bobby;R;'11;;;
+NL Central Division;Issaquah IronPigs;;MARTINEZ, Ramon;R;'11;;YW;
+NL Central Division;Issaquah IronPigs;;CLARK, Mark;R;'9;;Z;
+NL Central Division;Issaquah IronPigs;;GRACE, Mike;R;'7;;YZ;
+NL Central Division;Issaquah IronPigs;;NAVARRO, Jaime;R;'3;;YZ;
+NL Central Division;Issaquah IronPigs;;OSBORNE, Donovan;L;'3;;Z;
+NL Central Division;Issaquah IronPigs;;BERGMAN, Sean;R;'2;;Y;
+NL Central Division;Issaquah IronPigs;;MAGNANTE, Mike;L;'17;*;XZ;
+NL Central Division;Issaquah IronPigs;;JONES, Todd;R;'15;*;XW;
+NL Central Division;Issaquah IronPigs;;MAHAY, Ron;L;'14;*;Z;
+NL Central Division;Issaquah IronPigs;;PERCIVAL, Troy;R;'13;*;XY;
+NL Central Division;Issaquah IronPigs;;BECK, Rod;R;'11;*;YZ;
+NL Central Division;Issaquah IronPigs;;NEN, Robb;R;'11;*;X;
+NL Central Division;Issaquah IronPigs;;BRANTLEY, Jeff;R;'5;*;XYW;
+NL Central Division;Issaquah IronPigs;;CASIAN, Larry;L;'2;*;Z;
+NL Central Division;Mississippi Mudhens;;KENDALL, Jason;C;'8;R;13;
+NL Central Division;Mississippi Mudhens;;BORDERS, Pat;C;'7;R;6;
+NL Central Division;Mississippi Mudhens;;WEBSTER, Lenny;C;'7;R;4;
+NL Central Division;Mississippi Mudhens;;CLARK, Tony;1B;'3;B;6;
+NL Central Division;Mississippi Mudhens;;GRAFFANINO, Tony;2B+;'7;R;16;1B3, 3B4, SS7
+NL Central Division;Mississippi Mudhens;;LORETTA, Mark;2B+;'7;R;13;1B3, 3B4, SS7
+NL Central Division;Mississippi Mudhens;;GATES, Brent;3B+;'3;B;11;1B3, 2B7, SS6, OF1
+NL Central Division;Mississippi Mudhens;;GREENE, Willie;3B+;'3;L;9;1B2, SS6, OF1
+NL Central Division;Mississippi Mudhens;;VIZQUEL, Omar;SS;'10;B;15;
+NL Central Division;Mississippi Mudhens;;BORDICK, Mike;SS;'9;R;12;
+NL Central Division;Mississippi Mudhens;;LOPEZ, Luis;SS+;'8;B;13;2B7, 3B3
+NL Central Division;Mississippi Mudhens;;ALLENSWORTH, Jermaine;OF;'2;R;15;
+NL Central Division;Mississippi Mudhens;;DAMON, Johnny;OF;'2;L;18;
+NL Central Division;Mississippi Mudhens;;MIESKE, Matt;OF;'2;R;8;
+NL Central Division;Mississippi Mudhens;;TARASCO, Tony;OF;'2;L;14;
+NL Central Division;Mississippi Mudhens;;HUSKEY, Butch;OF+;'1;R;8;1B2, 3B3
+NL Central Division;Mississippi Mudhens;;IBANEZ, Raul;OF;'1;L;13;
+NL Central Division;Mississippi Mudhens;;TARTABULL, Danny;OF;'1;R;6;
+NL Central Division;Mississippi Mudhens;;MENHART, Paul;R;'4;;Z;
+NL Central Division;Mississippi Mudhens;;LANGSTON, Mark;L;'3;;W;
+NL Central Division;Mississippi Mudhens;;KEAGLE, Greg;R;'2;;Y;
+NL Central Division;Mississippi Mudhens;;RITZ, Kevin;R;'2;;;
+NL Central Division;Mississippi Mudhens;;TELGHEDER, Dave;R;'2;;;
+NL Central Division;Mississippi Mudhens;;STEVENS, Dave;R;'1;;YW;
+NL Central Division;Mississippi Mudhens;;DeLUCIA, Rich;R;'10;*;XW;
+NL Central Division;Mississippi Mudhens;;ERICKS, John;R;'10;*;;
+NL Central Division;Mississippi Mudhens;;MIRANDA, Angel;L;'7;*;W;
+NL Central Division;Mississippi Mudhens;;MICELI, Dan;R;'4;*;X;
+NL Central Division;Mississippi Mudhens;;PAINTER, Lance;L;'3;*;Y;
+NL Central Division;Redmond Luchadores;;HOILES, Chris;C+;'7;R;7;1B2, 3B3
+NL Central Division;Redmond Luchadores;;WILKINS, Rick;C;'7;L;6;
+NL Central Division;Redmond Luchadores;;DIAZ, Einar;C;'6;R;6;
+NL Central Division;Redmond Luchadores;;JOYNER, Wally;1B;'5;L;6;
+NL Central Division;Redmond Luchadores;;CIANFROCCO, Archi;1B+;'4;R;9;2B6, 3B3, SS6, OF1
+NL Central Division;Redmond Luchadores;;LANSING, Mike;2B;'8;R;14;
+NL Central Division;Redmond Luchadores;;OFFERMAN, Jose;2B;'7;B;16;
+NL Central Division;Redmond Luchadores;;STANKIEWICZ, Andy;2B+;'6;R;15;3B3, SS7
+NL Central Division;Redmond Luchadores;;BOGGS, Wade;3B;'4;L;6;P1
+NL Central Division;Redmond Luchadores;;RIVERA, Luis;SS+;'7;R;12;2B7
+NL Central Division;Redmond Luchadores;;GRISSOM, Marquis;OF;'3;R;19;
+NL Central Division;Redmond Luchadores;;CAMERON, Mike;OF;'2;R;17;
+NL Central Division;Redmond Luchadores;;JORDAN, Brian;OF;'2;R;16;
+NL Central Division;Redmond Luchadores;;McRAE, Brian;OF;'2;B;17;
+NL Central Division;Redmond Luchadores;;WHITEN, Mark;OF;'2;B;13;
+NL Central Division;Redmond Luchadores;;JEFFERIES, Gregg;OF;'1;B;16;
+NL Central Division;Redmond Luchadores;;VAUGHN, Greg;OF;'1;R;14;
+NL Central Division;Redmond Luchadores;;HENTGEN, Pat;R;'13;;Z;
+NL Central Division;Redmond Luchadores;;FERNANDEZ, Alex;R;'12;;Y;
+NL Central Division;Redmond Luchadores;;WELLS, David;L;'9;;YZ;
+NL Central Division;Redmond Luchadores;;MLICKI, Dave;R;'7;;Y;
+NL Central Division;Redmond Luchadores;;ASTACIO, Pedro;R;'6;;YZ;
+NL Central Division;Redmond Luchadores;;MOHLER, Mike;L;'3;;;
+NL Central Division;Redmond Luchadores;;ROGERS, Kenny;L;'3;;;
+NL Central Division;Redmond Luchadores;;HALL, Darren;R;'17;*;Y;
+NL Central Division;Redmond Luchadores;;VILLONE, Ron;L;'14;*;YW;
+NL Central Division;Redmond Luchadores;;LOISELLE, Rich;R;'13;*;XZ;
+NL Central Division;Redmond Luchadores;;BELINDA, Stan;R;'9;*;XZ;
+NL Central Division;Redmond Luchadores;;SLOCUMB, Heathcliff;R;'5;*;YW;
+NL Central Division;Redmond Luchadores;;CASTILLO, Tony;L;'4;*;YZ;
+NL Central Division;Vegas Gamblerz;;RODRIGUEZ, Ivan;C;'9;R;7;
+NL Central Division;Vegas Gamblerz;;KREUTER, Chad;C+;'6;B;5;1B2
+NL Central Division;Vegas Gamblerz;;YOUNG, Kevin;1B+;'4;R;10;3B3, OF1
+NL Central Division;Vegas Gamblerz;;VELARDE, Randy;2B;'7;R;11;
+NL Central Division;Vegas Gamblerz;;SHUMPERT, Terry;2B+;'6;R;17;3B3, OF1
+NL Central Division;Vegas Gamblerz;;VENTURA, Robin;3B;'5;L;7;
+NL Central Division;Vegas Gamblerz;;COLES, Darnell;3B+;'3;R;11;OF1
+NL Central Division;Vegas Gamblerz;;JETER, Derek;SS;'9;R;16;
+NL Central Division;Vegas Gamblerz;;DUCEY, Rob;OF;'2;L;15;
+NL Central Division;Vegas Gamblerz;;JACKSON, Darrin;OF;'2;R;15;
+NL Central Division;Vegas Gamblerz;;OCHOA, Alex;OF;'2;R;16;
+NL Central Division;Vegas Gamblerz;;YOUNG, Ernie;OF;'2;R;9;
+NL Central Division;Vegas Gamblerz;;GREEN, Shawn;OF;'1;L;13;
+NL Central Division;Vegas Gamblerz;;HILL, Glenallen;OF;'1;R;17;
+NL Central Division;Vegas Gamblerz;;RODRIGUEZ, Henry;OF+;'1;L;6;1B2
+NL Central Division;Vegas Gamblerz;;MARTINEZ, Pedro J.;R;'20;;XYZ;
+NL Central Division;Vegas Gamblerz;;HAMPTON, Mike;L;'10;;;
+NL Central Division;Vegas Gamblerz;;REMLINGER, Mike;L;'5/6;*;X;
+NL Central Division;Vegas Gamblerz;;PUGH, Tim;R;'4;;W;
+NL Central Division;Vegas Gamblerz;;KARSAY, Steve;R;'2;;YZ;
+NL Central Division;Vegas Gamblerz;;LIMA, Jose;R;'2;;YZ;
+NL Central Division;Vegas Gamblerz;;HARNISCH, Pete;R;'1;;W;
+NL Central Division;Vegas Gamblerz;;JACKSON, Danny;L;'1;;;
+NL Central Division;Vegas Gamblerz;;MIMBS, Mike;L;'1;;YW;
+NL Central Division;Vegas Gamblerz;;WAGNER, Billy;L;'15;*;XYW;
+NL Central Division;Vegas Gamblerz;;BAILES, Scott;L;'10;*;Y;
+NL Central Division;Vegas Gamblerz;;JOHNSTONE, John;R;'9;*;YW;
+NL Central Division;Vegas Gamblerz;;JANZEN, Marty;R;'8;*;YW;
+NL Central Division;Vegas Gamblerz;;GARCES, Rich;R;'5;*;YW;
+NL Central Division;Vegas Gamblerz;;HARKEY, Mike;R;'4;*;;
+NL Central Division;Vegas Gamblerz;;RUFFIN, Bruce;L;'3;*;XYW;
+NL East Division;Philadelphia J's;;AUSMUS, Brad;C;'8;R;15;
+NL East Division;Philadelphia J's;;MacFARLANE, Mike;C;'7;R;3;
+NL East Division;Philadelphia J's;;MIRABELLI, Doug;C;'5;R;7;
+NL East Division;Philadelphia J's;;MORRIS, Hal;1B;'3;L;6;
+NL East Division;Philadelphia J's;;KNOBLAUCH, Chuck;2B+;'9;R;18;SS6
+NL East Division;Philadelphia J's;;WILLIAMS, Matt;3B;'5;R;8;
+NL East Division;Philadelphia J's;;ANDREWS, Shane;3B;'4;R;10;
+NL East Division;Philadelphia J's;;SPIERS, Billy;3B+;'4;L;14;1B3, 2B7, SS7
+NL East Division;Philadelphia J's;;RENTERIA, Edgar;SS;'9;R;16;
+NL East Division;Philadelphia J's;;DiSARCINA, Gary;SS;'8;R;14;
+NL East Division;Philadelphia J's;;MILLER, Orlando;SS+;'7;R;9;1B2, 3B3
+NL East Division;Philadelphia J's;;CARR, Chuck;OF;'3;B;19;
+NL East Division;Philadelphia J's;;CORDERO, Wil;OF+;'2;R;10;2B5
+NL East Division;Philadelphia J's;;BICHETTE, Dante;OF;'1;R;12;
+NL East Division;Philadelphia J's;;NEWFIELD, Marc;OF;'1;R;6;
+NL East Division;Philadelphia J's;;SHEFFIELD, Gary;OF;'1;R;15;
+NL East Division;Philadelphia J's;;ESTES, Shawn;L;'15;;XW;
+NL East Division;Philadelphia J's;;TAPANI, Kevin;R;'9;;Z;
+NL East Division;Philadelphia J's;;HERSHISER, Orel;R;'8;;;
+NL East Division;Philadelphia J's;;BALDWIN, James;R;'5;;Y;
+NL East Division;Philadelphia J's;;HUTTON, Mark;R;'5;;;
+NL East Division;Philadelphia J's;;GREEN, Tyler;R;'4;;YW;
+NL East Division;Philadelphia J's;;ALDRED, Scott;L;'1;;;
+NL East Division;Philadelphia J's;;COPPINGER, Rocky;R;'1;;XW;
+NL East Division;Philadelphia J's;;MYERS, Rodney;R;'1;;W;
+NL East Division;Philadelphia J's;;WOJCIECHOWSKI, Steve;L;'1;;Z;
+NL East Division;Philadelphia J's;;PATTERSON, Danny;R;'13;*;XZ;
+NL East Division;Philadelphia J's;;HARRIS, Pep;R;'12;*;Y;
+NL East Division;Philadelphia J's;;CARMONA, Rafael;R;'5;*;XY;
+NL East Division;Philadelphia J's;;ROJAS, Mel;R;'5;*;X;
+NL East Division;Philadelphia J's;;SCOTT, Tim;R;'1;*;Z;
+NL East Division;Seattle Sluggers;;ESTALELLA, Bobby;C;'6;R;6;
+NL East Division;Seattle Sluggers;;PRATT, Todd;C;'6;R;6;
+NL East Division;Seattle Sluggers;;GIAMBI, Jason;1B+;'2;L;6;OF1
+NL East Division;Seattle Sluggers;;WILLIAMS, Eddie;1B;'2;R;5;
+NL East Division;Seattle Sluggers;;ALFONZO, Edgardo;3B+;'5;R;13;2B7, SS7
+NL East Division;Seattle Sluggers;;BENJAMIN, Mike;3B+;'4;R;13;P1, 1B3, 2B6, SS7
+NL East Division;Seattle Sluggers;;CIRILLO, Jeff;3B;'4;R;11;
+NL East Division;Seattle Sluggers;;SHEAFFER, Danny;3B+;'3;R;6;C6, 2B5, OF1
+NL East Division;Seattle Sluggers;;GARCIAPARRA, Nomar;SS;'9;R;15;
+NL East Division;Seattle Sluggers;;VIZCAINO, Jose;SS+;'8;B;13;2B7
+NL East Division;Seattle Sluggers;;EDMONDS, Jim;OF+;'3;L;9;1B2
+NL East Division;Seattle Sluggers;;EVERETT, Carl;OF;'2;B;16;
+NL East Division;Seattle Sluggers;;JONES, Chris;OF;'2;R;15;
+NL East Division;Seattle Sluggers;;MOUTON, James;OF;'2;R;17;
+NL East Division;Seattle Sluggers;;HERNANDEZ, Livan;R;'10;;Y;
+NL East Division;Seattle Sluggers;;LEITER, Al;L;'7;;YW;
+NL East Division;Seattle Sluggers;;DARWIN, Danny;R;'6;;Z;
+NL East Division;Seattle Sluggers;;ANDERSON, Brian;L;'5;;Z;
+NL East Division;Seattle Sluggers;;OGEA, Chad;R;'5;;;
+NL East Division;Seattle Sluggers;;MAY, Darrell;L;'4;;Y;
+NL East Division;Seattle Sluggers;;WHITE, Gabe;L;'4;;Z;
+NL East Division;Seattle Sluggers;;JACOME, Jason;L;'2;;Z;
+NL East Division;Seattle Sluggers;;WOLCOTT, Bob;R;'2;;Z;
+NL East Division;Seattle Sluggers;;CLARK, Terry;R;'1;;;
+NL East Division;Seattle Sluggers;;ESHELMAN, Vaughn;L;'1;;Z;
+NL East Division;Seattle Sluggers;;HURTADO, Edwin;R;'1;;W;
+NL East Division;Seattle Sluggers;;BENITEZ, Armando;R;'18;*;XYW;
+NL East Division;Seattle Sluggers;;PLESAC, Dan;L;'12;*;XYZ;
+NL East Division;Seattle Sluggers;;GRAVES, Danny;R;'3;*;W;
+NL East Division;Seattle Sluggers;;MECIR, Jim;R;'2;*;YZ;
+NL East Division;Seattle Sluggers;;SMITH, Lee;R;'2;*;;
+NL East Division;Tardtown Twin Killers;;LEYRITZ, Jim;C+;'7;R;5;1B2
+NL East Division;Tardtown Twin Killers;;REED, Jeff;C;'7;L;3;
+NL East Division;Tardtown Twin Killers;;BAGWELL, Jeff;1B;'4;R;15;
+NL East Division;Tardtown Twin Killers;;STANLEY, Mike;1B+;'3;R;3;C7
+NL East Division;Tardtown Twin Killers;;BIGGIO, Craig;2B;'9;R;18;
+NL East Division;Tardtown Twin Killers;;LEDESMA, Aaron;2B+;'6;R;15;1B2, 3B3, SS6
+NL East Division;Tardtown Twin Killers;;SEFCIK, Kevin;2B+;'6;R;14;3B3, SS6
+NL East Division;Tardtown Twin Killers;;CAMINITI, Ken;3B;'5;B;8;
+NL East Division;Tardtown Twin Killers;;BOURNIGAL, Rafael;SS+;'8;R;15;2B7
+NL East Division;Tardtown Twin Killers;;BLAUSER, Jeff;SS;'7;R;9;
+NL East Division;Tardtown Twin Killers;;GILKEY, Bernard;OF;'2;R;15;
+NL East Division;Tardtown Twin Killers;;GONZALEZ, Juan;OF;'2;R;8;
+NL East Division;Tardtown Twin Killers;;GONZALEZ, Luis;OF+;'2;L;12;1B2
+NL East Division;Tardtown Twin Killers;;MACK, Shane;OF;'2;R;15;
+NL East Division;Tardtown Twin Killers;;O'NEILL, Paul;OF+;'2;L;10;1B2
+NL East Division;Tardtown Twin Killers;;DAVIS, Chili;OF;'1;B;5;
+NL East Division;Tardtown Twin Killers;;JOHNSON, Randy;L;'20;;XY;
+NL East Division;Tardtown Twin Killers;;BROWN, Kevin;R;'16;;XZ;
+NL East Division;Tardtown Twin Killers;;APPIER, Kevin;R;'13;;X;
+NL East Division;Tardtown Twin Killers;;REED, Rick;R;'13;;Z;
+NL East Division;Tardtown Twin Killers;;GARCIA, Ramon;R;'8;;Y;
+NL East Division;Tardtown Twin Killers;;McDONALD, Ben;R;'7;;YZ;
+NL East Division;Tardtown Twin Killers;;PERSON, Robert;R;'3;;Y;
+NL East Division;Tardtown Twin Killers;;PORTUGAL, Mark;R;'3;;;
+NL East Division;Tardtown Twin Killers;;ADAMS, Willie;R;'1;;W;
+NL East Division;Tardtown Twin Killers;;WETTELAND, John;R;'20;*;XZ;
+NL East Division;Tardtown Twin Killers;;OSUNA, Antonio;R;'18;*;XZ;
+NL East Division;Tardtown Twin Killers;;NELSON, Jeff;R;'15;*;X;
+NL East Division;Tardtown Twin Killers;;MONTGOMERY, Jeff;R;'12;*;YZ;
+NL East Division;Tardtown Twin Killers;;SULLIVAN, Scott;R;'12;*;XZ;
+NL East Division;Tardtown Twin Killers;;PATTERSON, Bob;L;'11;*;XZ;
+NL East Division;Tardtown Twin Killers;;MYERS, Mike;L;'3;*;X;
+NL East Division;Tardtown Twin Killers;;EISCHEN, Joey;L;'1;*;XW;
+NL East Division;Tardtown Twin Killers;;THOMAS, Larry;L;'1;*;W;
+NL East Division;Tucson Saguaros;;FLAHERTY, John;C;'8;R;4;
+NL East Division;Tucson Saguaros;;SERVAIS, Scott;C+;'8;R;3;1B2
+NL East Division;Tucson Saguaros;;SEGUI, David;1B;'4;B;6;
+NL East Division;Tucson Saguaros;;STEVENS, Lee;1B+;'3;L;9;OF1
+NL East Division;Tucson Saguaros;;JEFFERSON, Reggie;1B;'2;L;6;
+NL East Division;Tucson Saguaros;;ABBOTT, Kurt;2B+;'7;R;13;3B4, SS7, OF1
+NL East Division;Tucson Saguaros;;ALICEA, Luis;2B+;'7;B;13;3B3
+NL East Division;Tucson Saguaros;;PEREZ, Neifi;2B+;'7;B;15;3B4, SS8
+NL East Division;Tucson Saguaros;;DURHAM, Ray;2B;'6;B;18;
+NL East Division;Tucson Saguaros;;COOPER, Scott;3B+;'3;L;3;1B3
+NL East Division;Tucson Saguaros;;MAGADAN, Dave;3B+;'3;L;4;1B3
+NL East Division;Tucson Saguaros;;RANDA, Joe;3B+;'3;R;12;2B6
+NL East Division;Tucson Saguaros;;ORDONEZ, Rey;SS;'9;R;13;
+NL East Division;Tucson Saguaros;;AMARAL, Rich;OF+;'2;R;17;1B3, 2B6, 3B3, SS6
+NL East Division;Tucson Saguaros;;EISENREICH, Jim;OF+;'2;L;14;1B3
+NL East Division;Tucson Saguaros;;MABRY, John;OF+;'2;L;6;1B4, 3B3
+NL East Division;Tucson Saguaros;;BERROA, Geronimo;OF;'1;R;10;
+NL East Division;Tucson Saguaros;;DYE, Jermaine;OF;'1;R;12;
+NL East Division;Tucson Saguaros;;BLAIR, Willie;R;'9;;Z;
+NL East Division;Tucson Saguaros;;NAGY, Charles;R;'8;;YZ;
+NL East Division;Tucson Saguaros;;WILLIAMS, Woody;R;'7;;Y;
+NL East Division;Tucson Saguaros;;BOHANON, Brian;L;'6;;;
+NL East Division;Tucson Saguaros;;MERCKER, Kent;L;'6;;;
+NL East Division;Tucson Saguaros;;LIEBER, Jon;R;'5;;YZ;
+NL East Division;Tucson Saguaros;;ROBERTSON, Rich;L;'4;;;
+NL East Division;Tucson Saguaros;;REYES, Carlos;R;'2;;Z;
+NL East Division;Tucson Saguaros;;JARVIS, Kevin;R;'1;;;
+NL East Division;Tucson Saguaros;;SABERHAGEN, Bret;R;'1;;;
+NL East Division;Tucson Saguaros;;WALL, Donne;R;'1;;;
+NL East Division;Tucson Saguaros;;YAN, Esteban;R;'1;;W;
+NL East Division;Tucson Saguaros;;STANTON, Mike;L;'18;*;XW;
+NL East Division;Tucson Saguaros;;JACKSON, Mike;R;'14;*;X;
+NL East Division;Tucson Saguaros;;HEREDIA, Felix;L;'6;*;YW;
+NL West Division;Bubbaville Brewzers;;GIRARDI, Joe;C;'8;R;11;
+NL West Division;Bubbaville Brewzers;;LAMPKIN, Tom;C;'7;L;11;
+NL West Division;Bubbaville Brewzers;;STINNETT, Kelly;C;'7;R;12;
+NL West Division;Bubbaville Brewzers;;JOHNSON, Mark;1B;'3;L;8;
+NL West Division;Bubbaville Brewzers;;COUNSELL, Craig;2B;'8;L;10;
+NL West Division;Bubbaville Brewzers;;LEMKE, Mark;2B;'8;B;9;
+NL West Division;Bubbaville Brewzers;;BRANSON, Jeff;2B+;'7;L;7;3B4, SS7
+NL West Division;Bubbaville Brewzers;;GREBECK, Craig;2B+;'7;R;8;3B4, SS7, OF1
+NL West Division;Bubbaville Brewzers;;PENDLETON, Terry;3B;'4;B;9;
+NL West Division;Bubbaville Brewzers;;WEISS, Walt;SS;'9;B;12;
+NL West Division;Bubbaville Brewzers;;LEWIS, Darren;OF;'3;R;17;
+NL West Division;Bubbaville Brewzers;;MONDESI, Raul;OF;'3;R;18;
+NL West Division;Bubbaville Brewzers;;WILLIAMS, Gerald;OF;'3;R;18;
+NL West Division;Bubbaville Brewzers;;BRAGG, Darren;OF+;'2;L;15;3B3
+NL West Division;Bubbaville Brewzers;;CANGELOSI, John;OF;'2;B;15;P1
+NL West Division;Bubbaville Brewzers;;JAVIER, Stan;OF+;'2;B;17;1B2
+NL West Division;Bubbaville Brewzers;;JONES, Andruw;OF;'2;R;17;
+NL West Division;Bubbaville Brewzers;;SANDERS, Deion;OF;'2;L;19;
+NL West Division;Bubbaville Brewzers;;TUCKER, Michael;OF;'2;L;15;
+NL West Division;Bubbaville Brewzers;;HENRY, Butch;L;'10/11;*;Z;
+NL West Division;Bubbaville Brewzers;;HAMILTON, Joey;R;'7;;;
+NL West Division;Bubbaville Brewzers;;BAILEY, Roger;R;'6;;;
+NL West Division;Bubbaville Brewzers;;ELDRED, Cal;R;'6;;;
+NL West Division;Bubbaville Brewzers;;WITT, Bobby;R;'6;;;
+NL West Division;Bubbaville Brewzers;;REYNOSO, Armando;R;'5;;Z;
+NL West Division;Bubbaville Brewzers;;SAGER, A. J.;R;'5/8;*;YZ;
+NL West Division;Bubbaville Brewzers;;SCHMIDT, Jason;R;'5;;Y;
+NL West Division;Bubbaville Brewzers;;HAMMOND, Chris;L;'2;;Y;
+NL West Division;Bubbaville Brewzers;;LESKANIC, Curt;R;'2;*;X;
+NL West Division;Bubbaville Brewzers;;BORLAND, Toby;R;'1;*;W;
+NL West Division;Bubbaville Brewzers;;HONEYCUTT, Rick;L;'1;*;Y;
+NL West Division;Bubbaville Brewzers;;SERVICE, Scott;R;'1;*;XZ;
+NL West Division;Charm City Rookies;;MANWARING, Kirt;C;'8;R;8;
+NL West Division;Charm City Rookies;;PRINCE, Tom;C;'7;R;7;
+NL West Division;Charm City Rookies;;SWEENEY, Mike;C;'7;R;7;
+NL West Division;Charm City Rookies;;LAKER, Tim;C;'6;R;7;
+NL West Division;Charm City Rookies;;OSIK, Keith;C+;'6;R;8;1B2, 2B5, 3B3
+NL West Division;Charm City Rookies;;McGRIFF, Fred;1B;'3;L;6;
+NL West Division;Charm City Rookies;;SEITZER, Kevin;1B+;'3;R;5;3B3
+NL West Division;Charm City Rookies;;FERNANDEZ, Tony;2B+;'7;B;15;SS8
+NL West Division;Charm City Rookies;;NAEHRING, Tim;3B;'4;R;4;
+NL West Division;Charm City Rookies;;HOLLINS, Dave;3B+;'3;B;13;1B2
+NL West Division;Charm City Rookies;;PEREZ, Tomas;SS+;'7;B;15;2B7
+NL West Division;Charm City Rookies;;SALMON, Tim;OF;'3;R;12;
+NL West Division;Charm City Rookies;;LANKFORD, Ray;OF;'2;L;18;
+NL West Division;Charm City Rookies;;LOFTON, Kenny;OF;'2;L;17;
+NL West Division;Charm City Rookies;;RAINES, Tim;OF;'2;B;15;
+NL West Division;Charm City Rookies;;ROBERTS, Bip;OF+;'1;B;16;2B6, 3B3
+NL West Division;Charm City Rookies;;DICKSON, Jason;R;'7;;Z;
+NL West Division;Charm City Rookies;;JUDEN, Jeff;R;'7;;Y;
+NL West Division;Charm City Rookies;;PEREZ, Carlos;L;'7;;Z;
+NL West Division;Charm City Rookies;;NOMO, Hideo;R;'6;;X;
+NL West Division;Charm City Rookies;;RAPP, Pat;R;'5;;W;
+NL West Division;Charm City Rookies;;PETKOVSEK, Mark;R;'3;;Z;
+NL West Division;Charm City Rookies;;SANDERS, Scott;R;'3;;Y;
+NL West Division;Charm City Rookies;;GUBICZA, Mark;R;'1;;Y;
+NL West Division;Charm City Rookies;;QUANTRILL, Paul;R;'19;*;YZ;
+NL West Division;Charm City Rookies;;HERNANDEZ, Roberto;R;'17;*;X;
+NL West Division;Charm City Rookies;;TELFORD, Anthony;R;'12;*;Y;
+NL West Division;Charm City Rookies;;VERES, Dave;R;'11;*;Y;
+NL West Division;Charm City Rookies;;FOSSAS, Tony;L;'8;*;Y;
+NL West Division;Charm City Rookies;;BIELECKI, Mike;R;'6;*;XZ;
+NL West Division;Charm City Rookies;;HENRY, Doug;R;'5;*;XW;
+NL West Division;Charm City Rookies;;TORRES, Salomon;R;'1;*;W;
+NL West Division;Crown Hill Crabbers;;O'BRIEN, Charlie;C;'8;R;2;
+NL West Division;Crown Hill Crabbers;;ZAUN, Gregg;C+;'7;B;7;1B2
+NL West Division;Crown Hill Crabbers;;BROGNA, Rico;1B;'4;L;8;
+NL West Division;Crown Hill Crabbers;;KING, Jeff;1B;'4;R;10;
+NL West Division;Crown Hill Crabbers;;OLERUD, John;1B;'4;L;3;
+NL West Division;Crown Hill Crabbers;;COLBRUNN, Greg;1B;'3;R;7;
+NL West Division;Crown Hill Crabbers;;SANCHEZ, Rey;2B+;'8;R;12;3B4, SS8
+NL West Division;Crown Hill Crabbers;;DeSHIELDS, Delino;2B;'7;L;18;
+NL West Division;Crown Hill Crabbers;;SOJO, Luis;2B+;'7;R;9;1B3, 3B4, SS8
+NL West Division;Crown Hill Crabbers;;FRYMAN, Travis;3B;'5;R;10;
+NL West Division;Crown Hill Crabbers;;GUILLEN, Ozzie;SS;'8;L;12;
+NL West Division;Crown Hill Crabbers;;MARTINEZ, Dave;OF+;'2;L;12;1B3
+NL West Division;Crown Hill Crabbers;;SANDERS, Reggie;OF;'2;R;19;
+NL West Division;Crown Hill Crabbers;;STEWART, Shannon;OF;'2;R;16;
+NL West Division;Crown Hill Crabbers;;SURHOFF, B. J.;OF+;'2;L;10;1B2, 3B3
+NL West Division;Crown Hill Crabbers;;WALTON, Jerome;OF+;'2;R;13;1B2
+NL West Division;Crown Hill Crabbers;;WAKEFIELD, Tim;R;'7;;Y;
+NL West Division;Crown Hill Crabbers;;CASTILLO, Frank;R;'5;;;
+NL West Division;Crown Hill Crabbers;;HOLMES, Darren;R;'5;;Y;
+NL West Division;Crown Hill Crabbers;;WORRELL, Tim;R;'3;;Y;
+NL West Division;Crown Hill Crabbers;;WENGERT, Don;R;'2;;Z;
+NL West Division;Crown Hill Crabbers;;BONES, Ricky;R;'1;;Z;
+NL West Division;Crown Hill Crabbers;;FLENER, Huck;L;'1;;Z;
+NL West Division;Crown Hill Crabbers;;TIMLIN, Mike;R;'14;*;YZ;
+NL West Division;Crown Hill Crabbers;;BOTTALICO, Ricky;R;'13;*;XW;
+NL West Division;Crown Hill Crabbers;;MATHEWS, Terry;R;'8;*;W;
+NL West Division;Crown Hill Crabbers;;REED, Steve;R;'7;*;Y;
+NL West Division;Crown Hill Crabbers;;PLUNK, Eric;R;'5;*;X;
+NL West Division;Crown Hill Crabbers;;DESSENS, Elmer;R;'3;*;Z;
+NL West Division;Pasco Buffet;;ALOMAR, Sandy;C;'8;R;7;
+NL West Division;Pasco Buffet;;PARENT, Mark;C;'8;R;2;
+NL West Division;Pasco Buffet;;SORRENTO, Paul;1B;'4;L;5;
+NL West Division;Pasco Buffet;;DAULTON, Darren;1B+;'2;L;7;OF1
+NL West Division;Pasco Buffet;;GALLEGO, Mike;2B+;'8;R;10;3B4, SS7
+NL West Division;Pasco Buffet;;REED, Jody;2B;'7;R;7;
+NL West Division;Pasco Buffet;;ZEILE, Todd;3B+;'3;R;6;1B2
+NL West Division;Pasco Buffet;;BELL, Jay;SS+;'9;R;13;3B4
+NL West Division;Pasco Buffet;;BELLIARD, Rafael;SS+;'9;R;13;2B8
+NL West Division;Pasco Buffet;;BONDS, Barry;OF;'3;L;18;
+NL West Division;Pasco Buffet;;BENARD, Marvin;OF;'2;L;17;
+NL West Division;Pasco Buffet;;McCRACKEN, Quinton;OF;'2;B;16;
+NL West Division;Pasco Buffet;;NIXON, Otis;OF;'2;B;19;
+NL West Division;Pasco Buffet;;STYNES, Chris;OF+;'2;R;15;2B7, 3B3
+NL West Division;Pasco Buffet;;GUERRERO, Vladimir;OF;'1;R;14;
+NL West Division;Pasco Buffet;;CLEMENS, Roger;R;'20;;XYZ;
+NL West Division;Pasco Buffet;;SMOLTZ, John;R;'14;;XZ;
+NL West Division;Pasco Buffet;;KEY, Jimmy;L;'13;;Y;
+NL West Division;Pasco Buffet;;DRABEK, Doug;R;'5;;;
+NL West Division;Pasco Buffet;;FERNANDEZ, Osvaldo;R;'3;;Z;
+NL West Division;Pasco Buffet;;JONES, Doug;R;'19;*;XZ;
+NL West Division;Pasco Buffet;;BOEHRINGER, Brian;R;'15;*;XW;
+NL West Division;Pasco Buffet;;McMICHAEL, Greg;R;'13;*;XZ;
+NL West Division;Pasco Buffet;;McELROY, Chuck;L;'11;*;YZ;
+NL West Division;Pasco Buffet;;SIMAS, Bill;R;'9;*;YW;
+NL West Division;Pasco Buffet;;CARRASCO, Hector;R;'6;*;Y;
+NL West Division;Pasco Buffet;;SPRADLIN, Jerry;R;'4;*;YZ;
+NL West Division;Pasco Buffet;;WITASICK, Jay;R;'2;*;YW;
+NL West Division;Pasco Buffet;;HANSELL, Greg;R;'1;*;XZ;

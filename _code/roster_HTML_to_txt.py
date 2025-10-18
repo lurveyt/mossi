@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 # files provided by Rich
 # TODO: get 'year' out of the code
-year = '2001'
+year = '2002'
 print(f"Building '{year} rosters...")
 
 roster_path = os.path.join(os.getcwd(), r"mossi_data\rosters")
@@ -106,8 +106,8 @@ for filex in files:
 
 
 # write data to files
-# file_writer(wfile=f"roster_{year}_pitchers.txt", d=d_pitch)
-# file_writer(wfile=f"roster_{year}_players.txt", d=d_pos)
+file_writer(wfile=f"roster_{year}_pitchers.txt", d=d_pitch)
+file_writer(wfile=f"roster_{year}_players.txt", d=d_pos)
 
 # combine to single file
 d_all = {}
