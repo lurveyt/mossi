@@ -84,9 +84,11 @@ def pitcher_grade(path: str) -> pd.DataFrame:
         for f in files:
             if 'pitch' in f.lower() and f.endswith('txt'):
                 log.debug(f"Reading: {f}")
-                yr = int(f.split('_')[1])
+                year = int(f.split('_')[1])
+                if year < 1000:
+                    year += 1900
                 dtypes = {}
-                if yr >= 77:
+                if year >= 1977:
                     dtypes.update({'division': 'string'})
                 [dtypes.update({k: v}) for k, v in dftypes.items()]
                 # read the raw data
@@ -112,7 +114,7 @@ def pitcher_grade(path: str) -> pd.DataFrame:
                 for k in df.columns:
                     df[k] = df[k].astype(dftypes[k])
                 # add year column
-                df.insert(loc=1, column='year', value=1900+yr)
+                df.insert(loc=1, column='year', value=year)
                 # add to master dataframe
                 main_df = pd.concat([main_df, df], ignore_index=True)
 
@@ -271,7 +273,7 @@ def grade_id() -> pd.DataFrame:
     :rtype: pd.DataFrame
     """
     grade_df = pitcher_grade(path=os.path.join(fs, "mossi_data"))
-    name_df = pitcher_names(csv=os.path.join(fs, "mossixls", "NAME_LOOKUP.csv"))
+    name_df = pitcher_names(csv=os.path.join(fs, "mossixls", "DRAFT_NAME_LOOKUP.csv"))
 
     grade_id_df = grade_df.merge(
         name_df,
@@ -281,14 +283,15 @@ def grade_id() -> pd.DataFrame:
         # indicator=True,
     )
 
-    grade_id_df.drop(
-        columns=[
-            'testid',
-            'spaces',
-            'name_FL',
-        ],
-        inplace=True
-    )
+    drop_cols = [
+        'Link',
+        'spaces',
+        'name_FL',
+    ]
+    drop_cols.extend([n for n in grade_id_df.columns if 'unnamed' in n.lower()])
+    for column in drop_cols:
+        log.debug(f"Dropping {column} from combined data.")
+        grade_id_df.drop(columns=column, inplace=True,)
 
     return grade_id_df
 
